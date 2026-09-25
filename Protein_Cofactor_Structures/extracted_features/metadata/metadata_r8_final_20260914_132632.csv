@@ -1,0 +1,3 @@
+,structure_id,cofactor_id,cofactor_type,burial_depth,radius
+0,ACNA_ECOLI_Target_w_Cofactor,ACNA_ECOLI_Target_w_Cofactor_SF4,SF4,23.69196319580078,8
+1,FER_ECOLI_PEC_w_cofactor,FER_ECOLI_PEC_w_cofactor_FES,FES,5.710306167602539,8
