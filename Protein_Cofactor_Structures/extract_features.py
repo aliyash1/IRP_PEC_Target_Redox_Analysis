@@ -35,7 +35,7 @@ from utils import (
 )
 
 # --- CONFIGURATION ---
-
+gi
 PDB_DIR = "alphafill_pdb"
 OUTPUT_PATH = "extracted_features"
 TABLE_AMM_PATH = "data/tableAmm.txt"
