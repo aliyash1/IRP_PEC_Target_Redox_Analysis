@@ -1,0 +1,552 @@
+[
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P0A9R4",
+    "uniProtkbId": "FER_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "2Fe-2S ferredoxin"
+        }
+      }
+    },
+    "comments": [
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "[2Fe-2S] cluster",
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:190135"
+            }
+          }
+        ],
+        "note": {
+          "texts": [
+            {
+              "value": "Binds 1 [2Fe-2S] cluster."
+            }
+          ]
+        }
+      }
+    ],
+    "sequence": {
+      "value": "MPKIVILPHQDLCPDGAVLEANSGETILDAALRNGIEIEHACEKSCACTTCHCIVREGFDSLPESSEQEDDMLDKAWGLEPESRLSCQARVTDEDLVVEIPRYTINHAREH",
+      "length": 111,
+      "molWeight": 12331,
+      "crc64": "F7B3240F950DC0E0",
+      "md5": "65886732974B5F7A601190682A3B3EF5"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI0000113122"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "Q46877",
+    "uniProtkbId": "NORV_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Anaerobic nitric oxide reductase flavorubredoxin"
+        },
+        "shortNames": [
+          {
+            "value": "FlRd"
+          },
+          {
+            "value": "FlavoRb"
+          }
+        ]
+      }
+    },
+    "comments": [
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "Fe cation",
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:24875"
+            }
+          }
+        ],
+        "note": {
+          "texts": [
+            {
+              "value": "Binds 3 Fe cations per monomer."
+            }
+          ]
+        }
+      },
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "FMN",
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:58210"
+            }
+          }
+        ],
+        "note": {
+          "texts": [
+            {
+              "value": "Binds 1 FMN per monomer."
+            }
+          ]
+        }
+      }
+    ],
+    "sequence": {
+      "value": "MSIVVKNNIHWVGQRDWEVRDFHGTEYKTLRGSSYNSYLIREEKNVLIDTVDHKFSREFVQNLRNEIDLADIDYIVINHAEEDHAGALTELMAQIPDTPIYCTANAIDSINGHHHHPEWNFNVVKTGDTLDIGNGKQLIFVETPMLHWPDSMMTYLTGDAVLFSNDAFGQHYCDEHLFNDEVDQTELFEQCQRYYANILTPFSRLVTPKITEILGFNLPVDMIATSHGVVWRDNPTQIVELYLKWAADYQEDRITIFYDTMSNNTRMMADAIAQGIAETDPRVAVKIFNVARSDKNEILTNVFRSKGVLVGTSTMNNVMMPKIAGLVEEMTGLRFRNKRASAFGSHGWSGGAVDRLSTRLQDAGFEMSLSLKAKWRPDQDALKLCREHGREIARQWALAPLPQSTVNTVVKEETSATTTADLGPRMQCSVCQWIYDPAKGEPMQDVAPGTPWSEVPDNFLCPECSLGKDVFEELASEAK",
+      "length": 479,
+      "molWeight": 54234,
+      "crc64": "17AC889A6924AB41",
+      "md5": "4CAEE55307F8AA673DFBE7DCF406A68C"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI000013038F"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P75824",
+    "uniProtkbId": "HCR_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "NADH oxidoreductase HCR"
+        },
+        "ecNumbers": [
+          {
+            "value": "1.-.-.-"
+          }
+        ]
+      }
+    },
+    "comments": [
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "[2Fe-2S] cluster",
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:190135"
+            }
+          }
+        ],
+        "note": {
+          "texts": [
+            {
+              "value": "Binds 1 [2Fe-2S] cluster."
+            }
+          ]
+        }
+      },
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "FAD",
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:57692"
+            }
+          }
+        ]
+      }
+    ],
+    "sequence": {
+      "value": "MTMPTNQCPWRMQVHHITQETPDVWTISLICHDYYPYRAGQYALVSVRNSAETLRAYTISSTPGVSEYITLTVRRIDDGVGSQWLTRDVKRGDYLWLSDAMGEFTCDDKAEDKFLLLAAGCGVTPIMSMRRWLAKNRPQADVRVIYNVRTPQDVIFADEWRNYPVTLVAENNVTEGFIAGRLTRELLAGVPDLASRTVMTCGPAPYMDWVEQEVKALGVTRFFKEKFFTPVAEAATSGLKFTKLQPAREFYAPVGTTLLEALESNNVPVVAACRAGVCGCCKTKVVSGEYTVSSTMTLTDAEIAEGYVLACSCHPQGDLVLA",
+      "length": 322,
+      "molWeight": 35740,
+      "crc64": "5138026DCBBD6A9C",
+      "md5": "37C1B625531BD8753073F23ACDB6B836"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI000012C36F"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P0AAK7",
+    "uniProtkbId": "NRFC_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Protein NrfC"
+        }
+      },
+      "flag": "Precursor"
+    },
+    "comments": [],
+    "sequence": {
+      "value": "MTWSRRQFLTGVGVLAAVSGTAGRVVAKTLNINGVRYGMVHDESLCIGCTACMDACREVNKVPEGVSRLTIIRSEPQGEFPDVKYRFFRKSCQHCDHAPCVDVCPTGASFRDAASGIVDVNPDLCVGCQYCIAACPYRVRFIHPVTKTADKCDFCRKTNLQAGKLPACVEACPTKALTFGNLDDPNSEISQLLRQKPTYRYKLALGTKPKLYRVPFKYGEVSQ",
+      "length": 223,
+      "molWeight": 24567,
+      "crc64": "676C3264D341FC8E",
+      "md5": "A06991B1DD66DC90411C3B5C494DD250"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI00001304F5"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P0ABW3",
+    "uniProtkbId": "YFAE_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Uncharacterized ferredoxin-like protein YfaE"
+        }
+      }
+    },
+    "comments": [
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "[2Fe-2S] cluster",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000305"
+              }
+            ],
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:190135"
+            }
+          }
+        ],
+        "note": {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000305"
+                }
+              ],
+              "value": "Binds 1 [2Fe-2S] cluster."
+            }
+          ]
+        }
+      }
+    ],
+    "sequence": {
+      "value": "MARVTLRITGTQLLCQDEHPSLLAALESHNVAVEYQCREGYCGSCRTRLVAGQVDWIAEPLAFIQPGEILPCCCRAKGDIEIEM",
+      "length": 84,
+      "molWeight": 9293,
+      "crc64": "83DE6DFB1E9E1D7A",
+      "md5": "953A383E057175BF1BC9183454C0F221"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI00000480D7"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P0AE56",
+    "uniProtkbId": "BFD_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Bacterioferritin-associated ferredoxin"
+        },
+        "shortNames": [
+          {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "8639572"
+              }
+            ],
+            "value": "Bfd"
+          }
+        ]
+      }
+    },
+    "comments": [
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "[2Fe-2S] cluster",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "8639572"
+              },
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "8954950"
+              }
+            ],
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:190135"
+            }
+          }
+        ],
+        "note": {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8639572"
+                },
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8954950"
+                }
+              ],
+              "value": "Binds 1 [2Fe-2S] cluster."
+            }
+          ]
+        }
+      }
+    ],
+    "sequence": {
+      "value": "MYVCLCNGISDKKIRQAVRQFSPHSFQQLKKFIPVGNQCGKCVRAAREVMEDELMQLPEFKESA",
+      "length": 64,
+      "molWeight": 7363,
+      "crc64": "38D645EB15F7DE9E",
+      "md5": "F7EEDF512DCD2ECEF19D0652FBAFD476"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI00001268AC"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P52102",
+    "uniProtkbId": "YFHL_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ],
+          "value": "Ferredoxin YfhL"
+        }
+      },
+      "alternativeNames": [
+        {
+          "fullName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000303",
+                "source": "PubMed",
+                "id": "19290553"
+              }
+            ],
+            "value": "EcFd"
+          }
+        }
+      ]
+    },
+    "comments": [
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "[4Fe-4S] cluster",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "19290553"
+              }
+            ],
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:49883"
+            }
+          }
+        ],
+        "note": {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "19290553"
+                }
+              ],
+              "value": "Binds 2 [4Fe-4S] cluster."
+            }
+          ]
+        }
+      }
+    ],
+    "sequence": {
+      "value": "MALLITKKCINCDMCEPECPNEAISMGDHIYEINSDKCTECVGHYETPTCQKVCPIPNTIVKDPAHVETEEQLWDKFVLMHHADKI",
+      "length": 86,
+      "molWeight": 9791,
+      "crc64": "202CFFA35FEA15DD",
+      "md5": "AAFD6E66713FCF0B109289F673D6F7C6"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI0000047C6D"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P0AAK4",
+    "uniProtkbId": "HYDN_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Electron transport protein HydN"
+        }
+      }
+    },
+    "comments": [
+      {
+        "commentType": "COFACTOR",
+        "cofactors": [
+          {
+            "name": "[4Fe-4S] cluster",
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000250"
+              }
+            ],
+            "cofactorCrossReference": {
+              "database": "ChEBI",
+              "id": "CHEBI:49883"
+            }
+          }
+        ],
+        "note": {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250"
+                }
+              ],
+              "value": "Binds 4 [4Fe-4S] clusters."
+            }
+          ]
+        }
+      }
+    ],
+    "sequence": {
+      "value": "MNRFIIADASKCIGCRTCEVACVVSHQENQDCASLTPETFLPRIHVIKGVNISTATVCRQCEDAPCANVCPNGAISRDKGFVHVMQERCIGCKTCVVACPYGAMEVVVRPVIRNSGAGLNVRADKAEANKCDLCNHREDGPACMAACPTHALICVDRNKLEQLSAEKRRRTALMF",
+      "length": 175,
+      "molWeight": 19026,
+      "crc64": "CB2A1C52BF6A558E",
+      "md5": "CC70F09FE5AF29105781FD3A8A15181B"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI000012CFF0"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P52636",
+    "uniProtkbId": "YCCM_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Putative electron transport protein YccM"
+        }
+      }
+    },
+    "comments": [],
+    "sequence": {
+      "value": "MAENKRTRWQRRPGTTGGKLPWNDWRNATTWRKATQLLLLAMNIYIAITFWYWVRYYETASSTTFVARPGGIEGWLPIAGLMNLKYSLVTGQLPSVHAAAMLLLVAFIVISLLLKKAFCSWLCPVGTLSELIGDLGNKLFGRQCVLPRWLDIPLRGVKYLLLSFFIYIALLMPAQAIHYFMLSPYSVVMDVKMLDFFRHMGTATLISVTVLLIASLFIRHAWCRYLCPYGALMGVVSLLSPFKIRRNAESCIDCGKCAKNCPSRIPVDKLIQVRTVECTGCMTCVESCPVASTLTFSLQKPAANKKAFALSGWLMTLLVLGIMFAVIGYAMYAGVWQSPVPEELYRRLIPQAPMIGH",
+      "length": 357,
+      "molWeight": 40097,
+      "crc64": "074076F1DBBAF727",
+      "md5": "1FB31875F5ECECCBF19D89E4988BD073"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI000013A5C6"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P56256",
+    "uniProtkbId": "YSAA_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Putative electron transport protein YsaA"
+        }
+      }
+    },
+    "comments": null,
+    "sequence": {
+      "value": "MNRFIIADATKCIGCRTCEVACAVSHHENQDCAALSPDEFISRIRVIKDHCWTTAVACHQCEDAPCANVCPVDAISREHGHIFVEQTRCIGCKSCMLACPFGAMEVVSSRKKARAIKCDLCWHRETGPACVEACPTKALQCMDVEKVQRHRLRQQPV",
+      "length": 157,
+      "molWeight": 17459,
+      "crc64": "C0EFED5ECC376BC7",
+      "md5": "B21A15F1751161E95D1823853B8CE530"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI000013C08C"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "P77536",
+    "uniProtkbId": "YKGF_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Uncharacterized electron transport protein YkgF"
+        }
+      }
+    },
+    "comments": [],
+    "sequence": {
+      "value": "MSIKTSNTDFKTRIRQQIEDPIMRKAVANAQQRIGANRQKMVDELGHWEEWRDRAAQIRDHVLSNLDAYLYQLSEKVTQNGGHVYFARTKEDATRYILQVAQRKNARKVVKSKSMVTEEIGVNHVLQDAGIQVIETDLGEYILQLDQDPPSHVVVPAIHKDRHQIRRVLHERLGYEGPETPEAMTLFIRQKIREDFLSAEIGITGCNFAVAETGSVCLVTNEGNARMCTTLPKTHIAVMGMERIAPTFAEVDVLITMLARSAVGARLTGYNTWLTGPREAGHVDGPEEFHLVIVDNGRSEVLASEFRDVLRCIRCGACMNTCPAYRHIGGHGYGSIYPGPIGAVISPLLGGYKDFKDLPYACSLCTACDNVCPVRIPLSKLILRHRRVMAEKGITAKAEQRAIKMFAYANSHPGLWKVGMMAGAHAASWFINGGKTPLKFGAISDWMEARDLPEADGESFRSWFKKHQAQEKKNG",
+      "length": 475,
+      "molWeight": 53052,
+      "crc64": "6B2429D387336F72",
+      "md5": "67EC7930C2D984A92D1D51DFC63193D3"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI000013B6EB"
+    }
+  },
+  {
+    "entryType": "UniProtKB reviewed (Swiss-Prot)",
+    "primaryAccession": "Q46819",
+    "uniProtkbId": "YGFS_ECOLI",
+    "proteinDescription": {
+      "recommendedName": {
+        "fullName": {
+          "value": "Putative electron transport protein YgfS"
+        }
+      }
+    },
+    "comments": [],
+    "sequence": {
+      "value": "MKSLIIVNPADCIGCRTCEVACVVAHPSEQELNADVFLPRLKVQRLDSISAPVMCHQCENAPCVGACPVGALTMGEQVVQTNSARCIGCQSCVSACPFGMITIQSLPGDTRQQIVKCDLCEQREEGPACVESCPTQALQLLTERELRRVRQQRIVASGENPL",
+      "length": 162,
+      "molWeight": 17513,
+      "crc64": "22F20225873708A0",
+      "md5": "5ADC6FCF1733482F402D80C2551253F9"
+    },
+    "extraAttributes": {
+      "uniParcId": "UPI000013B082"
+    }
+  }
+]

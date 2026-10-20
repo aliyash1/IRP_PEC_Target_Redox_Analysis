@@ -1,0 +1,2396 @@
+[
+    {
+        "protein": "FER_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    42,
+                    48,
+                    51,
+                    87
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NORV_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    79,
+                    81,
+                    147,
+                    166
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 2,
+                "residues": [
+                    83,
+                    166,
+                    227
+                ]
+            },
+            {
+                "name": "FMN",
+                "label": 1,
+                "residues": [
+                    260,
+                    342
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 3,
+                "residues": [
+                    428,
+                    431,
+                    461,
+                    464
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "HCR_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    273,
+                    278,
+                    281,
+                    311
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NRFC_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    46,
+                    49,
+                    52,
+                    172
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    56,
+                    152,
+                    155,
+                    168
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    92,
+                    95,
+                    100,
+                    135
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 4,
+                "residues": [
+                    104,
+                    125,
+                    128,
+                    131
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YFAE_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    37,
+                    42,
+                    45,
+                    74
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "BFD_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    4,
+                    6,
+                    39,
+                    42
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YFHL_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    9,
+                    12,
+                    15,
+                    54
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    19,
+                    38,
+                    41,
+                    50
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "HYDN_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    12,
+                    15,
+                    18,
+                    147
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    22,
+                    131,
+                    134,
+                    143
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    58,
+                    61,
+                    66,
+                    99
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 4,
+                "residues": [
+                    70,
+                    89,
+                    92,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YCCM_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    251,
+                    254,
+                    257,
+                    288
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    261,
+                    278,
+                    281,
+                    284
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YSAA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    12,
+                    15,
+                    18,
+                    134
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    22,
+                    118,
+                    121,
+                    130
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    58,
+                    61,
+                    66,
+                    99
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 4,
+                "residues": [
+                    70,
+                    89,
+                    92,
+                    95
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YKGF_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    312,
+                    315,
+                    318,
+                    372
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    322,
+                    362,
+                    365,
+                    368
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YGFS_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    12,
+                    15,
+                    18,
+                    133
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    22,
+                    117,
+                    120,
+                    129
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    55,
+                    58,
+                    63,
+                    96
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 4,
+                "residues": [
+                    67,
+                    86,
+                    89,
+                    92
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ALKB_ECOLI",
+        "cofactors": [
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    69,
+                    76,
+                    135,
+                    161
+                ]
+            },
+            {
+                "name": "2-oxoglutarate",
+                "label": 1,
+                "residues": [
+                    120,
+                    204
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    131,
+                    133,
+                    187
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ILVD_ECOLI",
+        "cofactors": [
+            {
+                "name": "Mg(2+)",
+                "label": 1,
+                "residues": [
+                    81,
+                    123,
+                    124,
+                    491
+                ]
+            },
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    122,
+                    195
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "TSAD_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    111,
+                    115,
+                    300
+                ]
+            },
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    134,
+                    167,
+                    180,
+                    272
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ISCS_ECOLI",
+        "cofactors": [
+            {
+                "name": "pyridoxal 5'-phosphate",
+                "label": 1,
+                "residues": [
+                    75,
+                    155,
+                    183,
+                    203,
+                    243
+                ]
+            },
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    328
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "DEF_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    91,
+                    133,
+                    137
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "FNR_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    20,
+                    23,
+                    29,
+                    122
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "PFLA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    30,
+                    34,
+                    37
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    36,
+                    79,
+                    130,
+                    203
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ADHE_ECOLI",
+        "cofactors": [
+            {
+                "name": "NAD(+)",
+                "label": 1,
+                "residues": [
+                    110,
+                    195,
+                    213,
+                    335,
+                    419
+                ]
+            },
+            {
+                "name": "NAD(+)",
+                "label": 2,
+                "residues": [
+                    487,
+                    519,
+                    546,
+                    610,
+                    619
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    653,
+                    657,
+                    723,
+                    737
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "FUCO_ECOLI",
+        "cofactors": [
+            {
+                "name": "NAD(+)",
+                "label": 1,
+                "residues": [
+                    38,
+                    70,
+                    97,
+                    139,
+                    148,
+                    161,
+                    180,
+                    276,
+                    341
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    195,
+                    199,
+                    262,
+                    276
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ISCA_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    35,
+                    99,
+                    101
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "END3_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    187,
+                    194,
+                    197,
+                    203
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "BFR_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    18,
+                    51,
+                    54,
+                    127
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 3,
+                "residues": [
+                    46,
+                    50
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 2,
+                "residues": [
+                    51,
+                    94,
+                    127,
+                    130
+                ]
+            },
+            {
+                "name": "heme b",
+                "label": 1,
+                "residues": [
+                    52
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "FUMA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    105,
+                    224,
+                    318
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ERPA_ECOLI",
+        "cofactors": [
+            {
+                "name": "iron-sulfur cluster",
+                "label": 1,
+                "residues": [
+                    42,
+                    106,
+                    108
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "MIAB_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    12,
+                    49,
+                    83
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    157,
+                    161,
+                    164
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "SODF_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    27,
+                    74,
+                    157,
+                    161
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ISCR_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    92,
+                    98,
+                    104
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NADA_ECOLI",
+        "cofactors": [
+            {
+                "name": "iminosuccinate",
+                "label": 1,
+                "residues": [
+                    47,
+                    68,
+                    139,
+                    156,
+                    226,
+                    243
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    113,
+                    200,
+                    297
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "BIOB_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    53,
+                    57,
+                    60
+                ]
+            },
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    97,
+                    128,
+                    188,
+                    260
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "FUMB_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    105,
+                    224,
+                    318
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "DMSA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    63,
+                    67,
+                    71,
+                    104
+                ]
+            },
+            {
+                "name": "Mo-bis(molybdopterin guanine dinucleotide)",
+                "label": 1,
+                "residues": [
+                    172,
+                    205,
+                    244,
+                    270,
+                    291,
+                    386,
+                    390,
+                    488,
+                    512,
+                    701,
+                    707,
+                    788,
+                    804
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NARY_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    16,
+                    19,
+                    22,
+                    262
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    26,
+                    243,
+                    246,
+                    258
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    183,
+                    186,
+                    191,
+                    226
+                ]
+            },
+            {
+                "name": "[3Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    195,
+                    216,
+                    222
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NARZ_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    50,
+                    54,
+                    58,
+                    93
+                ]
+            },
+            {
+                "name": "Mo-bis(molybdopterin guanine dinucleotide)",
+                "label": 1,
+                "residues": [
+                    223
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "HYPD_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    41,
+                    69,
+                    72
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ACNA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    435,
+                    501,
+                    504
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "CODA_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe(2+)",
+                "label": 1,
+                "residues": [
+                    62,
+                    64,
+                    215,
+                    314
+                ]
+            },
+            {
+                "name": "Zn(2+)",
+                "label": 1,
+                "residues": [
+                    62,
+                    64,
+                    215,
+                    314
+                ]
+            },
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    157,
+                    320
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "DING_ECOLI",
+        "cofactors": [
+            {
+                "name": "ATP",
+                "label": 1,
+                "residues": [
+                    26,
+                    31,
+                    60,
+                    61,
+                    599,
+                    656,
+                    659
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    120,
+                    194,
+                    199,
+                    205
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ROXA_ECOLI",
+        "cofactors": [
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    114,
+                    125,
+                    140,
+                    187
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    125,
+                    127,
+                    187
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "THIH_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    85,
+                    89,
+                    92
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "MOAA_ECOLI",
+        "cofactors": [
+            {
+                "name": "GTP",
+                "label": 1,
+                "residues": [
+                    17,
+                    68,
+                    99,
+                    160,
+                    262
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    24,
+                    28,
+                    31
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    30,
+                    72,
+                    123,
+                    194
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    257,
+                    260,
+                    274
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "HEMN_ECOLI",
+        "cofactors": [
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    56,
+                    112,
+                    145,
+                    329
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    62,
+                    66,
+                    69
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 2,
+                "residues": [
+                    68,
+                    113,
+                    172,
+                    184,
+                    209,
+                    243
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NAPA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    46,
+                    49,
+                    53,
+                    81
+                ]
+            },
+            {
+                "name": "Mo-bis(molybdopterin guanine dinucleotide)",
+                "label": 1,
+                "residues": [
+                    83,
+                    150,
+                    175,
+                    179,
+                    212,
+                    243,
+                    262,
+                    372,
+                    376,
+                    482,
+                    508,
+                    531,
+                    558,
+                    718,
+                    802,
+                    819
+                ]
+            },
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    794
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ACNB_ECOLI",
+        "cofactors": [
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    191,
+                    244,
+                    414,
+                    498,
+                    791,
+                    796
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    710,
+                    769,
+                    772
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "TAUD_ECOLI",
+        "cofactors": [
+            {
+                "name": "taurine",
+                "label": 1,
+                "residues": [
+                    70,
+                    73,
+                    95,
+                    102,
+                    270
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    99,
+                    101,
+                    255
+                ]
+            },
+            {
+                "name": "2-oxoglutarate",
+                "label": 1,
+                "residues": [
+                    126,
+                    255,
+                    266,
+                    270
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "FHUF_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    244,
+                    245,
+                    256,
+                    259
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "FADH_ECOLI",
+        "cofactors": [
+            {
+                "name": "FMN",
+                "label": 1,
+                "residues": [
+                    25,
+                    59,
+                    101,
+                    215,
+                    289,
+                    311
+                ]
+            },
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    176,
+                    253,
+                    567,
+                    578
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    335,
+                    338,
+                    342,
+                    354
+                ]
+            },
+            {
+                "name": "FAD",
+                "label": 1,
+                "residues": [
+                    340,
+                    385,
+                    404,
+                    412,
+                    422,
+                    449,
+                    649,
+                    656
+                ]
+            },
+            {
+                "name": "NADP(+)",
+                "label": 1,
+                "residues": [
+                    340,
+                    563,
+                    654
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "LIPA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    68,
+                    73,
+                    79,
+                    308
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    94,
+                    98,
+                    101
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ISPG_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    270,
+                    273,
+                    305,
+                    312
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ISPH_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    12,
+                    96,
+                    197
+                ]
+            },
+            {
+                "name": "(2E)-4-hydroxy-3-methylbut-2-enyl diphosphate",
+                "label": 1,
+                "residues": [
+                    41,
+                    74,
+                    124,
+                    167,
+                    225,
+                    226,
+                    227,
+                    269
+                ]
+            },
+            {
+                "name": "dimethylallyl diphosphate",
+                "label": 1,
+                "residues": [
+                    41,
+                    74,
+                    124,
+                    225,
+                    226,
+                    227,
+                    269
+                ]
+            },
+            {
+                "name": "isopentenyl diphosphate",
+                "label": 1,
+                "residues": [
+                    41,
+                    74,
+                    124,
+                    225,
+                    226,
+                    227,
+                    269
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NFUA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    149,
+                    152
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "HCP_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    3,
+                    6,
+                    18,
+                    25
+                ]
+            },
+            {
+                "name": "hybrid [4Fe-2O-2S] cluster",
+                "label": 1,
+                "residues": [
+                    249,
+                    273,
+                    317,
+                    405,
+                    433,
+                    458,
+                    492,
+                    494
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YCBX_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    323,
+                    328,
+                    331,
+                    357
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "TTCA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    122,
+                    125,
+                    213
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YOAA_ECOLI",
+        "cofactors": [
+            {
+                "name": "ATP",
+                "label": 1,
+                "residues": [
+                    45
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    108,
+                    168,
+                    173,
+                    179
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "GLAH_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    160,
+                    162,
+                    292
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "D2HDH_ECOLI",
+        "cofactors": [
+            {
+                "name": "(R)-2-hydroxyglutarate",
+                "label": 1,
+                "residues": [
+                    402,
+                    500
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    673,
+                    676,
+                    679,
+                    683
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "HYBA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    47,
+                    50,
+                    53,
+                    197
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    57,
+                    174,
+                    177,
+                    193
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    112,
+                    115,
+                    120,
+                    155
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 4,
+                "residues": [
+                    124,
+                    145,
+                    148,
+                    151
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NAPF_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    37,
+                    40,
+                    43,
+                    47
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    69,
+                    72,
+                    75,
+                    79
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    141,
+                    144,
+                    147,
+                    151
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "EDD_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    154,
+                    221
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "RIMO_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    17,
+                    53,
+                    82
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    150,
+                    154,
+                    157
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "MUTY_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    192,
+                    199,
+                    202,
+                    208
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "THIC_ECOLI",
+        "cofactors": [
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    239,
+                    268,
+                    297,
+                    333,
+                    353,
+                    394,
+                    433,
+                    460
+                ]
+            },
+            {
+                "name": "Zn(2+)",
+                "label": 1,
+                "residues": [
+                    437,
+                    501
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    581,
+                    584,
+                    589
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "EPMB_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    120,
+                    124,
+                    127
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "QUEG_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    193,
+                    196,
+                    199,
+                    253
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    203,
+                    219,
+                    246,
+                    249
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "LUXS_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    54,
+                    58,
+                    128
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "HEMW_ECOLI",
+        "cofactors": [
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    10,
+                    66,
+                    99
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    16,
+                    20,
+                    23
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 2,
+                "residues": [
+                    67,
+                    126,
+                    138,
+                    163
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "QUEE_ECOLI",
+        "cofactors": [
+            {
+                "name": "substrate",
+                "label": 1,
+                "residues": [
+                    12,
+                    27,
+                    92
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    31,
+                    35,
+                    38
+                ]
+            },
+            {
+                "name": "Mg(2+)",
+                "label": 1,
+                "residues": [
+                    40
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    94,
+                    136
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YDHV_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    307,
+                    310,
+                    314,
+                    558
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "EUTG_ECOLI",
+        "cofactors": [
+            {
+                "name": "NAD(+)",
+                "label": 1,
+                "residues": [
+                    57,
+                    116,
+                    156,
+                    178,
+                    197,
+                    295,
+                    354
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    212,
+                    216,
+                    281,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YNFE_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    56,
+                    60,
+                    64,
+                    96
+                ]
+            },
+            {
+                "name": "Mo-bis(molybdopterin guanine dinucleotide)",
+                "label": 1,
+                "residues": [
+                    196
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YNFF_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    59,
+                    63,
+                    67,
+                    99
+                ]
+            },
+            {
+                "name": "Mo-bis(molybdopterin guanine dinucleotide)",
+                "label": 1,
+                "residues": [
+                    195
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YEIL_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    68,
+                    91,
+                    93,
+                    116
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YHCC_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    33,
+                    45,
+                    48
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "CPDA_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    22,
+                    24,
+                    64,
+                    205
+                ]
+            },
+            {
+                "name": "AMP",
+                "label": 1,
+                "residues": [
+                    24,
+                    64,
+                    94,
+                    205
+                ]
+            },
+            {
+                "name": "Fe cation",
+                "label": 2,
+                "residues": [
+                    64,
+                    94,
+                    164,
+                    203
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NSRR_ECOLI",
+        "cofactors": [
+            {
+                "name": "[2Fe-2S] cluster",
+                "label": 1,
+                "residues": [
+                    91,
+                    96,
+                    102
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "PFLC_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    47,
+                    51,
+                    54
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    53,
+                    126,
+                    175,
+                    247
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "AEGA_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    12,
+                    15,
+                    18,
+                    137
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    22,
+                    121,
+                    124,
+                    133
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    56,
+                    59,
+                    64,
+                    97
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 4,
+                "residues": [
+                    68,
+                    87,
+                    90,
+                    93
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 5,
+                "residues": [
+                    227,
+                    230,
+                    236,
+                    240
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YJJW_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    31,
+                    35,
+                    38
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    37,
+                    121,
+                    174,
+                    246
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    47,
+                    50,
+                    53,
+                    86
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    57,
+                    76,
+                    79,
+                    82
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "NIFJ_ECOLI",
+        "cofactors": [
+            {
+                "name": "thiamine diphosphate",
+                "label": 1,
+                "residues": [
+                    60,
+                    824,
+                    847,
+                    962,
+                    991
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    689,
+                    692,
+                    695,
+                    755
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    699,
+                    745,
+                    748,
+                    751
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    819,
+                    822,
+                    847,
+                    1071
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "PFLE_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    25,
+                    29,
+                    32
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    31,
+                    132,
+                    181,
+                    254
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "HGLS_ECOLI",
+        "cofactors": [
+            {
+                "name": "2-oxoadipate",
+                "label": 1,
+                "residues": [
+                    68,
+                    72,
+                    224,
+                    391
+                ]
+            },
+            {
+                "name": "Fe(2+)",
+                "label": 1,
+                "residues": [
+                    68,
+                    224,
+                    290
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YDEP_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    49,
+                    52
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "UACF_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    12,
+                    15,
+                    18,
+                    129
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    22,
+                    112,
+                    115,
+                    125
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    56,
+                    59,
+                    64,
+                    97
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 4,
+                "residues": [
+                    68,
+                    87,
+                    90,
+                    93
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 5,
+                "residues": [
+                    210,
+                    213,
+                    219,
+                    223
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "ASLB_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    21,
+                    25,
+                    28
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    27,
+                    74,
+                    129,
+                    141
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    276,
+                    282,
+                    297,
+                    352
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    339,
+                    342,
+                    348,
+                    371
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YJIL_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    122,
+                    160
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YBHJ_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    360,
+                    421,
+                    424
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YBIX_ECOLI",
+        "cofactors": [
+            {
+                "name": "Fe cation",
+                "label": 1,
+                "residues": [
+                    96,
+                    98,
+                    158
+                ]
+            },
+            {
+                "name": "2-oxoglutarate",
+                "label": 1,
+                "residues": [
+                    168
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YDEM_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    12,
+                    16,
+                    19
+                ]
+            },
+            {
+                "name": "S-adenosyl-L-methionine",
+                "label": 1,
+                "residues": [
+                    18,
+                    61,
+                    116,
+                    128,
+                    189
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 2,
+                "residues": [
+                    257,
+                    263,
+                    278,
+                    328
+                ]
+            },
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 3,
+                "residues": [
+                    315,
+                    318,
+                    324,
+                    345
+                ]
+            }
+        ]
+    },
+    {
+        "protein": "YGIQ_ECOLI",
+        "cofactors": [
+            {
+                "name": "[4Fe-4S] cluster",
+                "label": 1,
+                "residues": [
+                    386,
+                    390,
+                    393
+                ]
+            }
+        ]
+    }
+]

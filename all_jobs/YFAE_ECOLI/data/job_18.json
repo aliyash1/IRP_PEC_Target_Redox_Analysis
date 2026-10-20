@@ -1,0 +1,20 @@
+[
+    {
+        "name": "sp_P0ABW3_YFAE_ECOLI_sp_P0AAK4_HYDN_ECOLI",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MARVTLRITGTQLLCQDEHPSLLAALESHNVAVEYQCREGYCGSCRTRLVAGQVDWIAEPLAFIQPGEILPCCCRAKGDIEIEM",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "MNRFIIADASKCIGCRTCEVACVVSHQENQDCASLTPETFLPRIHVIKGVNISTATVCRQCEDAPCANVCPNGAISRDKGFVHVMQERCIGCKTCVVACPYGAMEVVVRPVIRNSGAGLNVRADKAEANKCDLCNHREDGPACMAACPTHALICVDRNKLEQLSAEKRRRTALMF",
+                    "count": 1
+                }
+            }
+        ]
+    }
+]

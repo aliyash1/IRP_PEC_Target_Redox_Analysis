@@ -1,0 +1,11 @@
+file,ligand,type,coords,n_atoms,formula,com_x,com_y,com_z,geo_x,geo_y,geo_z
+4Fe-2O-2S.cif,T2N,hybrid [4Fe-2O-2S] cluster,ideal,8,O2S2Fe4,14.3927,-3.2598,3.8261,14.3708,-3.4139,3.8133
+4Fe-2O-2S.cif,T2N,hybrid [4Fe-2O-2S] cluster,model,8,O2S2Fe4,14.3683,-3.2694,3.8207,14.3544,-3.4127,3.7947
+F3S.cif,F3S,[3Fe-4S] cluster,ideal,7,Fe3S4,8.5098,0.0606,3.052,8.4843,0.1199,3.0214
+F3S.cif,F3S,[3Fe-4S] cluster,model,7,Fe3S4,8.4948,0.0498,3.0586,8.4714,0.1059,3.0251
+FE2.cif,FE2,Fe(2+),ideal,1,Fe1,0.0,0.0,0.0,0.0,0.0,0.0
+FE2.cif,FE2,Fe(2+),model,1,Fe1,0.0,0.0,0.0,0.0,0.0,0.0
+FES.cif,FES,[2Fe-2S] cluster,ideal,4,Fe2S2,16.3493,4.0152,27.4335,16.3582,4.0047,27.428
+FES.cif,FES,[2Fe-2S] cluster,model,4,Fe2S2,16.3362,4.0235,27.4275,16.35,4.0183,27.4218
+SF4.cif,SF4,[4Fe-4S] cluster,ideal,8,Fe4S4,41.1052,1.6748,22.6023,41.105,1.6751,22.6027
+SF4.cif,SF4,[4Fe-4S] cluster,model,8,Fe4S4,41.0903,1.6552,22.6085,41.0879,1.6575,22.6044

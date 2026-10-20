@@ -1,0 +1,138 @@
+data_T2N
+# 
+_chem_comp.id                                    T2N 
+_chem_comp.name                                  "3,5-dioxa-7-thia-1-thionia-2$l^{2},4$l^{2},6$l^{3},8$l^{2}-tetraferrabicyclo[4.2.0]octane" 
+_chem_comp.type                                  non-polymer 
+_chem_comp.pdbx_type                             HETAIN 
+_chem_comp.formula                               "Fe4 O2 S2" 
+_chem_comp.mon_nstd_parent_comp_id               ? 
+_chem_comp.pdbx_synonyms                         ? 
+_chem_comp.pdbx_formal_charge                    ? 
+_chem_comp.pdbx_initial_date                     2020-12-14 
+_chem_comp.pdbx_modified_date                    2026-09-16 
+_chem_comp.pdbx_ambiguous_flag                   N 
+_chem_comp.pdbx_release_status                   REL 
+_chem_comp.pdbx_replaced_by                      ? 
+_chem_comp.pdbx_replaces                         ? 
+_chem_comp.formula_weight                        319.509 
+_chem_comp.one_letter_code                       ? 
+_chem_comp.three_letter_code                     T2N 
+_chem_comp.pdbx_model_coordinates_details        ? 
+_chem_comp.pdbx_model_coordinates_missing_flag   N 
+_chem_comp.pdbx_ideal_coordinates_details        MetalCoord 
+_chem_comp.pdbx_ideal_coordinates_missing_flag   N 
+_chem_comp.pdbx_model_coordinates_db_code        7B97 
+_chem_comp.pdbx_subcomponent_list                ? 
+_chem_comp.pdbx_processing_site                  PDBE 
+_chem_comp.pdbx_comp_type                        "metal-containing ligand" 
+_chem_comp.pdbx_pcm                              Y 
+# 
+loop_
+_chem_comp_atom.comp_id 
+_chem_comp_atom.atom_id 
+_chem_comp_atom.alt_atom_id 
+_chem_comp_atom.type_symbol 
+_chem_comp_atom.charge 
+_chem_comp_atom.pdbx_align 
+_chem_comp_atom.pdbx_aromatic_flag 
+_chem_comp_atom.pdbx_leaving_atom_flag 
+_chem_comp_atom.pdbx_stereo_config 
+_chem_comp_atom.pdbx_backbone_atom_flag 
+_chem_comp_atom.pdbx_n_terminal_atom_flag 
+_chem_comp_atom.pdbx_c_terminal_atom_flag 
+_chem_comp_atom.model_Cartn_x 
+_chem_comp_atom.model_Cartn_y 
+_chem_comp_atom.model_Cartn_z 
+_chem_comp_atom.pdbx_model_Cartn_x_ideal 
+_chem_comp_atom.pdbx_model_Cartn_y_ideal 
+_chem_comp_atom.pdbx_model_Cartn_z_ideal 
+_chem_comp_atom.pdbx_component_atom_id 
+_chem_comp_atom.pdbx_component_comp_id 
+_chem_comp_atom.pdbx_ordinal 
+T2N O1  O1  O  -2 1 N N N N N N 15.325 -4.098 5.207 15.444 -4.276 5.445 O1  T2N 1 
+T2N O2  O2  O  -2 1 N N N N N N 14.570 -5.098 2.630 14.406 -4.977 2.607 O2  T2N 2 
+T2N S2  S1  S  -2 1 N N R N N N 14.911 -1.779 3.357 15.023 -1.631 3.251 S2  T2N 3 
+T2N S3  S2  S  -2 1 N N N N N N 11.624 -3.001 3.469 11.566 -3.203 3.490 S3  T2N 4 
+T2N FE1 FE1 FE ?  0 N N N N N N 15.393 -5.604 3.917 15.526 -5.544 4.033 FE1 T2N 5 
+T2N FE2 FE2 FE ?  0 N N N N N N 16.307 -2.706 4.808 16.347 -2.722 4.828 FE2 T2N 6 
+T2N FE3 FE3 FE ?  0 N N N N N N 13.648 -3.343 2.506 13.612 -3.266 2.377 FE3 T2N 7 
+T2N FE4 FE4 FE ?  0 N N N N N N 13.057 -1.673 4.464 13.042 -1.692 4.475 FE4 T2N 8 
+# 
+loop_
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+_chem_comp_bond.pdbx_ordinal 
+_chem_comp_bond.pdbx_metal_coordination_flag 
+_chem_comp_bond.pdbx_metal_pi_flag 
+T2N O1 FE1 SING N N 1 Y N 
+T2N O1 FE2 SING N N 2 Y N 
+T2N O2 FE1 SING N N 3 Y N 
+T2N O2 FE3 SING N N 4 Y N 
+T2N S2 FE2 SING N N 5 Y N 
+T2N S2 FE3 SING N N 6 Y N 
+T2N S2 FE4 SING N N 7 Y N 
+T2N S3 FE3 SING N N 8 Y N 
+T2N S3 FE4 SING N N 9 Y N 
+# 
+loop_
+_pdbx_chem_comp_descriptor.comp_id 
+_pdbx_chem_comp_descriptor.type 
+_pdbx_chem_comp_descriptor.program 
+_pdbx_chem_comp_descriptor.program_version 
+_pdbx_chem_comp_descriptor.descriptor 
+T2N InChI            InChI                1.03  InChI=1S/4Fe.2O.2S/q;;;;;;;+1  
+T2N InChIKey         InChI                1.03  ZZXANUDJVNRRAL-UHFFFAOYSA-N    
+T2N SMILES_CANONICAL CACTVS               3.385 "O1[Fe]O[Fe]2S[Fe][S@+]2[Fe]1" 
+T2N SMILES           CACTVS               3.385 "O1[Fe]O[Fe]2S[Fe][S+]2[Fe]1"  
+T2N SMILES_CANONICAL "OpenEye OEToolkits" 2.0.7 "O1[Fe]O[Fe]2S[Fe][S+]2[Fe]1"  
+T2N SMILES           "OpenEye OEToolkits" 2.0.7 "O1[Fe]O[Fe]2S[Fe][S+]2[Fe]1"  
+# 
+_pdbx_chem_comp_identifier.comp_id           T2N 
+_pdbx_chem_comp_identifier.type              "SYSTEMATIC NAME" 
+_pdbx_chem_comp_identifier.program           "OpenEye OEToolkits" 
+_pdbx_chem_comp_identifier.program_version   2.0.7 
+_pdbx_chem_comp_identifier.identifier        "3,5-dioxa-7-thia-1-thionia-2$l^{2},4$l^{2},6$l^{3},8$l^{2}-tetraferrabicyclo[4.2.0]octane" 
+# 
+_pdbx_chem_comp_atom_coordination.geometry_id           1 
+_pdbx_chem_comp_atom_coordination.comp_id               T2N 
+_pdbx_chem_comp_atom_coordination.atom_id               FE4 
+_pdbx_chem_comp_atom_coordination.number                4 
+_pdbx_chem_comp_atom_coordination.geometry_calculated   tetrahedral 
+_pdbx_chem_comp_atom_coordination.geometry_generic      tetrahedral 
+_pdbx_chem_comp_atom_coordination.geometry_abbr         TET 
+_pdbx_chem_comp_atom_coordination.provenance            MetalCoord 
+# 
+_pdbx_chem_comp_atom_coordination_sphere.id            1 
+_pdbx_chem_comp_atom_coordination_sphere.geometry_id   1 
+_pdbx_chem_comp_atom_coordination_sphere.comp_id       T2N 
+_pdbx_chem_comp_atom_coordination_sphere.atom_id       FE4 
+_pdbx_chem_comp_atom_coordination_sphere.descriptor    "@TET{Fe,N,S,S,S}" 
+_pdbx_chem_comp_atom_coordination_sphere.provenance    MetalCoord 
+# 
+_pdbx_chem_comp_pcm.pcm_id                             1 
+_pdbx_chem_comp_pcm.comp_id                            T2N 
+_pdbx_chem_comp_pcm.modified_residue_id                GLU 
+_pdbx_chem_comp_pcm.type                               None 
+_pdbx_chem_comp_pcm.category                           "Metal coordination" 
+_pdbx_chem_comp_pcm.polypeptide_position               "Any position" 
+_pdbx_chem_comp_pcm.comp_id_linking_atom               FE2 
+_pdbx_chem_comp_pcm.modified_residue_id_linking_atom   OE2 
+_pdbx_chem_comp_pcm.uniprot_specific_ptm_accession     ? 
+_pdbx_chem_comp_pcm.uniprot_generic_ptm_accession      ? 
+_pdbx_chem_comp_pcm.position                           "Amino-acid side chain" 
+# 
+loop_
+_pdbx_chem_comp_audit.comp_id 
+_pdbx_chem_comp_audit.action_type 
+_pdbx_chem_comp_audit.date 
+_pdbx_chem_comp_audit.processing_site 
+T2N "Create component"   2020-12-14 PDBE 
+T2N "Initial release"    2022-01-12 RCSB 
+T2N "Other modification" 2026-07-17 RCSB 
+T2N "Other modification" 2026-07-31 RCSB 
+T2N "Other modification" 2026-09-16 RCSB 
+# 

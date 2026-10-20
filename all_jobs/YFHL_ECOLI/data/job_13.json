@@ -1,0 +1,20 @@
+[
+    {
+        "name": "sp_P52102_YFHL_ECOLI_sp_P0A7J0_RIBB_ECOLI",
+        "modelSeeds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MALLITKKCINCDMCEPECPNEAISMGDHIYEINSDKCTECVGHYETPTCQKVCPIPNTIVKDPAHVETEEQLWDKFVLMHHADKI",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "MNQTLLSSFGTPFERVENALAALREGRGVMVLDDEDRENEGDMIFPAETMTVEQMALTIRHGSGIVCLCITEDRRKQLDLPMMVENNTSAYGTGFTVTIEAAEGVTTGVSAADRITTVRAAIADGAKPSDLNRPGHVFPLRAQAGGVLTRGGHTEATIDLMTLAGFKPAGVLCELTNDDGTMARAPECIEFANKHNMALVTIEDLVAYRQAHERKAS",
+                    "count": 1
+                }
+            }
+        ]
+    }
+]
