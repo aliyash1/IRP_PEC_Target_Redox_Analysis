@@ -1,0 +1,18 @@
+[{
+ "name": "YFAE_ECOLI",
+ "modelSeeds": [
+  "1544460771"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MARVTLRITGTQLLCQDEHPSLLAALESHNVAVEYQCREGYCGSCRTRLVAGQVDWIAEPLAFIQPGEILPCCCRAKGDIEIEM",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

@@ -1,0 +1,18 @@
+[{
+ "name": "YGFS_ECOLI",
+ "modelSeeds": [
+  "772665230"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MKSLIIVNPADCIGCRTCEVACVVAHPSEQELNADVFLPRLKVQRLDSISAPVMCHQCENAPCVGACPVGALTMGEQVVQTNSARCIGCQSCVSACPFGMITIQSLPGDTRQQIVKCDLCEQREEGPACVESCPTQALQLLTERELRRVRQQRIVASGENPL",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

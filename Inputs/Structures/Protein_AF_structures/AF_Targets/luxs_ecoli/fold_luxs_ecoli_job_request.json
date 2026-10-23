@@ -1,0 +1,18 @@
+[{
+ "name": "LUXS_ECOLI",
+ "modelSeeds": [
+  "981857099"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MPLLDSFTVDHTRMEAPAVRVAKTMNTPHGDAITVFDLRFCVPNKEVMPERGIHTLEHLFAGFMRNHLNGNGVEIIDISPMGCRTGFYMSLIGTPDEQRVADAWKAAMEDVLKVQDQNQIPELNVYQCGTYQMHSLQEAQDIARSILERDVRINSNEELALPKEKLQELHI",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

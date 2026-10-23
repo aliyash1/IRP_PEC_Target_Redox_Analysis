@@ -1,0 +1,18 @@
+[{
+ "name": "NSRR_ECOLI",
+ "modelSeeds": [
+  "1428386642"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MQLTSFTDYGLRALIYMASLPEGRMTSISEVTDVYGVSRNHMVKIINQLSRAGYVTAVRGKNGGIRLGKPASAIRIGDVVRELEPLSLVNCSSEFCHITPACRLKQALSKAVQSFLTELDNYTLADLVEENQPLYKLLLVE",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

@@ -1,0 +1,176 @@
+protein,source_folder,cofactor_name,cofactor_label,centroid_x,centroid_y,centroid_z,structure_file
+YCCM_ECOLI,AF_PECs,[4Fe-4S] cluster,1,15.380000114440918,10.190750122070312,19.006500244140625,Inputs/Structures/Protein_AF_structures/AF_PECs/yccm_ecoli/fold_yccm_ecoli_model_0.cif
+YCCM_ECOLI,AF_PECs,[4Fe-4S] cluster,2,7.771249771118164,5.1217498779296875,10.463750839233398,Inputs/Structures/Protein_AF_structures/AF_PECs/yccm_ecoli/fold_yccm_ecoli_model_0.cif
+YGFS_ECOLI,AF_PECs,[4Fe-4S] cluster,1,6.527750015258789,-8.39175033569336,7.490750312805176,Inputs/Structures/Protein_AF_structures/AF_PECs/ygfs_ecoli/fold_ygfs_ecoli_model_0.cif
+YGFS_ECOLI,AF_PECs,[4Fe-4S] cluster,2,4.761250019073486,-0.11150002479553223,-1.4677499532699585,Inputs/Structures/Protein_AF_structures/AF_PECs/ygfs_ecoli/fold_ygfs_ecoli_model_0.cif
+YGFS_ECOLI,AF_PECs,[4Fe-4S] cluster,3,-10.04900074005127,3.8610000610351562,-1.028999924659729,Inputs/Structures/Protein_AF_structures/AF_PECs/ygfs_ecoli/fold_ygfs_ecoli_model_0.cif
+YGFS_ECOLI,AF_PECs,[4Fe-4S] cluster,4,-9.272000312805176,16.0627498626709,-0.8140000104904175,Inputs/Structures/Protein_AF_structures/AF_PECs/ygfs_ecoli/fold_ygfs_ecoli_model_0.cif
+YKGF_ECOLI,AF_PECs,[4Fe-4S] cluster,1,4.404999732971191,6.892000198364258,0.8749999403953552,Inputs/Structures/Protein_AF_structures/AF_PECs/ykgf_ecoli/fold_ykgf_ecoli_model_0.cif
+YKGF_ECOLI,AF_PECs,[4Fe-4S] cluster,2,8.4399995803833,-1.3777499198913574,-6.817999839782715,Inputs/Structures/Protein_AF_structures/AF_PECs/ykgf_ecoli/fold_ykgf_ecoli_model_0.cif
+YSAA_ECOLI,AF_PECs,[4Fe-4S] cluster,1,3.1702499389648438,-6.678249835968018,12.083749771118164,Inputs/Structures/Protein_AF_structures/AF_PECs/ysaa_ecoli/fold_ysaa_ecoli_model_0.cif
+YSAA_ECOLI,AF_PECs,[4Fe-4S] cluster,2,-0.4500000476837158,-6.745750427246094,0.3617500066757202,Inputs/Structures/Protein_AF_structures/AF_PECs/ysaa_ecoli/fold_ysaa_ecoli_model_0.cif
+YSAA_ECOLI,AF_PECs,[4Fe-4S] cluster,3,-0.38300007581710815,7.85575008392334,-3.7487497329711914,Inputs/Structures/Protein_AF_structures/AF_PECs/ysaa_ecoli/fold_ysaa_ecoli_model_0.cif
+YSAA_ECOLI,AF_PECs,[4Fe-4S] cluster,4,5.970750331878662,7.008999824523926,-13.820249557495117,Inputs/Structures/Protein_AF_structures/AF_PECs/ysaa_ecoli/fold_ysaa_ecoli_model_0.cif
+ACNA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,10.371333122253418,3.633666753768921,0.5360000133514404,Inputs/Structures/Protein_AF_structures/AF_Targets/acna_ecoli/fold_acna_ecoli_model_0.cif
+ACNB_ECOLI,AF_Targets,substrate,1,4.0273332595825195,4.448667049407959,-6.414833068847656,Inputs/Structures/Protein_AF_structures/AF_Targets/acnb_ecoli/fold_acnb_ecoli_model_0.cif
+ACNB_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-1.3910001516342163,5.441333770751953,-14.285000801086426,Inputs/Structures/Protein_AF_structures/AF_Targets/acnb_ecoli/fold_acnb_ecoli_model_0.cif
+AEGA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-0.21050000190734863,-3.118000030517578,-21.589500427246094,Inputs/Structures/Protein_AF_structures/AF_Targets/aega_ecoli/fold_aega_ecoli_model_0.cif
+AEGA_ECOLI,AF_Targets,[4Fe-4S] cluster,2,8.941750526428223,-11.281749725341797,-21.761999130249023,Inputs/Structures/Protein_AF_structures/AF_Targets/aega_ecoli/fold_aega_ecoli_model_0.cif
+AEGA_ECOLI,AF_Targets,[4Fe-4S] cluster,3,19.85099983215332,-4.953750133514404,-30.382251739501953,Inputs/Structures/Protein_AF_structures/AF_Targets/aega_ecoli/fold_aega_ecoli_model_0.cif
+AEGA_ECOLI,AF_Targets,[4Fe-4S] cluster,4,29.113000869750977,-7.75499963760376,-23.401750564575195,Inputs/Structures/Protein_AF_structures/AF_Targets/aega_ecoli/fold_aega_ecoli_model_0.cif
+AEGA_ECOLI,AF_Targets,[4Fe-4S] cluster,5,-4.799000263214111,-2.516249895095825,-10.71399974822998,Inputs/Structures/Protein_AF_structures/AF_Targets/aega_ecoli/fold_aega_ecoli_model_0.cif
+ALKB_ECOLI,AF_Targets,substrate,1,-6.731250286102295,-4.226999759674072,-10.689749717712402,Inputs/Structures/Protein_AF_structures/AF_Targets/alkb_ecoli/fold_alkb_ecoli_model_0.cif
+ALKB_ECOLI,AF_Targets,2-oxoglutarate,1,1.4665000438690186,8.40250015258789,-1.4679999351501465,Inputs/Structures/Protein_AF_structures/AF_Targets/alkb_ecoli/fold_alkb_ecoli_model_0.cif
+ALKB_ECOLI,AF_Targets,Fe cation,1,-9.0426664352417,-3.371999740600586,-3.617666482925415,Inputs/Structures/Protein_AF_structures/AF_Targets/alkb_ecoli/fold_alkb_ecoli_model_0.cif
+ASLB_ECOLI,AF_Targets,[4Fe-4S] cluster,1,5.36133337020874,-0.2546667158603668,13.910666465759277,Inputs/Structures/Protein_AF_structures/AF_Targets/aslb_ecoli/fold_aslb_ecoli_model_0.cif
+ASLB_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,5.286250114440918,-2.666749954223633,10.563249588012695,Inputs/Structures/Protein_AF_structures/AF_Targets/aslb_ecoli/fold_aslb_ecoli_model_0.cif
+ASLB_ECOLI,AF_Targets,[4Fe-4S] cluster,2,-2.461249828338623,9.999000549316406,-3.321500062942505,Inputs/Structures/Protein_AF_structures/AF_Targets/aslb_ecoli/fold_aslb_ecoli_model_0.cif
+ASLB_ECOLI,AF_Targets,[4Fe-4S] cluster,3,8.439000129699707,11.07800006866455,-14.528749465942383,Inputs/Structures/Protein_AF_structures/AF_Targets/aslb_ecoli/fold_aslb_ecoli_model_0.cif
+BIOB_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-15.389666557312012,-8.954666137695312,-6.60366678237915,Inputs/Structures/Protein_AF_structures/AF_Targets/biob_ecoli/fold_biob_ecoli_model_0.cif
+BIOB_ECOLI,AF_Targets,[2Fe-2S] cluster,1,1.0097498893737793,-5.128999710083008,1.0747499465942383,Inputs/Structures/Protein_AF_structures/AF_Targets/biob_ecoli/fold_biob_ecoli_model_0.cif
+CODA_ECOLI,AF_Targets,Fe(2+),1,-5.651749610900879,3.532249927520752,-2.2662501335144043,Inputs/Structures/Protein_AF_structures/AF_Targets/coda_ecoli/fold_coda_ecoli_model_0.cif
+CODA_ECOLI,AF_Targets,Zn(2+),1,-5.651749610900879,3.532249927520752,-2.2662501335144043,Inputs/Structures/Protein_AF_structures/AF_Targets/coda_ecoli/fold_coda_ecoli_model_0.cif
+CODA_ECOLI,AF_Targets,substrate,1,-14.146499633789062,4.328499794006348,-2.614500045776367,Inputs/Structures/Protein_AF_structures/AF_Targets/coda_ecoli/fold_coda_ecoli_model_0.cif
+CPDA_ECOLI,AF_Targets,Fe cation,1,-8.255999565124512,-4.85474967956543,5.242499828338623,Inputs/Structures/Protein_AF_structures/AF_Targets/cpda_ecoli/fold_cpda_ecoli_model_0.cif
+CPDA_ECOLI,AF_Targets,AMP,1,-9.707249641418457,-3.4272499084472656,3.8152499198913574,Inputs/Structures/Protein_AF_structures/AF_Targets/cpda_ecoli/fold_cpda_ecoli_model_0.cif
+CPDA_ECOLI,AF_Targets,Fe cation,2,-8.515250205993652,-1.2162500619888306,0.3562498986721039,Inputs/Structures/Protein_AF_structures/AF_Targets/cpda_ecoli/fold_cpda_ecoli_model_0.cif
+DING_ECOLI,AF_Targets,ATP,1,-4.285000324249268,-11.280999183654785,-16.74142837524414,Inputs/Structures/Protein_AF_structures/AF_Targets/ding_ecoli/fold_ding_ecoli_model_0.cif
+DING_ECOLI,AF_Targets,[4Fe-4S] cluster,1,15.606999397277832,-15.128999710083008,17.208749771118164,Inputs/Structures/Protein_AF_structures/AF_Targets/ding_ecoli/fold_ding_ecoli_model_0.cif
+DMSA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-10.248499870300293,-4.61400032043457,6.010000228881836,Inputs/Structures/Protein_AF_structures/AF_Targets/dmsa_ecoli/fold_dmsa_ecoli_model_0.cif
+DMSA_ECOLI,AF_Targets,Mo-bis(molybdopterin guanine dinucleotide),1,3.604153633117676,3.2774617671966553,1.2519230842590332,Inputs/Structures/Protein_AF_structures/AF_Targets/dmsa_ecoli/fold_dmsa_ecoli_model_0.cif
+EDD_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-5.725500106811523,-5.049499988555908,9.204999923706055,Inputs/Structures/Protein_AF_structures/AF_Targets/edd_ecoli/fold_edd_ecoli_model_0.cif
+EPMB_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-7.152000427246094,-0.2540000379085541,-1.5236667394638062,Inputs/Structures/Protein_AF_structures/AF_Targets/epmb_ecoli/fold_epmb_ecoli_model_0.cif
+EUTG_ECOLI,AF_Targets,NAD(+),1,-1.2221429347991943,8.126856803894043,-5.116857051849365,Inputs/Structures/Protein_AF_structures/AF_Targets/eutg_ecoli/fold_eutg_ecoli_model_0.cif
+EUTG_ECOLI,AF_Targets,Fe cation,1,4.516499996185303,-0.8039999008178711,-3.984750270843506,Inputs/Structures/Protein_AF_structures/AF_Targets/eutg_ecoli/fold_eutg_ecoli_model_0.cif
+FADH_ECOLI,AF_Targets,FMN,1,5.904333114624023,-4.3516669273376465,-8.90783405303955,Inputs/Structures/Protein_AF_structures/AF_Targets/fadh_ecoli/fold_fadh_ecoli_model_0.cif
+FADH_ECOLI,AF_Targets,substrate,1,12.410250663757324,-3.3565001487731934,10.935250282287598,Inputs/Structures/Protein_AF_structures/AF_Targets/fadh_ecoli/fold_fadh_ecoli_model_0.cif
+FADH_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-4.706250190734863,0.4457501173019409,0.39800000190734863,Inputs/Structures/Protein_AF_structures/AF_Targets/fadh_ecoli/fold_fadh_ecoli_model_0.cif
+FADH_ECOLI,AF_Targets,FAD,1,-16.159374237060547,6.499874591827393,9.958999633789062,Inputs/Structures/Protein_AF_structures/AF_Targets/fadh_ecoli/fold_fadh_ecoli_model_0.cif
+FADH_ECOLI,AF_Targets,NADP(+),1,-6.809667110443115,-1.5803333520889282,17.95599937438965,Inputs/Structures/Protein_AF_structures/AF_Targets/fadh_ecoli/fold_fadh_ecoli_model_0.cif
+FHUF_ECOLI,AF_Targets,[2Fe-2S] cluster,1,-1.1040000915527344,19.012500762939453,-7.047499656677246,Inputs/Structures/Protein_AF_structures/AF_Targets/fhuf_ecoli/fold_fhuf_ecoli_model_0.cif
+FNR_ECOLI,AF_Targets,[4Fe-4S] cluster,1,4.578499794006348,4.118750095367432,10.554000854492188,Inputs/Structures/Protein_AF_structures/AF_Targets/fnr_ecoli/fold_fnr_ecoli_model_0.cif
+FUCO_ECOLI,AF_Targets,NAD(+),1,4.083444595336914,2.3959999084472656,4.859444618225098,Inputs/Structures/Protein_AF_structures/AF_Targets/fuco_ecoli/fold_fuco_ecoli_model_0.cif
+FUCO_ECOLI,AF_Targets,Fe cation,1,2.629499912261963,1.5230000019073486,-4.735000133514404,Inputs/Structures/Protein_AF_structures/AF_Targets/fuco_ecoli/fold_fuco_ecoli_model_0.cif
+FUMA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-4.649333477020264,-0.7989999651908875,1.1063332557678223,Inputs/Structures/Protein_AF_structures/AF_Targets/fuma_ecoli/fold_fuma_ecoli_model_0.cif
+FUMB_ECOLI,AF_Targets,[4Fe-4S] cluster,1,1.751333236694336,-1.9380000829696655,-1.2013334035873413,Inputs/Structures/Protein_AF_structures/AF_Targets/fumb_ecoli/fold_fumb_ecoli_model_0.cif
+GLAH_ECOLI,AF_Targets,Fe cation,1,7.812000274658203,-4.072666645050049,0.4606666564941406,Inputs/Structures/Protein_AF_structures/AF_Targets/glah_ecoli/fold_glah_ecoli_model_0.cif
+HCP_ECOLI,AF_Targets,[2Fe-2S] cluster,1,-12.13700008392334,-7.437000274658203,-8.502500534057617,Inputs/Structures/Protein_AF_structures/AF_Targets/hcp_ecoli/fold_hcp_ecoli_model_0.cif
+HCP_ECOLI,AF_Targets,hybrid [4Fe-2O-2S] cluster,1,2.0611250400543213,-2.451500177383423,-2.3413751125335693,Inputs/Structures/Protein_AF_structures/AF_Targets/hcp_ecoli/fold_hcp_ecoli_model_0.cif
+HEMN_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,-0.11799991130828857,-8.833250045776367,-1.1432499885559082,Inputs/Structures/Protein_AF_structures/AF_Targets/hemn_ecoli/fold_hemn_ecoli_model_0.cif
+HEMN_ECOLI,AF_Targets,[4Fe-4S] cluster,1,8.839666366577148,-9.006333351135254,10.721667289733887,Inputs/Structures/Protein_AF_structures/AF_Targets/hemn_ecoli/fold_hemn_ecoli_model_0.cif
+HEMN_ECOLI,AF_Targets,S-adenosyl-L-methionine,2,10.312333106994629,-2.935500144958496,8.407999992370605,Inputs/Structures/Protein_AF_structures/AF_Targets/hemn_ecoli/fold_hemn_ecoli_model_0.cif
+HEMW_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,-6.669332981109619,-2.3436667919158936,4.6613335609436035,Inputs/Structures/Protein_AF_structures/AF_Targets/hemw_ecoli/fold_hemw_ecoli_model_0.cif
+HEMW_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-1.9163333177566528,-11.734333992004395,12.865666389465332,Inputs/Structures/Protein_AF_structures/AF_Targets/hemw_ecoli/fold_hemw_ecoli_model_0.cif
+HEMW_ECOLI,AF_Targets,S-adenosyl-L-methionine,2,-1.0607500076293945,-13.533499717712402,5.372249603271484,Inputs/Structures/Protein_AF_structures/AF_Targets/hemw_ecoli/fold_hemw_ecoli_model_0.cif
+HGLS_ECOLI,AF_Targets,2-oxoadipate,1,2.159249782562256,6.38224983215332,0.2962499260902405,Inputs/Structures/Protein_AF_structures/AF_Targets/hgls_ecoli/fold_hgls_ecoli_model_0.cif
+HGLS_ECOLI,AF_Targets,Fe(2+),1,-1.5486668348312378,5.231333255767822,-5.119666576385498,Inputs/Structures/Protein_AF_structures/AF_Targets/hgls_ecoli/fold_hgls_ecoli_model_0.cif
+HYBA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-6.606249809265137,-10.271750450134277,18.805248260498047,Inputs/Structures/Protein_AF_structures/AF_Targets/hyba_ecoli/fold_hyba_ecoli_model_0.cif
+HYBA_ECOLI,AF_Targets,[4Fe-4S] cluster,2,-9.470749855041504,0.4412500262260437,13.327500343322754,Inputs/Structures/Protein_AF_structures/AF_Targets/hyba_ecoli/fold_hyba_ecoli_model_0.cif
+HYBA_ECOLI,AF_Targets,[4Fe-4S] cluster,3,-1.940750002861023,1.2092499732971191,0.06224989891052246,Inputs/Structures/Protein_AF_structures/AF_Targets/hyba_ecoli/fold_hyba_ecoli_model_0.cif
+HYBA_ECOLI,AF_Targets,[4Fe-4S] cluster,4,-9.86449909210205,7.284999847412109,-6.890000343322754,Inputs/Structures/Protein_AF_structures/AF_Targets/hyba_ecoli/fold_hyba_ecoli_model_0.cif
+HYPD_ECOLI,AF_Targets,Fe cation,1,0.42500004172325134,2.81933331489563,0.3933333456516266,Inputs/Structures/Protein_AF_structures/AF_Targets/hypd_ecoli/fold_hypd_ecoli_model_0.cif
+ILVD_ECOLI,AF_Targets,Mg(2+),1,5.680000305175781,5.171250343322754,-0.48624998331069946,Inputs/Structures/Protein_AF_structures/AF_Targets/ilvd_ecoli/fold_ilvd_ecoli_model_0.cif
+ILVD_ECOLI,AF_Targets,[2Fe-2S] cluster,1,-0.8700000047683716,8.774999618530273,-4.173499584197998,Inputs/Structures/Protein_AF_structures/AF_Targets/ilvd_ecoli/fold_ilvd_ecoli_model_0.cif
+ISCA_ECOLI,AF_Targets,Fe cation,1,4.766000270843506,-16.123666763305664,-1.9160000085830688,Inputs/Structures/Protein_AF_structures/AF_Targets/isca_ecoli/fold_isca_ecoli_model_0.cif
+ISCR_ECOLI,AF_Targets,[2Fe-2S] cluster,1,-4.158000469207764,-13.28066635131836,-27.871665954589844,Inputs/Structures/Protein_AF_structures/AF_Targets/iscr_ecoli/fold_iscr_ecoli_model_0.cif
+ISCS_ECOLI,AF_Targets,pyridoxal 5'-phosphate,1,0.9161999821662903,1.3422000408172607,-7.390800476074219,Inputs/Structures/Protein_AF_structures/AF_Targets/iscs_ecoli/fold_iscs_ecoli_model_0.cif
+ISCS_ECOLI,AF_Targets,[2Fe-2S] cluster,1,11.222999572753906,3.953000068664551,1.7630000114440918,Inputs/Structures/Protein_AF_structures/AF_Targets/iscs_ecoli/fold_iscs_ecoli_model_0.cif
+ISPG_ECOLI,AF_Targets,[4Fe-4S] cluster,1,17.9427490234375,-3.4609997272491455,25.82499885559082,Inputs/Structures/Protein_AF_structures/AF_Targets/ispg_ecoli/fold_ispg_ecoli_model_0.cif
+ISPH_ECOLI,AF_Targets,[4Fe-4S] cluster,1,2.374666929244995,-2.9126665592193604,-5.485000133514404,Inputs/Structures/Protein_AF_structures/AF_Targets/isph_ecoli/fold_isph_ecoli_model_0.cif
+ISPH_ECOLI,AF_Targets,(2E)-4-hydroxy-3-methylbut-2-enyl diphosphate,1,-0.39887508749961853,1.2993749380111694,2.845750093460083,Inputs/Structures/Protein_AF_structures/AF_Targets/isph_ecoli/fold_isph_ecoli_model_0.cif
+ISPH_ECOLI,AF_Targets,dimethylallyl diphosphate,1,-0.3402858078479767,0.9168570637702942,3.9730002880096436,Inputs/Structures/Protein_AF_structures/AF_Targets/isph_ecoli/fold_isph_ecoli_model_0.cif
+ISPH_ECOLI,AF_Targets,isopentenyl diphosphate,1,-0.3402858078479767,0.9168570637702942,3.9730002880096436,Inputs/Structures/Protein_AF_structures/AF_Targets/isph_ecoli/fold_isph_ecoli_model_0.cif
+LIPA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,10.575249671936035,1.1384999752044678,-1.0385000705718994,Inputs/Structures/Protein_AF_structures/AF_Targets/lipa_ecoli/fold_lipa_ecoli_model_0.cif
+LIPA_ECOLI,AF_Targets,[4Fe-4S] cluster,2,-2.9566667079925537,-1.8173333406448364,7.329333782196045,Inputs/Structures/Protein_AF_structures/AF_Targets/lipa_ecoli/fold_lipa_ecoli_model_0.cif
+LUXS_ECOLI,AF_Targets,Fe cation,1,6.334667205810547,4.072666645050049,-12.147334098815918,Inputs/Structures/Protein_AF_structures/AF_Targets/luxs_ecoli/fold_luxs_ecoli_model_0.cif
+MIAB_ECOLI,AF_Targets,[4Fe-4S] cluster,1,0.6466667056083679,-7.348666667938232,5.892666339874268,Inputs/Structures/Protein_AF_structures/AF_Targets/miab_ecoli/fold_miab_ecoli_model_0.cif
+MIAB_ECOLI,AF_Targets,[4Fe-4S] cluster,2,-7.581333160400391,0.4466666281223297,13.345000267028809,Inputs/Structures/Protein_AF_structures/AF_Targets/miab_ecoli/fold_miab_ecoli_model_0.cif
+MOAA_ECOLI,AF_Targets,GTP,1,-0.5519998669624329,-1.8911998271942139,-2.6802000999450684,Inputs/Structures/Protein_AF_structures/AF_Targets/moaa_ecoli/fold_moaa_ecoli_model_0.cif
+MOAA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-4.900000095367432,9.710000038146973,8.291999816894531,Inputs/Structures/Protein_AF_structures/AF_Targets/moaa_ecoli/fold_moaa_ecoli_model_0.cif
+MOAA_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,-3.339750051498413,3.9467499256134033,8.560249328613281,Inputs/Structures/Protein_AF_structures/AF_Targets/moaa_ecoli/fold_moaa_ecoli_model_0.cif
+MOAA_ECOLI,AF_Targets,[4Fe-4S] cluster,2,10.200332641601562,-7.0906662940979,4.151000022888184,Inputs/Structures/Protein_AF_structures/AF_Targets/moaa_ecoli/fold_moaa_ecoli_model_0.cif
+MUTY_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-9.690500259399414,24.148250579833984,7.241000175476074,Inputs/Structures/Protein_AF_structures/AF_Targets/muty_ecoli/fold_muty_ecoli_model_0.cif
+NADA_ECOLI,AF_Targets,iminosuccinate,1,-0.24916668236255646,-5.621833324432373,2.118833303451538,Inputs/Structures/Protein_AF_structures/AF_Targets/nada_ecoli/fold_nada_ecoli_model_0.cif
+NADA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,1.1079999208450317,5.405999660491943,3.2796666622161865,Inputs/Structures/Protein_AF_structures/AF_Targets/nada_ecoli/fold_nada_ecoli_model_0.cif
+NAPA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-10.738249778747559,-6.133999824523926,-2.5122499465942383,Inputs/Structures/Protein_AF_structures/AF_Targets/napa_ecoli/fold_napa_ecoli_model_0.cif
+NAPA_ECOLI,AF_Targets,Mo-bis(molybdopterin guanine dinucleotide),1,4.307000160217285,-5.310375213623047,0.049937546253204346,Inputs/Structures/Protein_AF_structures/AF_Targets/napa_ecoli/fold_napa_ecoli_model_0.cif
+NAPA_ECOLI,AF_Targets,substrate,1,6.440999984741211,-14.392000198364258,2.690999984741211,Inputs/Structures/Protein_AF_structures/AF_Targets/napa_ecoli/fold_napa_ecoli_model_0.cif
+NAPF_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-9.560750007629395,11.546998977661133,-0.4135000705718994,Inputs/Structures/Protein_AF_structures/AF_Targets/napf_ecoli/fold_napf_ecoli_model_0.cif
+NAPF_ECOLI,AF_Targets,[4Fe-4S] cluster,2,-1.8877500295639038,10.640000343322754,-4.826000213623047,Inputs/Structures/Protein_AF_structures/AF_Targets/napf_ecoli/fold_napf_ecoli_model_0.cif
+NAPF_ECOLI,AF_Targets,[4Fe-4S] cluster,3,4.72599983215332,-5.411749839782715,-6.545249938964844,Inputs/Structures/Protein_AF_structures/AF_Targets/napf_ecoli/fold_napf_ecoli_model_0.cif
+NARY_ECOLI,AF_Targets,[4Fe-4S] cluster,1,7.48675012588501,10.801750183105469,-4.688750267028809,Inputs/Structures/Protein_AF_structures/AF_Targets/nary_ecoli/fold_nary_ecoli_model_0.cif
+NARY_ECOLI,AF_Targets,[4Fe-4S] cluster,2,-5.023000240325928,9.13075065612793,-3.695000171661377,Inputs/Structures/Protein_AF_structures/AF_Targets/nary_ecoli/fold_nary_ecoli_model_0.cif
+NARY_ECOLI,AF_Targets,[4Fe-4S] cluster,3,-6.909249782562256,-2.545750141143799,5.128499984741211,Inputs/Structures/Protein_AF_structures/AF_Targets/nary_ecoli/fold_nary_ecoli_model_0.cif
+NARY_ECOLI,AF_Targets,[3Fe-4S] cluster,1,-16.5396671295166,0.1576666384935379,10.294333457946777,Inputs/Structures/Protein_AF_structures/AF_Targets/nary_ecoli/fold_nary_ecoli_model_0.cif
+NARZ_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-13.483500480651855,6.5032501220703125,11.123250007629395,Inputs/Structures/Protein_AF_structures/AF_Targets/narz_ecoli/fold_narz_ecoli_model_0.cif
+NARZ_ECOLI,AF_Targets,Mo-bis(molybdopterin guanine dinucleotide),1,-3.0829999446868896,-0.2590000033378601,-1.7699999809265137,Inputs/Structures/Protein_AF_structures/AF_Targets/narz_ecoli/fold_narz_ecoli_model_0.cif
+NFUA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-6.506999969482422,14.112000465393066,14.70300006866455,Inputs/Structures/Protein_AF_structures/AF_Targets/nfua_ecoli/fold_nfua_ecoli_model_0.cif
+NSRR_ECOLI,AF_Targets,[2Fe-2S] cluster,1,-2.0983333587646484,-21.15833282470703,21.118000030517578,Inputs/Structures/Protein_AF_structures/AF_Targets/nsrr_ecoli/fold_nsrr_ecoli_model_0.cif
+PFLA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-6.9629998207092285,8.7413330078125,-1.0729999542236328,Inputs/Structures/Protein_AF_structures/AF_Targets/pfla_ecoli/fold_pfla_ecoli_model_0.cif
+PFLA_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,-8.813750267028809,2.9764997959136963,-0.17849993705749512,Inputs/Structures/Protein_AF_structures/AF_Targets/pfla_ecoli/fold_pfla_ecoli_model_0.cif
+PFLC_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-7.065999984741211,-5.334666728973389,0.6100000143051147,Inputs/Structures/Protein_AF_structures/AF_Targets/pflc_ecoli/fold_pflc_ecoli_model_0.cif
+PFLC_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,-6.419750213623047,-0.7579998970031738,4.576000213623047,Inputs/Structures/Protein_AF_structures/AF_Targets/pflc_ecoli/fold_pflc_ecoli_model_0.cif
+PFLE_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-7.732666492462158,3.4736664295196533,0.24699997901916504,Inputs/Structures/Protein_AF_structures/AF_Targets/pfle_ecoli/fold_pfle_ecoli_model_0.cif
+PFLE_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,-4.075250148773193,2.021749973297119,5.039000034332275,Inputs/Structures/Protein_AF_structures/AF_Targets/pfle_ecoli/fold_pfle_ecoli_model_0.cif
+QUEE_ECOLI,AF_Targets,substrate,1,-1.1373332738876343,0.07600005716085434,8.049332618713379,Inputs/Structures/Protein_AF_structures/AF_Targets/quee_ecoli/fold_quee_ecoli_model_0.cif
+QUEE_ECOLI,AF_Targets,[4Fe-4S] cluster,1,0.4943333566188812,-12.681666374206543,0.38833335041999817,Inputs/Structures/Protein_AF_structures/AF_Targets/quee_ecoli/fold_quee_ecoli_model_0.cif
+QUEE_ECOLI,AF_Targets,Mg(2+),1,0.8830000162124634,-10.949000358581543,7.0920000076293945,Inputs/Structures/Protein_AF_structures/AF_Targets/quee_ecoli/fold_quee_ecoli_model_0.cif
+QUEE_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,-0.3240000009536743,-5.69950008392334,-0.9529999494552612,Inputs/Structures/Protein_AF_structures/AF_Targets/quee_ecoli/fold_quee_ecoli_model_0.cif
+QUEG_ECOLI,AF_Targets,[4Fe-4S] cluster,1,7.772250175476074,-8.080499649047852,-11.32349967956543,Inputs/Structures/Protein_AF_structures/AF_Targets/queg_ecoli/fold_queg_ecoli_model_0.cif
+QUEG_ECOLI,AF_Targets,[4Fe-4S] cluster,2,4.414000034332275,-9.557499885559082,0.7187499403953552,Inputs/Structures/Protein_AF_structures/AF_Targets/queg_ecoli/fold_queg_ecoli_model_0.cif
+RIMO_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-2.734999895095825,3.3269999027252197,-9.962333679199219,Inputs/Structures/Protein_AF_structures/AF_Targets/rimo_ecoli/fold_rimo_ecoli_model_0.cif
+RIMO_ECOLI,AF_Targets,[4Fe-4S] cluster,2,9.716666221618652,10.63033390045166,-6.573333740234375,Inputs/Structures/Protein_AF_structures/AF_Targets/rimo_ecoli/fold_rimo_ecoli_model_0.cif
+ROXA_ECOLI,AF_Targets,substrate,1,-9.565750122070312,2.317000150680542,16.541248321533203,Inputs/Structures/Protein_AF_structures/AF_Targets/roxa_ecoli/fold_roxa_ecoli_model_0.cif
+ROXA_ECOLI,AF_Targets,Fe cation,1,-14.449666023254395,0.9736666679382324,10.839667320251465,Inputs/Structures/Protein_AF_structures/AF_Targets/roxa_ecoli/fold_roxa_ecoli_model_0.cif
+SODF_ECOLI,AF_Targets,Fe cation,1,1.9647501707077026,6.86899995803833,0.1455000638961792,Inputs/Structures/Protein_AF_structures/AF_Targets/sodf_ecoli/fold_sodf_ecoli_model_0.cif
+TAUD_ECOLI,AF_Targets,taurine,1,3.4945998191833496,5.167800426483154,6.868199825286865,Inputs/Structures/Protein_AF_structures/AF_Targets/taud_ecoli/fold_taud_ecoli_model_0.cif
+TAUD_ECOLI,AF_Targets,Fe cation,1,-1.7059998512268066,-3.489999771118164,2.938666582107544,Inputs/Structures/Protein_AF_structures/AF_Targets/taud_ecoli/fold_taud_ecoli_model_0.cif
+TAUD_ECOLI,AF_Targets,2-oxoglutarate,1,7.992249965667725,-1.715749979019165,0.8750000596046448,Inputs/Structures/Protein_AF_structures/AF_Targets/taud_ecoli/fold_taud_ecoli_model_0.cif
+THIC_ECOLI,AF_Targets,substrate,1,-9.619874954223633,-11.922999382019043,0.20100000500679016,Inputs/Structures/Protein_AF_structures/AF_Targets/thic_ecoli/fold_thic_ecoli_model_0.cif
+THIC_ECOLI,AF_Targets,Zn(2+),1,-15.41349983215332,-10.020999908447266,-12.312999725341797,Inputs/Structures/Protein_AF_structures/AF_Targets/thic_ecoli/fold_thic_ecoli_model_0.cif
+THIC_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-1.3073333501815796,21.966001510620117,-30.25933265686035,Inputs/Structures/Protein_AF_structures/AF_Targets/thic_ecoli/fold_thic_ecoli_model_0.cif
+THIH_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-12.52299976348877,8.561333656311035,-5.091000080108643,Inputs/Structures/Protein_AF_structures/AF_Targets/thih_ecoli/fold_thih_ecoli_model_0.cif
+TSAD_ECOLI,AF_Targets,Fe cation,1,-3.811333417892456,-2.013000249862671,4.126333236694336,Inputs/Structures/Protein_AF_structures/AF_Targets/tsad_ecoli/fold_tsad_ecoli_model_0.cif
+TSAD_ECOLI,AF_Targets,substrate,1,8.244250297546387,0.8445000648498535,-2.6317501068115234,Inputs/Structures/Protein_AF_structures/AF_Targets/tsad_ecoli/fold_tsad_ecoli_model_0.cif
+TTCA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-1.1660000085830688,9.992667198181152,16.658000946044922,Inputs/Structures/Protein_AF_structures/AF_Targets/ttca_ecoli/fold_ttca_ecoli_model_0.cif
+UACF_ECOLI,AF_Targets,[4Fe-4S] cluster,1,14.417749404907227,-15.982250213623047,-9.897000312805176,Inputs/Structures/Protein_AF_structures/AF_Targets/uacf_ecoli/fold_uacf_ecoli_model_0.cif
+UACF_ECOLI,AF_Targets,[4Fe-4S] cluster,2,24.556751251220703,-10.392999649047852,-5.4447503089904785,Inputs/Structures/Protein_AF_structures/AF_Targets/uacf_ecoli/fold_uacf_ecoli_model_0.cif
+UACF_ECOLI,AF_Targets,[4Fe-4S] cluster,3,32.089752197265625,-5.163750171661377,-17.704750061035156,Inputs/Structures/Protein_AF_structures/AF_Targets/uacf_ecoli/fold_uacf_ecoli_model_0.cif
+UACF_ECOLI,AF_Targets,[4Fe-4S] cluster,4,34.68550109863281,5.689499855041504,-13.414999961853027,Inputs/Structures/Protein_AF_structures/AF_Targets/uacf_ecoli/fold_uacf_ecoli_model_0.cif
+UACF_ECOLI,AF_Targets,[4Fe-4S] cluster,5,5.114250183105469,-13.140249252319336,-2.9352500438690186,Inputs/Structures/Protein_AF_structures/AF_Targets/uacf_ecoli/fold_uacf_ecoli_model_0.cif
+YBHJ_ECOLI,AF_Targets,[4Fe-4S] cluster,1,10.366666793823242,0.5260000824928284,6.114999771118164,Inputs/Structures/Protein_AF_structures/AF_Targets/ybhj_ecoli/fold_ybhj_ecoli_model_0.cif
+YBIX_ECOLI,AF_Targets,Fe cation,1,-11.281333923339844,-4.450000286102295,7.688333034515381,Inputs/Structures/Protein_AF_structures/AF_Targets/ybix_ecoli/fold_ybix_ecoli_model_0.cif
+YBIX_ECOLI,AF_Targets,2-oxoglutarate,1,5.257999897003174,1.0989999771118164,13.0649995803833,Inputs/Structures/Protein_AF_structures/AF_Targets/ybix_ecoli/fold_ybix_ecoli_model_0.cif
+YCBX_ECOLI,AF_Targets,[2Fe-2S] cluster,1,3.73799991607666,1.625,-10.380000114440918,Inputs/Structures/Protein_AF_structures/AF_Targets/ycbx_ecoli/fold_ycbx_ecoli_model_0.cif
+YDEM_ECOLI,AF_Targets,[4Fe-4S] cluster,1,10.185999870300293,-1.6436666250228882,-9.973999977111816,Inputs/Structures/Protein_AF_structures/AF_Targets/ydem_ecoli/fold_ydem_ecoli_model_0.cif
+YDEM_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,4.918000221252441,-1.5169998407363892,-9.249399185180664,Inputs/Structures/Protein_AF_structures/AF_Targets/ydem_ecoli/fold_ydem_ecoli_model_0.cif
+YDEM_ECOLI,AF_Targets,[4Fe-4S] cluster,2,-1.4269999265670776,9.569999694824219,3.926500082015991,Inputs/Structures/Protein_AF_structures/AF_Targets/ydem_ecoli/fold_ydem_ecoli_model_0.cif
+YDEM_ECOLI,AF_Targets,[4Fe-4S] cluster,3,-15.889249801635742,13.812500953674316,-1.7882499694824219,Inputs/Structures/Protein_AF_structures/AF_Targets/ydem_ecoli/fold_ydem_ecoli_model_0.cif
+YDEP_ECOLI,AF_Targets,[4Fe-4S] cluster,1,2.116499900817871,-10.72599983215332,2.0814998149871826,Inputs/Structures/Protein_AF_structures/AF_Targets/ydep_ecoli/fold_ydep_ecoli_model_0.cif
+YDHV_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-13.179999351501465,-6.17549991607666,-1.412000060081482,Inputs/Structures/Protein_AF_structures/AF_Targets/ydhv_ecoli/fold_ydhv_ecoli_model_0.cif
+YEIL_ECOLI,AF_Targets,[4Fe-4S] cluster,1,3.1059999465942383,8.973249435424805,0.02049994468688965,Inputs/Structures/Protein_AF_structures/AF_Targets/yeil_ecoli/fold_yeil_ecoli_model_0.cif
+YGIQ_ECOLI,AF_Targets,[4Fe-4S] cluster,1,0.5666667222976685,0.543666660785675,-6.354666233062744,Inputs/Structures/Protein_AF_structures/AF_Targets/ygiq_ecoli/fold_ygiq_ecoli_model_0.cif
+YHCC_ECOLI,AF_Targets,[4Fe-4S] cluster,1,7.056666851043701,7.192667007446289,-10.528666496276855,Inputs/Structures/Protein_AF_structures/AF_Targets/yhcc_ecoli/fold_yhcc_ecoli_model_0.cif
+YJIL_ECOLI,AF_Targets,[4Fe-4S] cluster,1,9.045499801635742,-1.8945000171661377,15.725000381469727,Inputs/Structures/Protein_AF_structures/AF_Targets/yjil_ecoli/fold_yjil_ecoli_model_0.cif
+YJJW_ECOLI,AF_Targets,[4Fe-4S] cluster,1,-3.7166664600372314,6.061333179473877,-6.044000148773193,Inputs/Structures/Protein_AF_structures/AF_Targets/yjjw_ecoli/fold_yjjw_ecoli_model_0.cif
+YJJW_ECOLI,AF_Targets,S-adenosyl-L-methionine,1,-5.859499931335449,2.872500419616699,-1.2582499980926514,Inputs/Structures/Protein_AF_structures/AF_Targets/yjjw_ecoli/fold_yjjw_ecoli_model_0.cif
+YJJW_ECOLI,AF_Targets,[4Fe-4S] cluster,2,1.0647499561309814,22.940750122070312,-6.594500541687012,Inputs/Structures/Protein_AF_structures/AF_Targets/yjjw_ecoli/fold_yjjw_ecoli_model_0.cif
+YJJW_ECOLI,AF_Targets,[4Fe-4S] cluster,3,-0.3374998867511749,24.199501037597656,5.151750087738037,Inputs/Structures/Protein_AF_structures/AF_Targets/yjjw_ecoli/fold_yjjw_ecoli_model_0.cif
+YNFE_ECOLI,AF_Targets,[4Fe-4S] cluster,1,4.584250450134277,4.63224983215332,-9.8774995803833,Inputs/Structures/Protein_AF_structures/AF_Targets/ynfe_ecoli/fold_ynfe_ecoli_model_0.cif
+YNFE_ECOLI,AF_Targets,Mo-bis(molybdopterin guanine dinucleotide),1,-2.499000072479248,-2.0950000286102295,4.945000171661377,Inputs/Structures/Protein_AF_structures/AF_Targets/ynfe_ecoli/fold_ynfe_ecoli_model_0.cif
+YNFF_ECOLI,AF_Targets,[4Fe-4S] cluster,1,9.784500122070312,8.997249603271484,1.9730000495910645,Inputs/Structures/Protein_AF_structures/AF_Targets/ynff_ecoli/fold_ynff_ecoli_model_0.cif
+YNFF_ECOLI,AF_Targets,Mo-bis(molybdopterin guanine dinucleotide),1,-5.285999774932861,0.45399999618530273,-1.3300000429153442,Inputs/Structures/Protein_AF_structures/AF_Targets/ynff_ecoli/fold_ynff_ecoli_model_0.cif
+YOAA_ECOLI,AF_Targets,ATP,1,-6.577000141143799,-8.008999824523926,18.2810001373291,Inputs/Structures/Protein_AF_structures/AF_Targets/yoaa_ecoli/fold_yoaa_ecoli_model_0.cif
+YOAA_ECOLI,AF_Targets,[4Fe-4S] cluster,1,17.246000289916992,16.961000442504883,-3.66225004196167,Inputs/Structures/Protein_AF_structures/AF_Targets/yoaa_ecoli/fold_yoaa_ecoli_model_0.cif
+HCR_ECOLI,AF_Prots_both_types,[2Fe-2S] cluster,1,0.7922499775886536,7.007499694824219,-10.313499450683594,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/hcr_ecoli/fold_hcr_ecoli_model_0.cif
+HYDN_ECOLI,AF_Prots_both_types,[4Fe-4S] cluster,1,-1.096750020980835,1.5812499523162842,-14.663249969482422,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/hydn_ecoli/fold_hydn_ecoli_model_0.cif
+HYDN_ECOLI,AF_Prots_both_types,[4Fe-4S] cluster,2,-1.2552499771118164,-4.340000152587891,-3.8575000762939453,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/hydn_ecoli/fold_hydn_ecoli_model_0.cif
+HYDN_ECOLI,AF_Prots_both_types,[4Fe-4S] cluster,3,6.328500270843506,4.616499900817871,5.8414998054504395,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/hydn_ecoli/fold_hydn_ecoli_model_0.cif
+HYDN_ECOLI,AF_Prots_both_types,[4Fe-4S] cluster,4,-1.7079999446868896,4.866250038146973,14.739500045776367,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/hydn_ecoli/fold_hydn_ecoli_model_0.cif
+NORV_ECOLI,AF_Prots_both_types,Fe cation,1,18.721500396728516,-7.977999687194824,7.261250019073486,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/norv_ecoli/fold_norv_ecoli_model_0.cif
+NORV_ECOLI,AF_Prots_both_types,Fe cation,2,18.339332580566406,-9.497333526611328,0.8139999508857727,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/norv_ecoli/fold_norv_ecoli_model_0.cif
+NORV_ECOLI,AF_Prots_both_types,FMN,1,-16.357500076293945,-2.754500150680542,4.889500141143799,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/norv_ecoli/fold_norv_ecoli_model_0.cif
+NORV_ECOLI,AF_Prots_both_types,Fe cation,3,-58.36199951171875,13.954999923706055,4.671999931335449,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/norv_ecoli/fold_norv_ecoli_model_0.cif
+YFAE_ECOLI,AF_Prots_both_types,[2Fe-2S] cluster,1,6.914499759674072,0.5437499284744263,-6.889500141143799,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/yfae_ecoli/fold_yfae_ecoli_model_0.cif
+YFHL_ECOLI,AF_Prots_both_types,[4Fe-4S] cluster,1,-0.39625000953674316,2.579249858856201,-13.56399917602539,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/yfhl_ecoli/fold_yfhl_ecoli_model_0.cif
+YFHL_ECOLI,AF_Prots_both_types,[4Fe-4S] cluster,2,1.7027498483657837,3.8449997901916504,-1.4950000047683716,Inputs/Structures/Protein_AF_structures/AF_Prots_both_types/yfhl_ecoli/fold_yfhl_ecoli_model_0.cif
