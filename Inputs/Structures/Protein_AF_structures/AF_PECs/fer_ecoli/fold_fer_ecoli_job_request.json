@@ -1,0 +1,18 @@
+[{
+ "name": "FER_ECOLI",
+ "modelSeeds": [
+  "903598860"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MPKIVILPHQDLCPDGAVLEANSGETILDAALRNGIEIEHACEKSCACTTCHCIVREGFDSLPESSEQEDDMLDKAWGLEPESRLSCQARVTDEDLVVEIPRYTINHAREH",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
