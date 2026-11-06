@@ -1,0 +1,19 @@
+@<TRIPOS>MOLECULE
+FSG
+     4     4     1     0     0 
+SMALL
+RESP
+
+
+@<TRIPOS>ATOM
+       1 FE1            15.7040   12.1310   50.3710 E1         1 FSG       0.710550
+       2 FE2            13.0530   12.0770   51.1590 E2         1 FSG       0.447550
+       3 S1             14.7880   12.8610   52.3500 E6         1 FSG      -0.767750
+       4 S2             13.8910   11.2850   49.0970 E7         1 FSG      -0.586150
+@<TRIPOS>BOND
+     1     1     3 1
+     2     1     4 1
+     3     2     3 1
+     4     2     4 1
+@<TRIPOS>SUBSTRUCTURE
+     1 FSG         1 TEMP              0 ****  ****    0 ROOT

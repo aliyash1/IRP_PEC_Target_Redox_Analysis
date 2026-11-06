@@ -1,0 +1,197 @@
+Carvalho & Swart, JCIM 2014, 54, 613 + Correction JCIM 2015 (SI Tables S1, S3, Fig. S2) - [Fe4S4]2+(Cys)4
+MASS
+71 55.85                             Fe ion
+72 55.85                             Fe ion
+73 55.85                             Fe ion
+74 55.85                             Fe ion
+75 32.06        2.900                S
+76 32.06        2.900                S
+77 32.06        2.900                S
+78 32.06        2.900                S
+79 32.06        2.900                S
+7a 32.06        2.900                S
+7b 32.06        2.900                S
+7c 32.06        2.900                S
+ 
+BOND
+CT-75  154.20   1.8200      CS2014 SI Table S1 S1-CT
+CT-76  154.20   1.8200      CS2014 SI Table S1 S1-CT
+CT-77  154.20   1.8200      CS2014 SI Table S1 S1-CT
+CT-78  154.20   1.8200      CS2014 SI Table S1 S1-CT
+71-75   82.80   2.2800      CS2014 SI Table S1
+71-7a   75.30   2.2200      CS2014 SI Table S1
+71-7b   60.00   2.3500      CS2014 SI Table S1
+71-7c   60.00   2.3500      CS2014 SI Table S1
+72-76   82.80   2.2800      CS2014 SI Table S1
+72-79   75.30   2.2200      CS2014 SI Table S1
+72-7b   60.00   2.3500      CS2014 SI Table S1
+72-7c   60.00   2.3500      CS2014 SI Table S1
+73-77   82.80   2.2800      CS2014 SI Table S1
+73-79   60.00   2.3500      CS2014 SI Table S1
+73-7a   60.00   2.3500      CS2014 SI Table S1
+73-7c   75.30   2.2200      CS2014 SI Table S1
+74-78   82.80   2.2800      CS2014 SI Table S1
+74-79   60.00   2.3500      CS2014 SI Table S1
+74-7a   60.00   2.3500      CS2014 SI Table S1
+74-7b   75.30   2.2200      CS2014 SI Table S1
+ 
+ANGL
+CT-75-71    18.20     104.90    CS2014 SI Table S3
+CT-76-72    18.20     104.90    CS2014 SI Table S3
+CT-77-73    18.20     104.90    CS2014 SI Table S3
+CT-78-74    18.20     104.90    CS2014 SI Table S3
+H1-CT-75    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-76    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-77    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-78    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+71-7a-73    10.50      73.00    CS2014 SI Table S3
+71-7a-74    10.50      73.00    CS2014 SI Table S3
+71-7b-72     8.50      71.30    CS2014 SI Table S3
+71-7b-74    10.50      73.00    CS2014 SI Table S3
+71-7c-72     8.50      71.30    CS2014 SI Table S3
+71-7c-73    10.50      73.00    CS2014 SI Table S3
+72-79-73    10.50      73.00    CS2014 SI Table S3
+72-79-74    10.50      73.00    CS2014 SI Table S3
+72-7b-74    10.50      73.00    CS2014 SI Table S3
+72-7c-73    10.50      73.00    CS2014 SI Table S3
+73-79-74     8.50      71.30    CS2014 SI Table S3
+73-7a-74     8.50      71.30    CS2014 SI Table S3
+XC-CT-75    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-76    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-77    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-78    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+75-71-7a    12.80     120.00    CS2014 SI Table S3
+75-71-7b    12.10     110.00    CS2014 SI Table S3
+75-71-7c    12.10     110.00    CS2014 SI Table S3
+76-72-79    12.80     120.00    CS2014 SI Table S3
+76-72-7b    12.10     110.00    CS2014 SI Table S3
+76-72-7c    12.10     110.00    CS2014 SI Table S3
+77-73-79    12.10     110.00    CS2014 SI Table S3
+77-73-7a    12.10     110.00    CS2014 SI Table S3
+77-73-7c    12.80     120.00    CS2014 SI Table S3
+78-74-79    12.10     110.00    CS2014 SI Table S3
+78-74-7a    12.10     110.00    CS2014 SI Table S3
+78-74-7b    12.80     120.00    CS2014 SI Table S3
+79-72-7b    13.00     104.50    CS2014 SI Table S3
+79-72-7c    13.00     104.50    CS2014 SI Table S3
+79-73-7a     7.00     107.00    CS2014 SI Table S3
+79-73-7c    13.00     104.50    CS2014 SI Table S3
+79-74-7a     7.00     107.00    CS2014 SI Table S3
+79-74-7b    13.00     104.50    CS2014 SI Table S3
+7a-71-7b    13.00     104.50    CS2014 SI Table S3
+7a-71-7c    13.00     104.50    CS2014 SI Table S3
+7a-73-7c    13.00     104.50    CS2014 SI Table S3
+7a-74-7b    13.00     104.50    CS2014 SI Table S3
+7b-71-7c     7.00     107.00    CS2014 SI Table S3
+7b-72-7c     7.00     107.00    CS2014 SI Table S3
+ 
+DIHE
+CT-75-71-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-75-71-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-75-71-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-76-72-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-76-72-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-76-72-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-77-73-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-77-73-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-77-73-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-78-74-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-78-74-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-78-74-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-75-71    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-76-72    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-77-73    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-78-74    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-75-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7a-73-77    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7a-73-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7a-73-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7a-74-78    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7a-74-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7a-74-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7b-72-76    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7b-72-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7b-72-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7b-74-78    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7b-74-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7b-74-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7c-72-76    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7c-72-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7c-72-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7c-73-77    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7c-73-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+71-7c-73-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-76-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-79-73-77    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-79-73-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-79-73-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-79-74-78    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-79-74-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-79-74-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7b-71-75    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7b-71-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7b-71-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7b-74-78    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7b-74-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7b-74-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7c-71-75    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7c-71-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7c-71-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7c-73-77    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7c-73-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+72-7c-73-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-77-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-79-72-76    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-79-72-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-79-72-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-79-74-78    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-79-74-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-79-74-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7a-71-75    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7a-71-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7a-71-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7a-74-78    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7a-74-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7a-74-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7c-71-75    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7c-71-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7c-71-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7c-72-76    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7c-72-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+73-7c-72-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-78-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-79-72-76    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-79-72-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-79-72-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-79-73-77    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-79-73-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-79-73-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7a-71-75    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7a-71-7b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7a-71-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7a-73-77    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7a-73-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7a-73-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7b-71-75    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7b-71-7a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7b-71-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7b-72-76    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7b-72-79    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+74-7b-72-7c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+ 
+IMPR
+ 
+NONB
+  71          1.4560  0.0130000000       Fe: UFF (Rappe 1992), as in the Bryce-database implementation of this set
+  72          1.4560  0.0130000000       Fe: UFF (Rappe 1992), as in the Bryce-database implementation of this set
+  73          1.4560  0.0130000000       Fe: UFF (Rappe 1992), as in the Bryce-database implementation of this set
+  74          1.4560  0.0130000000       Fe: UFF (Rappe 1992), as in the Bryce-database implementation of this set
+  75          2.0000  0.2500000000       S: ff value, as in the Bryce-database implementation
+  76          2.0000  0.2500000000       S: ff value, as in the Bryce-database implementation
+  77          2.0000  0.2500000000       S: ff value, as in the Bryce-database implementation
+  78          2.0000  0.2500000000       S: ff value, as in the Bryce-database implementation
+  79          2.0000  0.2500000000       S: ff value, as in the Bryce-database implementation
+  7a          2.0000  0.2500000000       S: ff value, as in the Bryce-database implementation
+  7b          2.0000  0.2500000000       S: ff value, as in the Bryce-database implementation
+  7c          2.0000  0.2500000000       S: ff value, as in the Bryce-database implementation
+

@@ -62,7 +62,7 @@ import numpy as np
 import pandas as pd
 import requests
 
-# --- project layout: <project>/<a>/<b>/this_script.py ---------------------------------
+# --- settings---------------------------------
 base_dir = Path(__file__).resolve().parent
 project_dir = base_dir.parent.parent
 INPUT_FILE = "cofactor_residues_FeS_only.json"
@@ -71,9 +71,10 @@ output_dir = project_dir / "Results" / "1_alphafill"
 ALPHAFILL = "https://alphafill.eu/v1/aff"
 UNIPROT = "https://rest.uniprot.org/uniprotkb"
 
-MIN_IDENTITY, MAX_LOCAL_RMSD, MAX_TCS = 0.70, 0.92, 0.64
+#MIN_IDENTITY, MAX_LOCAL_RMSD, MAX_TCS = 0.70, 0.8, 0.6  # old values - results draft 2
+MIN_IDENTITY, MAX_LOCAL_RMSD, MAX_TCS = 0.25, 3.10, 1.27
 MIN_RESIDUE_FRACTION = 0.75
-COORD_CUTOFF = 3.0      # A: protein atom to a cluster Fe atom
+COORD_CUTOFF = 3.0      # distance between protein atom and a cluster Fe atom
 
 # Fe-S clusters (default screen): table name -> AlphaFill compound codes
 FES_CODES = {"[4Fe-4S] cluster": {"SF4"}, "[2Fe-2S] cluster": {"FES"}, "[3Fe-4S] cluster": {"F3S"},

@@ -1,0 +1,169 @@
+{
+  "name": "4Fe4S_twoplus_4Cys_Teo2020",
+  "environment": "4Fe4S_4Cys",
+  "cluster": "4Fe4S",
+  "charge_state": "2+",
+  "total_charge": -2.0,
+  "core_resname": "FSJ",
+  "core_mol2": "FSJ_core.mol2",
+  "frcmod": "FeS_twoplus.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "41"
+    },
+    {
+      "name": "FE2",
+      "element": "Fe",
+      "type": "42"
+    },
+    {
+      "name": "FE3",
+      "element": "Fe",
+      "type": "43"
+    },
+    {
+      "name": "FE4",
+      "element": "Fe",
+      "type": "44"
+    },
+    {
+      "name": "S1",
+      "element": "S",
+      "type": "49"
+    },
+    {
+      "name": "S2",
+      "element": "S",
+      "type": "4a"
+    },
+    {
+      "name": "S3",
+      "element": "S",
+      "type": "4b"
+    },
+    {
+      "name": "S4",
+      "element": "S",
+      "type": "4c"
+    }
+  ],
+  "core_bonds": [
+    [
+      "FE1",
+      "S2"
+    ],
+    [
+      "FE1",
+      "S3"
+    ],
+    [
+      "FE1",
+      "S4"
+    ],
+    [
+      "FE2",
+      "S1"
+    ],
+    [
+      "FE2",
+      "S3"
+    ],
+    [
+      "FE2",
+      "S4"
+    ],
+    [
+      "FE3",
+      "S1"
+    ],
+    [
+      "FE3",
+      "S2"
+    ],
+    [
+      "FE3",
+      "S4"
+    ],
+    [
+      "FE4",
+      "S1"
+    ],
+    [
+      "FE4",
+      "S2"
+    ],
+    [
+      "FE4",
+      "S3"
+    ]
+  ],
+  "ligands": [
+    {
+      "resname": "C1J",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C1J.lib"
+    },
+    {
+      "resname": "C2J",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE2",
+      "lib": "C2J.lib"
+    },
+    {
+      "resname": "C3J",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE3",
+      "lib": "C3J.lib"
+    },
+    {
+      "resname": "C4J",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE4",
+      "lib": "C4J.lib"
+    }
+  ],
+  "atom_types": {
+    "41": "Fe",
+    "42": "Fe",
+    "43": "Fe",
+    "44": "Fe",
+    "45": "S",
+    "46": "S",
+    "47": "S",
+    "48": "S",
+    "49": "S",
+    "4a": "S",
+    "4b": "S",
+    "4c": "S"
+  },
+  "type_renaming": {
+    "M1": "41",
+    "M2": "42",
+    "M3": "43",
+    "M4": "44",
+    "Y1": "45",
+    "Y2": "46",
+    "Y3": "47",
+    "Y4": "48",
+    "Y5": "49",
+    "Y6": "4a",
+    "Y7": "4b",
+    "Y8": "4c"
+  },
+  "source": "Teo et al., Chem. Sci. 2020, doi:10.1039/d0sc02245d",
+  "derived_with": {
+    "protein_ff": "ff14SB",
+    "water": "TIP3P",
+    "fe_vdw": "interpolated Li/Merz IOD Fe2+/Fe3+ for TIP3P"
+  },
+  "ca_type": "XC",
+  "charge_adjustment_core": -1e-05,
+  "note": ""
+}

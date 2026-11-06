@@ -1,0 +1,41 @@
+                :-) GROMACS - gmx grompp, 2026.3-conda_forge (-:
+
+Executable:   /home/stefan_loonen/miniforge3/envs/GROMACS2026/bin.AVX2_256/gmx
+Data prefix:  /home/stefan_loonen/miniforge3/envs/GROMACS2026
+Working dir:  /home/stefan_loonen/fes_example_run/systems/1iro
+Command line:
+  gmx grompp -f '/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/minim.mdp' -c system.gro -p system.top -o em.tpr -maxwarn 0
+
+Generating 1-4 interactions: fudge = 0.5
+Number of degrees of freedom in T-Coupling group rest is 20934.00
+The integrator does not provide a ensemble temperature, there is no system ensemble temperature
+
+GROMACS reminds you: "The scientific method is an integral part of human intelligence, and when it has once been set at work it can only be dismissed by dismissing the intelligence itself" (George H. Mead)
+
+Setting the LD random seed to -1900545926
+
+Generated 666 of the 666 non-bonded parameter combinations
+
+Generated 666 of the 666 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'system1'
+
+Excluding 3 bonded neighbours molecule type 'Na+'
+
+Excluding 3 bonded neighbours molecule type 'WAT'
+
+Cleaning up constraints and constant bonded interactions with virtual sites
+Analysing residue names:
+There are:    49    Protein residues
+There are:    14      Other residues
+There are:  3094      Water residues
+Analysing Protein...
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+The largest distance between excluded atoms is 0.517 nm between atom 143 and 573
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 48x42x44, spacing 0.111 0.117 0.119
+
+Estimate for the relative computational load of the PME mesh part: 0.25
+
+This run will generate roughly 2 Mb of data

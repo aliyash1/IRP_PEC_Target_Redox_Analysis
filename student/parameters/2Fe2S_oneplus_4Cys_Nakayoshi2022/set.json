@@ -1,0 +1,109 @@
+{
+  "name": "2Fe2S_oneplus_4Cys_Nakayoshi2022",
+  "environment": "2Fe2S_4Cys",
+  "cluster": "2Fe2S",
+  "charge_state": "1+",
+  "total_charge": -3.0,
+  "core_resname": "FSD",
+  "core_mol2": "FSD_core.mol2",
+  "frcmod": "FeS_oneplus.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "W1"
+    },
+    {
+      "name": "FE2",
+      "element": "Fe",
+      "type": "W2"
+    },
+    {
+      "name": "S1",
+      "element": "S",
+      "type": "W7"
+    },
+    {
+      "name": "S2",
+      "element": "S",
+      "type": "W8"
+    }
+  ],
+  "core_bonds": [
+    [
+      "FE1",
+      "S1"
+    ],
+    [
+      "FE1",
+      "S2"
+    ],
+    [
+      "FE2",
+      "S1"
+    ],
+    [
+      "FE2",
+      "S2"
+    ]
+  ],
+  "ligands": [
+    {
+      "resname": "C1D",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C1D.lib"
+    },
+    {
+      "resname": "C2D",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C2D.lib"
+    },
+    {
+      "resname": "C3D",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE2",
+      "lib": "C3D.lib"
+    },
+    {
+      "resname": "C4D",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE2",
+      "lib": "C4D.lib"
+    }
+  ],
+  "atom_types": {
+    "W1": "Fe",
+    "W2": "Fe",
+    "W3": "S",
+    "W4": "S",
+    "W5": "S",
+    "W6": "S",
+    "W7": "S",
+    "W8": "S"
+  },
+  "type_renaming": {
+    "M1": "W1",
+    "M2": "W2",
+    "Y1": "W3",
+    "Y2": "W4",
+    "Y5": "W5",
+    "Y6": "W6",
+    "Y3": "W7",
+    "Y4": "W8"
+  },
+  "source": "Nakayoshi et al., IJMS 2022, doi:10.3390/ijms232415913",
+  "derived_with": {
+    "protein_ff": "ff14SB",
+    "water": "TIP3P",
+    "fe_vdw": "Li/Merz IOD Fe3+ for OPC (mismatch in the paper)"
+  },
+  "ca_type": "XC",
+  "charge_adjustment_core": 0.0,
+  "note": "FE1 is the reduced Fe(II)."
+}

@@ -1,0 +1,13 @@
+# Per-cluster exceptions to config.ini.
+#   structure     = PDB file name without extension
+#   chain, resseq = chain ID and residue number of the cluster in that PDB; * = every cluster in the structure
+#   set           = parameter set to use instead of the default for its environment (empty = default)
+#   extra_ligands = unbound: an Fe that also binds a non-Cys/His protein atom gets the set for its Cys/His ligands,
+#                   the extra ligand stays non-bonded (only van der Waals/electrostatics)
+#
+# Example (uncomment): the [4Fe-4S] cluster of 4g9p in the reduced state
+#4g9p,A,501,4Fe4S_oneplus_3Cys,
+structure,chain,resseq,set,extra_ligands
+# IspG 2Y0F: Glu350 coordinates the fourth Fe of the substrate-free enzyme. This bond is released on substrate
+# binding and during the catalytic cycle, so the 3-Cys set (free fourth Fe) is used and Glu350 is not bonded.
+2y0f,*,*,,unbound

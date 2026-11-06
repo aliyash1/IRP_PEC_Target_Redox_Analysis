@@ -1,0 +1,164 @@
+{
+  "name": "4Fe4S_oneplus_3Cys",
+  "environment": "4Fe4S_3Cys",
+  "cluster": "4Fe4S",
+  "charge_state": "1+",
+  "total_charge": -2.0,
+  "core_resname": "FER",
+  "core_mol2": "FER_core.mol2",
+  "frcmod": "FeS_oneplus.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "11"
+    },
+    {
+      "name": "FE2",
+      "element": "Fe",
+      "type": "12"
+    },
+    {
+      "name": "FE3",
+      "element": "Fe",
+      "type": "13"
+    },
+    {
+      "name": "FE4",
+      "element": "Fe",
+      "type": "14"
+    },
+    {
+      "name": "S1",
+      "element": "S",
+      "type": "19"
+    },
+    {
+      "name": "S2",
+      "element": "S",
+      "type": "1a"
+    },
+    {
+      "name": "S3",
+      "element": "S",
+      "type": "1b"
+    },
+    {
+      "name": "S4",
+      "element": "S",
+      "type": "1c"
+    }
+  ],
+  "core_bonds": [
+    [
+      "FE1",
+      "S2"
+    ],
+    [
+      "FE1",
+      "S3"
+    ],
+    [
+      "FE1",
+      "S4"
+    ],
+    [
+      "FE2",
+      "S1"
+    ],
+    [
+      "FE2",
+      "S3"
+    ],
+    [
+      "FE2",
+      "S4"
+    ],
+    [
+      "FE3",
+      "S1"
+    ],
+    [
+      "FE3",
+      "S2"
+    ],
+    [
+      "FE3",
+      "S4"
+    ],
+    [
+      "FE4",
+      "S1"
+    ],
+    [
+      "FE4",
+      "S2"
+    ],
+    [
+      "FE4",
+      "S3"
+    ]
+  ],
+  "ligands": [
+    {
+      "resname": "C1R",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE2",
+      "lib": "C1R.lib"
+    },
+    {
+      "resname": "C2R",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C2R.lib"
+    },
+    {
+      "resname": "C3R",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE3",
+      "lib": "C3R.lib"
+    }
+  ],
+  "atom_types": {
+    "11": "Fe",
+    "12": "Fe",
+    "13": "Fe",
+    "14": "Fe",
+    "15": "S",
+    "16": "S",
+    "17": "S",
+    "18": "O",
+    "19": "S",
+    "1a": "S",
+    "1b": "S",
+    "1c": "S",
+    "1d": "O"
+  },
+  "type_renaming": {
+    "M1": "11",
+    "M2": "12",
+    "M3": "13",
+    "M4": "14",
+    "Y5": "15",
+    "Y1": "16",
+    "Y7": "17",
+    "Y8": "18",
+    "Y6": "19",
+    "Y2": "1a",
+    "Y3": "1b",
+    "Y4": "1c",
+    "Y9": "1d"
+  },
+  "source": "This work (Loonen et al., bioRxiv 2026), MCPB.py",
+  "derived_with": {
+    "protein_ff": "ff19SB",
+    "water": "OPC",
+    "fe_vdw": "Li/Merz IOD Fe3+ for OPC"
+  },
+  "ca_type": "XC",
+  "charge_adjustment_core": -0.000161,
+  "note": "Own MCPB.py set (IspG). Unligated fourth Fe. Use with OPC water. Known issue: RESP charges were fitted in a different broken-symmetry state (see Review_IspG_4Fe4S_parameters.md)."
+}

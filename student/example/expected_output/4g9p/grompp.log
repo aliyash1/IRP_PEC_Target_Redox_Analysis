@@ -1,0 +1,48 @@
+                :-) GROMACS - gmx grompp, 2026.3-conda_forge (-:
+
+Executable:   /home/stefan_loonen/miniforge3/envs/GROMACS2026/bin.AVX2_256/gmx
+Data prefix:  /home/stefan_loonen/miniforge3/envs/GROMACS2026
+Working dir:  /home/stefan_loonen/fes_example_run/systems/4g9p
+Command line:
+  gmx grompp -f '/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/minim.mdp' -c system.gro -p system.top -o em.tpr -maxwarn 0
+
+Generating 1-4 interactions: fudge = 0.5
+Number of degrees of freedom in T-Coupling group rest is 126702.00
+The integrator does not provide a ensemble temperature, there is no system ensemble temperature
+
+GROMACS reminds you: "If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission." (Grace Hopper, developer of COBOL)
+
+Setting the LD random seed to -1226113409
+
+Generated 1225 of the 1225 non-bonded parameter combinations
+
+Generated 1225 of the 1225 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'system1'
+
+Excluding 3 bonded neighbours molecule type 'CL'
+
+Excluding 3 bonded neighbours molecule type 'K'
+
+Excluding 3 bonded neighbours molecule type 'CL'
+
+Excluding 3 bonded neighbours molecule type 'Na+'
+
+Excluding 3 bonded neighbours molecule type 'WAT'
+
+Cleaning up constraints and constant bonded interactions with virtual sites
+Analysing residue names:
+There are:   402    Protein residues
+There are:     7      Other residues
+There are:     3        Ion residues
+There are: 17970      Water residues
+Analysing Protein...
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+The largest distance between excluded atoms is 0.532 nm between atom 4584 and 6289
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 72x72x96, spacing 0.117 0.117 0.107
+
+Estimate for the relative computational load of the PME mesh part: 0.24
+
+This run will generate roughly 7 Mb of data

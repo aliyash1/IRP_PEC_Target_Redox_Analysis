@@ -1,0 +1,109 @@
+{
+  "name": "2Fe2S_twoplus_4Cys_Carvalho2013",
+  "environment": "2Fe2S_4Cys",
+  "cluster": "2Fe2S",
+  "charge_state": "2+",
+  "total_charge": -2.0,
+  "core_resname": "FSB",
+  "core_mol2": "FSB_core.mol2",
+  "frcmod": "FeS_twoplus.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "K1"
+    },
+    {
+      "name": "FE2",
+      "element": "Fe",
+      "type": "K2"
+    },
+    {
+      "name": "S1",
+      "element": "S",
+      "type": "K7"
+    },
+    {
+      "name": "S2",
+      "element": "S",
+      "type": "K8"
+    }
+  ],
+  "core_bonds": [
+    [
+      "FE1",
+      "S1"
+    ],
+    [
+      "FE1",
+      "S2"
+    ],
+    [
+      "FE2",
+      "S1"
+    ],
+    [
+      "FE2",
+      "S2"
+    ]
+  ],
+  "ligands": [
+    {
+      "resname": "C1B",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C1B.lib"
+    },
+    {
+      "resname": "C2B",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C2B.lib"
+    },
+    {
+      "resname": "C3B",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE2",
+      "lib": "C3B.lib"
+    },
+    {
+      "resname": "C4B",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE2",
+      "lib": "C4B.lib"
+    }
+  ],
+  "atom_types": {
+    "K1": "Fe",
+    "K2": "Fe",
+    "K3": "S",
+    "K4": "S",
+    "K5": "S",
+    "K6": "S",
+    "K7": "S",
+    "K8": "S"
+  },
+  "type_renaming": {
+    "M1": "K1",
+    "M2": "K2",
+    "Y1": "K3",
+    "Y2": "K4",
+    "Y3": "K5",
+    "Y4": "K6",
+    "Y5": "K7",
+    "Y6": "K8"
+  },
+  "source": "Carvalho, Teixeira, Ramos, JCC 2013, doi:10.1002/jcc.23287",
+  "derived_with": {
+    "protein_ff": "ff99SB",
+    "water": "TIP3P",
+    "fe_vdw": "Giammona heme Fe (1.20, 0.05)"
+  },
+  "ca_type": "XC",
+  "charge_adjustment_core": 0.0,
+  "note": "Fe-S(Cys)-CB angle is a placeholder (see set README)."
+}

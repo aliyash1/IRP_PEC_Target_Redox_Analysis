@@ -1,0 +1,99 @@
+Nakayoshi et al. IJMS 2022, 23, 15913, SI Table S5 (MCPB.py output, CX renamed XC)
+MASS
+J1 55.85 Fe ion
+J2 55.85 Fe ion
+J3 32.06 2.900 S in cystine
+J4 32.06 2.900 S in cystine
+J5 32.06 2.900 S in cystine
+J6 32.06 2.900 S in cystine
+J7 32.06 2.900 Sp3 S connected with hydrogen
+J8 32.06 2.900 Sp3 S connected with hydrogen
+ 
+BOND
+J1-J7 109.4 2.2070 Created by Seminario method using MCPB.py
+J1-J8 110.4 2.2054 Created by Seminario method using MCPB.py
+J2-J7 99.7 2.2266 Created by Seminario method using MCPB.py
+J2-J8 102.1 2.2216 Created by Seminario method using MCPB.py
+J3-J1 82.9 2.3157 Created by Seminario method using MCPB.py
+J4-J1 80.3 2.3223 Created by Seminario method using MCPB.py
+J5-J2 85.4 2.3090 Created by Seminario method using MCPB.py
+J6-J2 87.2 2.3017 Created by Seminario method using MCPB.py
+CT-J3 237.0 1.810 changed from 222.0 based on methanethiol nmodes
+CT-J4 237.0 1.810 changed from 222.0 based on methanethiol nmodes
+CT-J5 237.0 1.810 changed from 222.0 based on methanethiol nmodes
+CT-J6 237.0 1.810 changed from 222.0 based on methanethiol nmodes
+ 
+ANGL
+CT-J3-J1 72.69 101.72 Created by Seminario method using MCPB.py
+CT-J4-J1 71.25 101.74 Created by Seminario method using MCPB.py
+CT-J5-J2 64.76 101.29 Created by Seminario method using MCPB.py
+CT-J6-J2 82.99 102.82 Created by Seminario method using MCPB.py
+J1-J7-J2 78.53 77.30 Created by Seminario method using MCPB.py
+J1-J8-J2 76.06 77.44 Created by Seminario method using MCPB.py
+J3-J1-J4 30.15 104.41 Created by Seminario method using MCPB.py
+J3-J1-J7 46.82 117.12 Created by Seminario method using MCPB.py
+J3-J1-J8 52.03 109.70 Created by Seminario method using MCPB.py
+J4-J1-J7 50.76 107.72 Created by Seminario method using MCPB.py
+J4-J1-J8 44.75 115.13 Created by Seminario method using MCPB.py
+J8-J1-J7 97.42 103.20 Created by Seminario method using MCPB.py
+J8-J2-J7 99.30 102.04 Created by Seminario method using MCPB.py
+J5-J2-J7 40.09 110.30 Created by Seminario method using MCPB.py
+J5-J2-J8 43.36 111.66 Created by Seminario method using MCPB.py
+J5-J2-J6 29.31 105.97 Created by Seminario method using MCPB.py
+J6-J2-J7 53.17 112.32 Created by Seminario method using MCPB.py
+J6-J2-J8 55.92 114.64 Created by Seminario method using MCPB.py
+XC-CT-J3 50.0 108.60 AA cys (was CT-CT-SH)
+XC-CT-J4 50.0 108.60 AA cys (was CT-CT-SH)
+XC-CT-J5 50.0 108.60 AA cys (was CT-CT-SH)
+XC-CT-J6 50.0 108.60 AA cys (was CT-CT-SH)
+J3-CT-H1 50.0 109.50 AA cyx changed based on NMA nmodes
+J4-CT-H1 50.0 109.50 AA cyx changed based on NMA nmodes
+J5-CT-H1 50.0 109.50 AA cyx changed based on NMA nmodes
+J6-CT-H1 50.0 109.50 AA cyx changed based on NMA nmodes
+ 
+DIHE
+CT-J3-J1-J4 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J3-J1-J7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J3-J1-J8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J4-J1-J7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J4-J1-J8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J5-J2-J7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J5-J2-J8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J5-J2-J6 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J6-J2-J7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-J6-J2-J8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J1-J3-CT-H1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J1-J4-CT-H1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J1-J7-J2-J8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J1-J8-J2-J7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J2-J8-J1-J7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J2-J5-CT-H1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J2-J6-CT-H1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+XC-CT-J3-J1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+XC-CT-J4-J1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+XC-CT-J5-J2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+XC-CT-J6-J2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J3-J1-J4-CT 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J3-J1-J7-J2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J3-J1-J8-J2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J4-J1-J7-J2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J4-J1-J8-J2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J8-J1-J7-J2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J5-J2-J7-J1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J5-J2-J8-J1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J5-J2-J6-CT 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J6-J2-J7-J1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+J6-J2-J8-J1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+ 
+IMPR
+ 
+NONB
+J1 1.4000 0.0157074900 IOD set for Fe3+ ion OPC water from Li et al. JCTC, 2021, 17, 2342
+J2 1.4000 0.0157074900 IOD set for Fe3+ ion OPC water from Li et al. JCTC, 2021, 17, 2342
+J3 1.9825 0.2824 gaff2
+J4 1.9825 0.2824 gaff2
+J5 1.9825 0.2824 gaff2
+J6 1.9825 0.2824 gaff2
+J7 2.0000 0.2500 W. Cornell CH3SH and CH3SCH3 FEP's
+J8 2.0000 0.2500 W. Cornell CH3SH and CH3SCH3 FEP's
+

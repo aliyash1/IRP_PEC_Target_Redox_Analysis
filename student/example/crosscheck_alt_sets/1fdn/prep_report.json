@@ -1,0 +1,56 @@
+{
+  "structure": "1fdn",
+  "input": "/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/example/inputs/1fdn.pdb",
+  "status": "prepared",
+  "warnings": [],
+  "clusters": [
+    {
+      "cluster": "SF4",
+      "chain": "A",
+      "resseq": "56",
+      "environment": "4Fe4S_4Cys",
+      "set": "4Fe4S_twoplus_4Cys_CarvalhoSwart2014",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "FE3": "FE3",
+        "FE4": "FE4",
+        "S1": "S1",
+        "S2": "S2",
+        "S3": "S3",
+        "S4": "S4"
+      },
+      "ligands": [
+        "CYS47(A)->C1H:SG-FE1",
+        "CYS14(A)->C2H:SG-FE2",
+        "CYS8(A)->C3H:SG-FE3",
+        "CYS11(A)->C4H:SG-FE4"
+      ]
+    },
+    {
+      "cluster": "SF4",
+      "chain": "A",
+      "resseq": "57",
+      "environment": "4Fe4S_4Cys",
+      "set": "4Fe4S_twoplus_4Cys_CarvalhoSwart2014",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "FE3": "FE3",
+        "FE4": "FE4",
+        "S1": "S1",
+        "S2": "S2",
+        "S3": "S3",
+        "S4": "S4"
+      },
+      "ligands": [
+        "CYS18(A)->C1H:SG-FE1",
+        "CYS43(A)->C2H:SG-FE2",
+        "CYS37(A)->C3H:SG-FE3",
+        "CYS40(A)->C4H:SG-FE4"
+      ]
+    }
+  ],
+  "natoms": 13155,
+  "net_charge": 0.0
+}

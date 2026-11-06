@@ -1,0 +1,67 @@
+{
+  "structure": "2qh7",
+  "input": "/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/example/inputs/2qh7.pdb",
+  "status": "prepared",
+  "warnings": [
+    "chain A: unmodelled residues in the PDB (9 N-terminal, 2 C-terminal); terminal ones are left out, internal gaps become chain breaks",
+    "chain B: unmodelled residues in the PDB (10 N-terminal, 1 C-terminal); terminal ones are left out, internal gaps become chain breaks",
+    "7 residues have unmodelled atoms in the PDB; tleap rebuilds them from templates"
+  ],
+  "clusters": [
+    {
+      "cluster": "FES",
+      "chain": "A",
+      "resseq": "500",
+      "environment": "2Fe2S_3Cys1His",
+      "set": "2Fe2S_oneplus_3Cys1His_Zuo2021",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "S1": "S1",
+        "S2": "S2"
+      },
+      "ligands": [
+        "CYS72(A)->C1G:SG-FE1",
+        "CYS74(A)->C2G:SG-FE1",
+        "CYS83(A)->C3G:SG-FE2",
+        "HIE87(A)->H1G:ND1-FE2"
+      ]
+    },
+    {
+      "cluster": "FES",
+      "chain": "B",
+      "resseq": "500",
+      "environment": "2Fe2S_3Cys1His",
+      "set": "2Fe2S_oneplus_3Cys1His_Zuo2021",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "S1": "S1",
+        "S2": "S2"
+      },
+      "ligands": [
+        "CYS72(B)->C1G:SG-FE1",
+        "CYS74(B)->C2G:SG-FE1",
+        "CYS83(B)->C3G:SG-FE2",
+        "HIE87(B)->H1G:ND1-FE2"
+      ]
+    }
+  ],
+  "missing_residues": {
+    "A": {
+      "n_term": 9,
+      "internal": 0,
+      "c_term": 2,
+      "internal_residues": []
+    },
+    "B": {
+      "n_term": 10,
+      "internal": 0,
+      "c_term": 1,
+      "internal_residues": []
+    }
+  },
+  "residues_with_missing_atoms": 7,
+  "natoms": 29983,
+  "net_charge": 0.0
+}

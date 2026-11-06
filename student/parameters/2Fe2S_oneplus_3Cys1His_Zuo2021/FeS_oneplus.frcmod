@@ -1,0 +1,96 @@
+Zuo et al. JBIC 2021, 26, 763 (Table 1 + SI Table S4) - mitoNEET [2Fe-2S]+(Cys)3(His), converted from GROMACS units
+MASS
+E1 55.85                             Fe ion
+E2 55.85                             Fe ion
+E3 32.06        2.900                S
+E4 32.06        2.900                S
+E5 32.06        2.900                S
+E6 32.06        2.900                S
+E7 32.06        2.900                S
+ 
+BOND
+CT-E3  237.00   1.8100      ff default (as MCPB.py)
+CT-E4  237.00   1.8100      ff default (as MCPB.py)
+CT-E5  237.00   1.8100      ff default (as MCPB.py)
+E1-E3   28.05   2.4000      Zuo2021 Table 1 (B3LYP, reduced) 23472.2 kJ/mol/nm2, 0.24 nm
+E1-E4   27.80   2.4000      Zuo2021 Table 1 (B3LYP, reduced) 23263.0 kJ/mol/nm2, 0.24 nm
+E1-E6   43.05   2.2600      Zuo2021 Table 1 (B3LYP, reduced) 36024.2 kJ/mol/nm2, 0.226 nm
+E1-E7   42.05   2.2700      Zuo2021 Table 1 (B3LYP, reduced) 35187.4 kJ/mol/nm2, 0.227 nm
+E2-NB    9.25   2.3000      Zuo2021 Table 1 (B3LYP, reduced) 7740.4 kJ/mol/nm2, 0.23 nm
+E2-E5   21.00   2.4200      Zuo2021 Table 1 (B3LYP, reduced) 17572.8 kJ/mol/nm2, 0.242 nm
+E2-E6   36.55   2.3000      Zuo2021 Table 1 (B3LYP, reduced) 30585.0 kJ/mol/nm2, 0.23 nm
+E2-E7   34.75   2.3100      Zuo2021 Table 1 (B3LYP, reduced) 29078.8 kJ/mol/nm2, 0.231 nm
+ 
+ANGL
+CC-NB-E2    39.30     133.52    Zuo2021 SI Table S4 (reduced) 328.904 kJ/mol/rad2
+CR-NB-E2    37.36     116.59    Zuo2021 SI Table S4 (reduced) 312.587 kJ/mol/rad2
+CT-E3-E1    31.41     103.80    Zuo2021 SI Table S4 (reduced) 262.839 kJ/mol/rad2
+CT-E4-E1    39.96     103.69    Zuo2021 SI Table S4 (reduced) 334.427 kJ/mol/rad2
+CT-E5-E2    40.94     104.85    Zuo2021 SI Table S4 (reduced) 342.586 kJ/mol/rad2
+H1-CT-E3    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-E4    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-E5    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+E1-E6-E2    30.37      76.17    Zuo2021 SI Table S4 (reduced) 254.136 kJ/mol/rad2
+E1-E7-E2    31.14      75.93    Zuo2021 SI Table S4 (reduced) 260.58 kJ/mol/rad2
+NB-E2-E5    11.49      89.10    Zuo2021 SI Table S4 (reduced) 96.148 kJ/mol/rad2
+NB-E2-E6    17.41     114.49    Zuo2021 SI Table S4 (reduced) 145.687 kJ/mol/rad2
+NB-E2-E7    21.90     104.60    Zuo2021 SI Table S4 (reduced) 183.301 kJ/mol/rad2
+XC-CT-E3    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-E4    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-E5    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+E3-E1-E4    15.70     102.94    Zuo2021 SI Table S4 (reduced) 131.378 kJ/mol/rad2
+E3-E1-E6    19.86     113.55    Zuo2021 SI Table S4 (reduced) 166.147 kJ/mol/rad2
+E3-E1-E7    19.33     112.63    Zuo2021 SI Table S4 (reduced) 161.753 kJ/mol/rad2
+E4-E1-E6    21.66     111.09    Zuo2021 SI Table S4 (reduced) 181.251 kJ/mol/rad2
+E4-E1-E7    22.39     112.10    Zuo2021 SI Table S4 (reduced) 187.318 kJ/mol/rad2
+E5-E2-E6    21.45     123.31    Zuo2021 SI Table S4 (reduced) 179.452 kJ/mol/rad2
+E5-E2-E7    22.34     121.18    Zuo2021 SI Table S4 (reduced) 186.941 kJ/mol/rad2
+E6-E1-E7    34.21     104.77    Zuo2021 SI Table S4 (reduced) 286.311 kJ/mol/rad2
+E6-E2-E7    31.54     102.46    Zuo2021 SI Table S4 (reduced) 263.927 kJ/mol/rad2
+ 
+DIHE
+CC-NB-E2-E5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CC-NB-E2-E6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CC-NB-E2-E7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CR-NB-E2-E5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CR-NB-E2-E6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CR-NB-E2-E7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E3-E1-E4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E3-E1-E6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E3-E1-E7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E4-E1-E3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E4-E1-E6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E4-E1-E7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E5-E2-NB    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E5-E2-E6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-E5-E2-E7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-E3-E1    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-E4-E1    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-E5-E2    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E1-E3-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E1-E4-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E1-E6-E2-NB    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E1-E6-E2-E5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E1-E6-E2-E7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E1-E7-E2-NB    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E1-E7-E2-E5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E1-E7-E2-E6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E2-E5-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E2-E6-E1-E3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E2-E6-E1-E4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E2-E6-E1-E7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E2-E7-E1-E3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E2-E7-E1-E4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+E2-E7-E1-E6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+ 
+IMPR
+ 
+NONB
+  E1          1.3862  0.0136200000       FeX: Zuo2021 SI, sigma 0.247 nm, eps 0.057 kJ/mol
+  E2          1.4087  0.0172100000       FeY: Zuo2021 SI, sigma 0.251 nm, eps 0.072 kJ/mol
+  E3          2.0000  0.2500000000       S: not given in paper, ff SH value
+  E4          2.0000  0.2500000000       S: not given in paper, ff SH value
+  E5          2.0000  0.2500000000       S: not given in paper, ff SH value
+  E6          2.0000  0.2500000000       S: not given in paper, ff SH value
+  E7          2.0000  0.2500000000       S: not given in paper, ff SH value
+

@@ -1,0 +1,145 @@
+{
+  "4Fe4S_twoplus_3Cys": {
+    "environment": "4Fe4S_3Cys",
+    "charge_state": "2+",
+    "total_charge": -1.0,
+    "source": "This work (Loonen et al., bioRxiv 2026), MCPB.py",
+    "derived_with": {
+      "protein_ff": "ff19SB",
+      "water": "OPC",
+      "fe_vdw": "Li/Merz IOD Fe3+ for OPC"
+    }
+  },
+  "4Fe4S_oneplus_3Cys": {
+    "environment": "4Fe4S_3Cys",
+    "charge_state": "1+",
+    "total_charge": -2.0,
+    "source": "This work (Loonen et al., bioRxiv 2026), MCPB.py",
+    "derived_with": {
+      "protein_ff": "ff19SB",
+      "water": "OPC",
+      "fe_vdw": "Li/Merz IOD Fe3+ for OPC"
+    }
+  },
+  "4Fe4S_twoplus_4Cys_Teo2020": {
+    "environment": "4Fe4S_4Cys",
+    "charge_state": "2+",
+    "total_charge": -2.0,
+    "source": "Teo et al., Chem. Sci. 2020, doi:10.1039/d0sc02245d",
+    "derived_with": {
+      "protein_ff": "ff14SB",
+      "water": "TIP3P",
+      "fe_vdw": "interpolated Li/Merz IOD Fe2+/Fe3+ for TIP3P"
+    }
+  },
+  "4Fe4S_threeplus_4Cys_Teo2020": {
+    "environment": "4Fe4S_4Cys",
+    "charge_state": "3+",
+    "total_charge": -1.0,
+    "source": "Teo et al., Chem. Sci. 2020, doi:10.1039/d0sc02245d",
+    "derived_with": {
+      "protein_ff": "ff14SB",
+      "water": "TIP3P",
+      "fe_vdw": "interpolated Li/Merz IOD Fe2+/Fe3+ for TIP3P"
+    }
+  },
+  "4Fe4S_twoplus_4Cys_CarvalhoSwart2014": {
+    "environment": "4Fe4S_4Cys",
+    "charge_state": "2+",
+    "total_charge": -2.0,
+    "source": "Carvalho & Swart, JCIM 2014, doi:10.1021/ci400718m",
+    "derived_with": {
+      "protein_ff": "ff99SB",
+      "water": "not stated",
+      "fe_vdw": "UFF (via Bryce database implementation)"
+    }
+  },
+  "4Fe4S_oneplus_4Cys_CarvalhoSwart2014": {
+    "environment": "4Fe4S_4Cys",
+    "charge_state": "1+",
+    "total_charge": -3.0,
+    "source": "Carvalho & Swart, JCIM 2014, doi:10.1021/ci400718m",
+    "derived_with": {
+      "protein_ff": "ff99SB",
+      "water": "not stated",
+      "fe_vdw": "UFF (via Bryce database implementation)"
+    }
+  },
+  "2Fe2S_twoplus_4Cys_Nakayoshi2022": {
+    "environment": "2Fe2S_4Cys",
+    "charge_state": "2+",
+    "total_charge": -2.0,
+    "source": "Nakayoshi et al., IJMS 2022, doi:10.3390/ijms232415913",
+    "derived_with": {
+      "protein_ff": "ff14SB",
+      "water": "TIP3P",
+      "fe_vdw": "Li/Merz IOD Fe3+ for OPC (mismatch in the paper)"
+    }
+  },
+  "2Fe2S_oneplus_4Cys_Nakayoshi2022": {
+    "environment": "2Fe2S_4Cys",
+    "charge_state": "1+",
+    "total_charge": -3.0,
+    "source": "Nakayoshi et al., IJMS 2022, doi:10.3390/ijms232415913",
+    "derived_with": {
+      "protein_ff": "ff14SB",
+      "water": "TIP3P",
+      "fe_vdw": "Li/Merz IOD Fe3+ for OPC (mismatch in the paper)"
+    }
+  },
+  "2Fe2S_twoplus_4Cys_Carvalho2013": {
+    "environment": "2Fe2S_4Cys",
+    "charge_state": "2+",
+    "total_charge": -2.0,
+    "source": "Carvalho, Teixeira, Ramos, JCC 2013, doi:10.1002/jcc.23287",
+    "derived_with": {
+      "protein_ff": "ff99SB",
+      "water": "TIP3P",
+      "fe_vdw": "Giammona heme Fe (1.20, 0.05)"
+    }
+  },
+  "2Fe2S_twoplus_2Cys2His_Dawson2016": {
+    "environment": "2Fe2S_2Cys2His",
+    "charge_state": "2+",
+    "total_charge": -0.0,
+    "source": "Dawson et al., PLoS One 2016, doi:10.1371/journal.pone.0162031",
+    "derived_with": {
+      "protein_ff": "ff99SB",
+      "water": "TIP3P",
+      "fe_vdw": "Giammona heme Fe (1.20, 0.05)"
+    }
+  },
+  "2Fe2S_oneplus_2Cys2His_Dawson2016": {
+    "environment": "2Fe2S_2Cys2His",
+    "charge_state": "1+",
+    "total_charge": -1.0,
+    "source": "Dawson et al., PLoS One 2016, doi:10.1371/journal.pone.0162031",
+    "derived_with": {
+      "protein_ff": "ff99SB",
+      "water": "TIP3P",
+      "fe_vdw": "Giammona heme Fe (1.20, 0.05)"
+    }
+  },
+  "2Fe2S_oneplus_3Cys1His_Zuo2021": {
+    "environment": "2Fe2S_3Cys1His",
+    "charge_state": "1+",
+    "total_charge": -2.0,
+    "source": "Zuo et al., JBIC 2021, doi:10.1007/s00775-021-01890-8",
+    "derived_with": {
+      "protein_ff": "AMBER99SB-ILDN (GROMACS)",
+      "water": "TIP3P",
+      "fe_vdw": "Li/Merz IOD Fe3+/Fe2+ for TIP3P"
+    }
+  },
+  "1Fe_threeplus_4Cys_Carvalho2013": {
+    "environment": "1Fe_4Cys",
+    "charge_state": "3+",
+    "total_charge": -1.0,
+    "source": "Carvalho, Teixeira, Ramos, JCC 2013, doi:10.1002/jcc.23287",
+    "derived_with": {
+      "protein_ff": "ff99SB",
+      "water": "TIP3P",
+      "fe_vdw": "Giammona heme Fe (1.20, 0.05)"
+    }
+  }
+}

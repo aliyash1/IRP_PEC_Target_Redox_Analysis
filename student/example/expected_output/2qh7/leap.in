@@ -1,0 +1,26 @@
+source leaprc.protein.ff19SB
+source leaprc.water.opc
+loadamberparams frcmod.ionslm_126_opc
+addAtomTypes { { "E1" "Fe" "sp3" } { "E2" "Fe" "sp3" } { "E3" "S" "sp3" } { "E4" "S" "sp3" } { "E5" "S" "sp3" } { "E6" "S" "sp3" } { "E7" "S" "sp3" } }
+loadamberparams FeS_oneplus.frcmod
+FSG = loadmol2 FSG_core.mol2
+loadoff C1G.lib
+loadoff C2G.lib
+loadoff C3G.lib
+loadoff H1G.lib
+mol = loadpdb clean.pdb
+bond mol.31.SG mol.131.FE1
+bond mol.33.SG mol.131.FE1
+bond mol.42.SG mol.131.FE2
+bond mol.46.ND1 mol.131.FE2
+bond mol.95.SG mol.132.FE1
+bond mol.97.SG mol.132.FE1
+bond mol.106.SG mol.132.FE2
+bond mol.110.ND1 mol.132.FE2
+saveamberparm mol dry.prmtop dry.inpcrd
+solvatebox mol OPCBOX 10.0
+addIonsRand mol Na+ 0
+addIonsRand mol Cl- 0
+saveamberparm mol system.prmtop system.inpcrd
+savepdb mol system_leap.pdb
+quit

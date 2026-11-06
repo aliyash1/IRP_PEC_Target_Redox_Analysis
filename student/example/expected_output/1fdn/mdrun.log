@@ -1,0 +1,31 @@
+                :-) GROMACS - gmx mdrun, 2026.3-conda_forge (-:
+
+Executable:   /home/stefan_loonen/miniforge3/envs/GROMACS2026/bin.AVX2_256/gmx
+Data prefix:  /home/stefan_loonen/miniforge3/envs/GROMACS2026
+Working dir:  /home/stefan_loonen/fes_example_run/systems/1fdn
+Command line:
+  gmx mdrun -deffnm em
+
+The current CPU can measure timings more accurately than the code in
+gmx mdrun was configured to use. This might affect your simulation
+speed as accurate timings are needed for load-balancing.
+Please consider rebuilding gmx mdrun with the GMX_USE_RDTSCP=ON CMake option.
+Reading file em.tpr, VERSION 2026.3-conda_forge (single precision)
+
+Using 1 MPI thread
+Using 12 OpenMP threads 
+
+
+Steepest Descents:
+   Tolerance (Fmax)   =  1.00000e+03
+   Number of steps    =        50000
+
+writing lowest energy coordinates.
+
+Steepest Descents converged to Fmax < 1000 in 374 steps
+Potential Energy  = -1.7480808e+05
+Maximum force     =  8.7863220e+02 on atom 452
+Norm of force     =  3.1737551e+01
+
+GROMACS reminds you: "The scientific method is an integral part of human intelligence, and when it has once been set at work it can only be dismissed by dismissing the intelligence itself" (George H. Mead)
+

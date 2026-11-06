@@ -1,0 +1,8 @@
+structure,prep,error,clusters,natoms,net_charge,warnings,missing_internal,missing_termini,residues_missing_atoms,em_status,epot_kJmol,fmax,fmax_atom,fe_s_min_after_em,fe_s_max_after_em
+1fdn,prepared,,SF456A:4Fe4S_4Cys:4Fe4S_twoplus_4Cys_Teo2020;SF457A:4Fe4S_4Cys:4Fe4S_twoplus_4Cys_Teo2020,13155,0.0,0,0,0,0,converged to Fmax < 1000 in 374 steps,-174808.08,878.6322,452,2.213,2.33
+1iro,prepared,,FE55A:1Fe_4Cys:1Fe_threeplus_4Cys_Carvalho2013,13167,0.0,1,0,1,0,converged to Fmax < 1000 in 389 steps,-168800.52,887.78064,410,,
+1rfk,prepared,,FES100A:2Fe2S_4Cys:2Fe2S_twoplus_4Cys_Nakayoshi2022;FES300B:2Fe2S_4Cys:2Fe2S_twoplus_4Cys_Nakayoshi2022,39810,0.0001,3,3,1,0,converged to Fmax < 1000 in 1075 steps,-545806.5,880.64825,1567,2.12,2.217
+1rie,prepared,,FES200A:2Fe2S_2Cys2His:2Fe2S_twoplus_2Cys2His_Dawson2016,27516,0.0,2,0,2,0,converged to Fmax < 1000 in 331 steps,-356465.03,890.3847,832,2.15,2.191
+2qh7,prepared,,FES500A:2Fe2S_3Cys1His:2Fe2S_oneplus_3Cys1His_Zuo2021;FES500B:2Fe2S_3Cys1His:2Fe2S_oneplus_3Cys1His_Zuo2021,29983,0.0,3,0,22,7,converged to Fmax < 1000 in 432 steps,-391949.5,991.06506,1441,2.136,2.283
+2y0f,prepared,,SF4501A:4Fe4S_3Cys:4Fe4S_twoplus_3Cys;SF4501B:4Fe4S_3Cys:4Fe4S_twoplus_3Cys;SF4501C:4Fe4S_3Cys:4Fe4S_twoplus_3Cys;SF4501D:4Fe4S_3Cys:4Fe4S_twoplus_3Cys,249300,0.0003,13,30,12,10,converged to Fmax < 1000 in 2843 steps,-3496600.2,857.41766,8901,2.262,2.503
+4g9p,prepared,,SF4501A:4Fe4S_3Cys:4Fe4S_twoplus_3Cys,78175,0.0001,4,0,1,0,converged to Fmax < 1000 in 1249 steps,-1077669.4,919.23755,1035,2.252,2.51

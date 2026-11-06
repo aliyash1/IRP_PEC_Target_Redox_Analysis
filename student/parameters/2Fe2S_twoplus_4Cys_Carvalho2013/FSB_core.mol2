@@ -1,0 +1,19 @@
+@<TRIPOS>MOLECULE
+FSB
+     4     4     1     0     0 
+SMALL
+RESP
+
+
+@<TRIPOS>ATOM
+       1 FE1            -0.4320   -6.6080   34.1950 K1         1 FSB       0.600400
+       2 FE2             0.3480   -4.6240   35.9400 K2         1 FSB       0.600400
+       3 S1             -0.0530   -4.4140   33.7700 K7         1 FSB      -0.516400
+       4 S2              0.1360   -6.7640   36.3320 K8         1 FSB      -0.516400
+@<TRIPOS>BOND
+     1     1     3 1
+     2     1     4 1
+     3     2     3 1
+     4     2     4 1
+@<TRIPOS>SUBSTRUCTURE
+     1 FSB         1 TEMP              0 ****  ****    0 ROOT

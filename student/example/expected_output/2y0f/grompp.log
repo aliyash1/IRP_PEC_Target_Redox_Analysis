@@ -1,0 +1,55 @@
+                :-) GROMACS - gmx grompp, 2026.3-conda_forge (-:
+
+Executable:   /home/stefan_loonen/miniforge3/envs/GROMACS2026/bin.AVX2_256/gmx
+Data prefix:  /home/stefan_loonen/miniforge3/envs/GROMACS2026
+Working dir:  /home/stefan_loonen/fes_example_run/systems/2y0f
+Command line:
+  gmx grompp -f '/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/minim.mdp' -c system.gro -p system.top -o em.tpr -maxwarn 0
+
+Generating 1-4 interactions: fudge = 0.5
+Number of degrees of freedom in T-Coupling group rest is 410871.00
+The integrator does not provide a ensemble temperature, there is no system ensemble temperature
+
+GROMACS reminds you: "Consistently separating words by spaces became a general custom about the tenth century A.D., and lasted until about 1957, when FORTRAN abandoned the practice." (Sun FORTRAN Reference Manual)
+
+Setting the LD random seed to -541393043
+
+Generated 1128 of the 1128 non-bonded parameter combinations
+
+Generated 1128 of the 1128 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'system1'
+
+Excluding 3 bonded neighbours molecule type 'system2'
+
+Excluding 3 bonded neighbours molecule type 'system3'
+
+Excluding 3 bonded neighbours molecule type 'system4'
+
+Excluding 3 bonded neighbours molecule type 'system5'
+
+Excluding 3 bonded neighbours molecule type 'system6'
+
+Excluding 3 bonded neighbours molecule type 'system7'
+
+Excluding 3 bonded neighbours molecule type 'system8'
+
+Excluding 3 bonded neighbours molecule type 'Na+'
+
+Excluding 3 bonded neighbours molecule type 'WAT'
+
+Cleaning up constraints and constant bonded interactions with virtual sites
+Analysing residue names:
+There are:  1570    Protein residues
+There are:    26      Other residues
+There are: 56171      Water residues
+Analysing Protein...
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+The largest distance between excluded atoms is 0.548 nm between atom 10686 and 12391
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 112x96x128, spacing 0.119 0.118 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.23
+
+This run will generate roughly 20 Mb of data

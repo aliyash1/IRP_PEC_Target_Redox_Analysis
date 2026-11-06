@@ -1,0 +1,12 @@
+@<TRIPOS>MOLECULE
+FRA
+     1     0     1     0     0 
+SMALL
+RESP
+
+
+@<TRIPOS>ATOM
+       1 FE1             0.0000    0.0000    0.0000 L1         1 FRA       1.050000
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 FRA         1 TEMP              0 ****  ****    0 ROOT

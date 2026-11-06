@@ -1,0 +1,46 @@
+{
+  "structure": "4g9p",
+  "input": "/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/example/inputs/4g9p.pdb",
+  "status": "prepared",
+  "warnings": [
+    "chain A: unmodelled residues in the PDB (1 N-terminal); terminal ones are left out, internal gaps become chain breaks",
+    "removed non-standard residue/ligand CDI A:502",
+    "removed non-standard residue/ligand MES A:503",
+    "removed non-standard residue/ligand MES A:506"
+  ],
+  "clusters": [
+    {
+      "cluster": "SF4",
+      "chain": "A",
+      "resseq": "501",
+      "environment": "4Fe4S_3Cys",
+      "set": "4Fe4S_twoplus_3Cys",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "FE3": "FE3",
+        "FE4": "FE4",
+        "S1": "S1",
+        "S2": "S2",
+        "S3": "S3",
+        "S4": "S4"
+      },
+      "ligands": [
+        "CYS300(A)->C2O:SG-FE1",
+        "CYS343(A)->C1O:SG-FE2",
+        "CYS297(A)->C3O:SG-FE3"
+      ]
+    }
+  ],
+  "missing_residues": {
+    "A": {
+      "n_term": 1,
+      "internal": 0,
+      "c_term": 0,
+      "internal_residues": []
+    }
+  },
+  "residues_with_missing_atoms": 0,
+  "natoms": 78175,
+  "net_charge": 0.0001
+}

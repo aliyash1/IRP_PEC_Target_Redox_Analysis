@@ -1,0 +1,37 @@
+{
+  "structure": "1iro",
+  "input": "/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/example/inputs/1iro.pdb",
+  "status": "prepared",
+  "warnings": [
+    "chain A: unmodelled residues in the PDB (1 C-terminal); terminal ones are left out, internal gaps become chain breaks"
+  ],
+  "clusters": [
+    {
+      "cluster": "FE",
+      "chain": "A",
+      "resseq": "55",
+      "environment": "1Fe_4Cys",
+      "set": "1Fe_threeplus_4Cys_Carvalho2013",
+      "mapping": {
+        "FE": "FE1"
+      },
+      "ligands": [
+        "CYS6(A)->C1A:SG-FE1",
+        "CYS9(A)->C2A:SG-FE1",
+        "CYS39(A)->C3A:SG-FE1",
+        "CYS42(A)->C4A:SG-FE1"
+      ]
+    }
+  ],
+  "missing_residues": {
+    "A": {
+      "n_term": 0,
+      "internal": 0,
+      "c_term": 1,
+      "internal_residues": []
+    }
+  },
+  "residues_with_missing_atoms": 0,
+  "natoms": 13167,
+  "net_charge": 0.0
+}

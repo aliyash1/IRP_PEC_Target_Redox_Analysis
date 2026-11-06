@@ -1,0 +1,99 @@
+Nakayoshi et al. IJMS 2022, 23, 15913, SI Table S6 (MCPB.py output, CX renamed XC)
+MASS
+W1 55.85 Fe ion
+W2 55.85 Fe ion
+W3 32.06 2.900 S in cystine
+W4 32.06 2.900 S in cystine
+W5 32.06 2.900 S in cystine
+W6 32.06 2.900 S in cystine
+W7 32.06 2.900 Sp3 S connected with hydrogen
+W8 32.06 2.900 Sp3 S connected with hydrogen
+ 
+BOND
+W1-W7 59.6 2.3500 Created by Seminario method using MCPB.py
+W1-W8 60.0 2.3470 Created by Seminario method using MCPB.py
+W2-W7 111.5 2.2060 Created by Seminario method using MCPB.py
+W2-W8 115.2 2.2006 Created by Seminario method using MCPB.py
+W3-W1 40.5 2.4309 Created by Seminario method using MCPB.py
+W4-W1 38.3 2.4359 Created by Seminario method using MCPB.py
+W5-W2 56.3 2.4003 Created by Seminario method using MCPB.py
+W6-W2 58.8 2.3888 Created by Seminario method using MCPB.py
+CT-W3 237.0 1.810 changed from 222.0 based on methanethiol nmodes
+CT-W4 237.0 1.810 changed from 222.0 based on methanethiol nmodes
+CT-W5 237.0 1.810 changed from 222.0 based on methanethiol nmodes
+CT-W6 237.0 1.810 changed from 222.0 based on methanethiol nmodes
+ 
+ANGL
+CT-W3-W1 79.57 103.38 Created by Seminario method using MCPB.py
+CT-W4-W1 80.82 102.94 Created by Seminario method using MCPB.py
+CT-W5-W2 62.88 100.09 Created by Seminario method using MCPB.py
+CT-W6-W2 88.28 101.77 Created by Seminario method using MCPB.py
+W1-W7-W2 58.70 78.36 Created by Seminario method using MCPB.py
+W1-W8-W2 57.18 78.53 Created by Seminario method using MCPB.py
+W3-W1-W4 29.96 100.22 Created by Seminario method using MCPB.py
+W3-W1-W7 47.66 116.49 Created by Seminario method using MCPB.py
+W3-W1-W8 41.47 116.03 Created by Seminario method using MCPB.py
+W4-W1-W7 39.40 113.57 Created by Seminario method using MCPB.py
+W4-W1-W8 47.91 114.37 Created by Seminario method using MCPB.py
+W8-W1-W7 94.89 97.08 Created by Seminario method using MCPB.py
+W8-W2-W7 77.46 106.03 Created by Seminario method using MCPB.py
+W5-W2-W7 34.18 109.82 Created by Seminario method using MCPB.py
+W5-W2-W8 40.81 112.13 Created by Seminario method using MCPB.py
+W5-W2-W6 32.25 101.69 Created by Seminario method using MCPB.py
+W6-W2-W7 56.75 112.04 Created by Seminario method using MCPB.py
+W6-W2-W8 56.04 115.18 Created by Seminario method using MCPB.py
+XC-CT-W3 50.0 108.60 AA cys (was CT-CT-SH)
+XC-CT-W4 50.0 108.60 AA cys (was CT-CT-SH)
+XC-CT-W5 50.0 108.60 AA cys (was CT-CT-SH)
+XC-CT-W6 50.0 108.60 AA cys (was CT-CT-SH)
+W3-CT-H1 50.0 109.50 AA cyx changed based on NMA nmodes
+W4-CT-H1 50.0 109.50 AA cyx changed based on NMA nmodes
+W5-CT-H1 50.0 109.50 AA cyx changed based on NMA nmodes
+W6-CT-H1 50.0 109.50 AA cyx changed based on NMA nmodes
+ 
+DIHE
+CT-W3-W1-W4 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W3-W1-W7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W3-W1-W8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W4-W1-W7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W4-W1-W8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W5-W2-W7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W5-W2-W8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W5-W2-W6 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W6-W2-W7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+CT-W6-W2-W8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W1-W3-CT-H1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W1-W4-CT-H1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W1-W7-W2-W8 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W1-W8-W2-W7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W2-W8-W1-W7 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W2-W5-CT-H1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W2-W6-CT-H1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+XC-CT-W3-W1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+XC-CT-W4-W1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+XC-CT-W5-W2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+XC-CT-W6-W2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W3-W1-W4-CT 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W3-W1-W7-W2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W3-W1-W8-W2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W4-W1-W7-W2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W4-W1-W8-W2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W8-W1-W7-W2 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W5-W2-W7-W1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W5-W2-W8-W1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W5-W2-W6-CT 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W6-W2-W7-W1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+W6-W2-W8-W1 3 0.00 0.00 3.0 Treat as zero by MCPB.py
+ 
+IMPR
+ 
+NONB
+W1 1.4000 0.0157074900 IOD set for Fe3+ ion OPC water from Li et al. JCTC, 2021, 17, 2342
+W2 1.4000 0.0157074900 IOD set for Fe3+ ion OPC water from Li et al. JCTC, 2021, 17, 2342
+W3 1.9825 0.2824 gaff2
+W4 1.9825 0.2824 gaff2
+W5 1.9825 0.2824 gaff2
+W6 1.9825 0.2824 gaff2
+W7 2.0000 0.2500 W. Cornell CH3SH and CH3SCH3 FEP's
+W8 2.0000 0.2500 W. Cornell CH3SH and CH3SCH3 FEP's
+

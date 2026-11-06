@@ -1,0 +1,64 @@
+Dawson et al. PLoS One 2016, 11, e0162031 (S4 File oxygenase.frcmod), Rieske [2Fe-2S] lines only (non-heme Fe / Trp lines removed)
+MASS
+D1 55.80         1.000
+D2 32.06         2.900            bridge sulfur, same as ss
+SH 32.060        2.900            ligand sulfur, same as ss 
+
+BOND
+D1-D1   39.00   2.64        estimated from QC calc and experiment
+D1-SH  220.00   2.261       estimated from QC calc and experiment
+D1-D2  200.00   2.184       estimated from QC calc and experiment
+D1-NB  140.00   2.089       estimated from QC calc and experiment
+
+ANGLE
+D1-D2-D1   33.000      73.900     pdb averages and QC
+D1-SH-CT   21.700     102.525     pdb averages and QC
+D1-D1-D2   40.00       52.841     pdb averages and QC
+D1-D1-NB   13.000     133.400     QC averages
+D2-D1-D2   38.900     105.900     pdb averages and QC
+D2-D1-SH   36.000     114.300     pdb averages and QC
+D2-D1-NB   36.000     107.500     pdb averages and QC
+SH-D1-SH   28.800      90.300     pdb averages and QC
+SH-D1-D1    8.600     130.500     QC averages
+SH-CT-HC   42.700     107.870     (same as hc-c3-sh)
+NB-D1-NB   36.000      89.000     from QM, avg PDB and table 1 of RR (Vittal et al.)
+D1-NB-CR   21.600     123.532     ""
+D1-NB-CC   21.600     128.671     ""
+
+DIHE
+D1-D2-D1-D1   1    0.000         0.000           0.000      cannot define because it is meaningless
+D1-D2-D1-D2   1    5.000       180.000           1.000      similar order: His(CR-NB-CC-CW or CR-NB-CC-CT)
+D1-SF-D1-NB   1    0.380       180.000          -3.000      new: same as hc-c3-c2-c2
+D1-SF-D1-NB   1    1.150         0.000           1.000           additional term
+D1-SH-CT-HC   1    0.156         0.000           3.000      same as X -c3-c3-X (used X=H1)
+D1-SH-CT-CT   1    0.156         0.000           3.000      same as X -c3-c3-X (used X=CT)
+D1-D1-NB-CR   1    4.000       180.000           4.000      from rotation (barrier much larger)
+D1-D1-NB-CC   1    4.000       180.000           4.000      from rotation (barrier much larger)
+CT-SH-D1-D2   1    1.000         0.000           3.000     Cb-Sg-Fe-Sb
+D2-D1-D1-D2   1    5.000         0.000           1.000      similar order: His(CR-NB-CC-CW or CR-NB-CC-CT)
+D2-D1-D1-NB   1    1.000       180.000           2.000      normal mode coupling not so clear
+D2-D1-D1-SH   1    1.000       180.000           2.000      normal mode coupling not so clear
+D2-D1-NB-CR   1    0.500       180.000         -12.000      **Not so simple to pull out specific dih angs.
+D2-D1-NB-CR   1    0.500         0.000           4.000           additional term
+D2-D1-NB-CC   1    0.500       180.000         -12.000      **Not so simple to pull out specific dih angs.
+D2-D1-NB-CC   1    0.500         0.000           4.000           additional term
+SH-D1-D2-D1   1    0.380       180.000          -3.000      new: same as hc-c3-c2-c2
+SH-D1-D2-D1   1    1.150         0.000           1.000           additional term
+SH-D1-SH-CT   1    1.000         0.000           3.000     Sg-Fe-Sg-Cb
+SH-D1-D1-NB   2    4.000       180.000           2.000     doesn't bend much but can bend
+CT-SH-D1-D1   1    0.300       180.000           3.000     encourage a +/-120 deg position
+D1-NB-CR-X    4   20.000       180.000           2.000      same as twice "X -CR-NB-X" with X=NA,H5,CW,CT  
+NB-D1-D2-D1   1    0.380       180.000          -3.000      new: same as hc-c3-c2-c2
+NB-D1-D2-D1   1    1.150         0.000           1.000           additional term
+CR-NB-D1-NB   1    1.000       180.000           4.000     CR-> His:Ce QM scan on Fe2
+CC-NB-D1-NB   1    1.000       180.000           4.000     CC-> His:Cg
+
+IMPROPER
+CC-CR-NB-D1         1.1          180.0         2.0          Using default value
+CC-CR-NA-H          1.1          180.0         2.0          Using default value
+
+NONBON
+  D1          1.2000  0.0500             taken from heme
+  D2          2.0000  0.2500             same as ss 
+  SH          2.0000  0.2500             same as ss 
+

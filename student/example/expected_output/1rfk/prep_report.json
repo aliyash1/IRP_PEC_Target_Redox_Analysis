@@ -1,0 +1,71 @@
+{
+  "structure": "1rfk",
+  "input": "/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/example/inputs/1rfk.pdb",
+  "status": "prepared",
+  "warnings": [
+    "chain A: unmodelled residues in the PDB (3 internal); terminal ones are left out, internal gaps become chain breaks",
+    "chain B: unmodelled residues in the PDB (1 C-terminal); terminal ones are left out, internal gaps become chain breaks",
+    "chain break between ASN A:9 and GLY A:13 (both ends become charged termini)"
+  ],
+  "clusters": [
+    {
+      "cluster": "FES",
+      "chain": "A",
+      "resseq": "100",
+      "environment": "2Fe2S_4Cys",
+      "set": "2Fe2S_twoplus_4Cys_Nakayoshi2022",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "S1": "S1",
+        "S2": "S2"
+      },
+      "ligands": [
+        "CYS41(A)->C1C:SG-FE1",
+        "CYS46(A)->C2C:SG-FE1",
+        "CYS49(A)->C3C:SG-FE2",
+        "CYS79(A)->C4C:SG-FE2"
+      ]
+    },
+    {
+      "cluster": "FES",
+      "chain": "B",
+      "resseq": "300",
+      "environment": "2Fe2S_4Cys",
+      "set": "2Fe2S_twoplus_4Cys_Nakayoshi2022",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "S1": "S1",
+        "S2": "S2"
+      },
+      "ligands": [
+        "CYS241(B)->C1C:SG-FE1",
+        "CYS246(B)->C2C:SG-FE1",
+        "CYS249(B)->C3C:SG-FE2",
+        "CYS279(B)->C4C:SG-FE2"
+      ]
+    }
+  ],
+  "missing_residues": {
+    "A": {
+      "n_term": 0,
+      "internal": 3,
+      "c_term": 0,
+      "internal_residues": [
+        10,
+        11,
+        12
+      ]
+    },
+    "B": {
+      "n_term": 0,
+      "internal": 0,
+      "c_term": 1,
+      "internal_residues": []
+    }
+  },
+  "residues_with_missing_atoms": 0,
+  "natoms": 39810,
+  "net_charge": 0.0001
+}

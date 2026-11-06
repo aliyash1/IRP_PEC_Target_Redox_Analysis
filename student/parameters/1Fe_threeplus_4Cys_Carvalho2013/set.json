@@ -1,0 +1,71 @@
+{
+  "name": "1Fe_threeplus_4Cys_Carvalho2013",
+  "environment": "1Fe_4Cys",
+  "cluster": "1Fe",
+  "charge_state": "3+",
+  "total_charge": -1.0,
+  "core_resname": "FRA",
+  "core_mol2": "FRA_core.mol2",
+  "frcmod": "Fe_rubredoxin.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "L1"
+    }
+  ],
+  "core_bonds": [],
+  "ligands": [
+    {
+      "resname": "C1A",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C1A.lib"
+    },
+    {
+      "resname": "C2A",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C2A.lib"
+    },
+    {
+      "resname": "C3A",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C3A.lib"
+    },
+    {
+      "resname": "C4A",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C4A.lib"
+    }
+  ],
+  "atom_types": {
+    "L1": "Fe",
+    "L2": "S",
+    "L3": "S",
+    "L4": "S",
+    "L5": "S"
+  },
+  "type_renaming": {
+    "M1": "L1",
+    "Y1": "L2",
+    "Y2": "L3",
+    "Y3": "L4",
+    "Y4": "L5"
+  },
+  "source": "Carvalho, Teixeira, Ramos, JCC 2013, doi:10.1002/jcc.23287",
+  "derived_with": {
+    "protein_ff": "ff99SB",
+    "water": "TIP3P",
+    "fe_vdw": "Giammona heme Fe (1.20, 0.05)"
+  },
+  "ca_type": "XC",
+  "charge_adjustment_core": 0.0,
+  "note": "Rubredoxin Fe(III)."
+}

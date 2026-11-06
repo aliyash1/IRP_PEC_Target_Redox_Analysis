@@ -1,0 +1,93 @@
+!!index array str
+ "C2F"
+!entry.C2F.unit.atoms table  str name  str type  int typex  int resx  int flags  int seq  int elmnt  dbl chg
+ "N" "N" 0 1 131072 1 7 -0.670710
+ "H" "H" 0 1 131072 2 1 0.313530
+ "CA" "CT" 0 1 131072 3 6 0.290300
+ "HA" "H1" 0 1 131072 4 1 0.017140
+ "CB" "CT" 0 1 131072 5 6 0.272520
+ "HB3" "HC" 0 1 131072 6 1 -0.034000
+ "HB2" "HC" 0 1 131072 7 1 -0.034000
+ "SG" "SH" 0 1 131072 8 16 -0.755470
+ "C" "C" 0 1 131072 9 6 0.633430
+ "O" "O" 0 1 131072 10 8 -0.579610
+!entry.C2F.unit.atomspertinfo table  str pname  str ptype  int ptypex  int pelmnt  dbl pchg
+ "N" "N" 0 -1 0.0
+ "H" "H" 0 -1 0.0
+ "CA" "CT" 0 -1 0.0
+ "HA" "H1" 0 -1 0.0
+ "CB" "CT" 0 -1 0.0
+ "HB3" "HC" 0 -1 0.0
+ "HB2" "HC" 0 -1 0.0
+ "SG" "SH" 0 -1 0.0
+ "C" "C" 0 -1 0.0
+ "O" "O" 0 -1 0.0
+!entry.C2F.unit.boundbox array dbl
+ -1.000000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+!entry.C2F.unit.childsequence single int
+ 2
+!entry.C2F.unit.connect array int
+ 1
+ 9
+!entry.C2F.unit.connectivity table  int atom1x  int atom2x  int flags
+ 1 2 1
+ 1 3 1
+ 3 4 1
+ 3 5 1
+ 3 9 1
+ 5 7 1
+ 5 6 1
+ 5 8 1
+ 9 10 1
+!entry.C2F.unit.hierarchy table  str abovetype  int abovex  str belowtype  int belowx
+ "U" 0 "R" 1
+ "R" 1 "A" 1
+ "R" 1 "A" 2
+ "R" 1 "A" 3
+ "R" 1 "A" 4
+ "R" 1 "A" 5
+ "R" 1 "A" 6
+ "R" 1 "A" 7
+ "R" 1 "A" 8
+ "R" 1 "A" 9
+ "R" 1 "A" 10
+!entry.C2F.unit.name single str
+ "C2F"
+!entry.C2F.unit.positions table  dbl x  dbl y  dbl z
+ 19.649000 15.596000 51.937000
+ 19.542000 14.969000 52.734000
+ 18.814000 15.370000 50.762000
+ 19.510000 15.214000 49.920000
+ 17.913000 14.148000 50.953000
+ 17.208000 14.316000 51.785000
+ 18.525000 13.263000 51.181000
+ 16.935000 13.775000 49.470000
+ 17.949000 16.605000 50.531000
+ 17.394000 17.174000 51.467000
+!entry.C2F.unit.residueconnect table  int c1x  int c2x  int c3x  int c4x  int c5x  int c6x
+ 0 0 0 0 0 0
+!entry.C2F.unit.residues table  str name  int seq  int childseq  int startatomx  str restype  int imagingx
+ "C2F" 1 11 1 "?" 0
+!entry.C2F.unit.residuesPdbSequenceNumber array int
+ 0
+!entry.C2F.unit.solventcap array dbl
+ -1.000000
+ 0.0
+ 0.0
+ 0.0
+ 0.0
+!entry.C2F.unit.velocities table  dbl x  dbl y  dbl z
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0
+ 0.0 0.0 0.0

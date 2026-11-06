@@ -1,0 +1,99 @@
+Carvalho, Teixeira, Ramos, J. Comput. Chem. 2013, 34, 1540 (Table 1, Fig. 3) - plant-type ferredoxin [2Fe-2S]2+(Cys)4
+MASS
+K1 55.85                             Fe ion
+K2 55.85                             Fe ion
+K3 32.06        2.900                S
+K4 32.06        2.900                S
+K5 32.06        2.900                S
+K6 32.06        2.900                S
+K7 32.06        2.900                S
+K8 32.06        2.900                S
+ 
+BOND
+CT-K3  237.00   1.8100      ff default (as MCPB.py): changed from 222.0 based on methanethiol nmodes
+CT-K4  237.00   1.8100      ff default (as MCPB.py): changed from 222.0 based on methanethiol nmodes
+CT-K5  237.00   1.8100      ff default (as MCPB.py): changed from 222.0 based on methanethiol nmodes
+CT-K6  237.00   1.8100      ff default (as MCPB.py): changed from 222.0 based on methanethiol nmodes
+K1-K3   82.60   2.2000      Carvalho2013 Table 1 FE-SX (r0 given as 2.2)
+K1-K4   82.60   2.2000      Carvalho2013 Table 1 FE-SX (r0 given as 2.2)
+K1-K7   93.40   2.2000      Carvalho2013 Table 1 FE-S (r0 given as 2.2)
+K1-K8   93.40   2.2000      Carvalho2013 Table 1 FE-S (r0 given as 2.2)
+K2-K5   82.60   2.2000      Carvalho2013 Table 1 FE-SX (r0 given as 2.2)
+K2-K6   82.60   2.2000      Carvalho2013 Table 1 FE-SX (r0 given as 2.2)
+K2-K7   93.40   2.2000      Carvalho2013 Table 1 FE-S (r0 given as 2.2)
+K2-K8   93.40   2.2000      Carvalho2013 Table 1 FE-S (r0 given as 2.2)
+ 
+ANGL
+CT-K3-K1    27.60     101.00    PLACEHOLDER - NOT IN PAPER: copied from rubredoxin CT-SF-FE (same paper); replace
+CT-K4-K1    27.60     101.00    PLACEHOLDER - NOT IN PAPER: copied from rubredoxin CT-SF-FE (same paper); replace
+CT-K5-K2    27.60     101.00    PLACEHOLDER - NOT IN PAPER: copied from rubredoxin CT-SF-FE (same paper); replace
+CT-K6-K2    27.60     101.00    PLACEHOLDER - NOT IN PAPER: copied from rubredoxin CT-SF-FE (same paper); replace
+H1-CT-K3    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-K4    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-K5    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-K6    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+K1-K7-K2    18.00      77.00    Carvalho2013 Table 1 FE-S-FE
+K1-K8-K2    18.00      77.00    Carvalho2013 Table 1 FE-S-FE
+XC-CT-K3    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-K4    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-K5    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-K6    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+K3-K1-K4    65.50     108.00    Carvalho2013 Table 1 SX-FE-SX
+K3-K1-K7    17.30     103.00    Carvalho2013 Table 1 S-FE-SX
+K3-K1-K8    17.30     103.00    Carvalho2013 Table 1 S-FE-SX
+K4-K1-K7    17.30     103.00    Carvalho2013 Table 1 S-FE-SX
+K4-K1-K8    17.30     103.00    Carvalho2013 Table 1 S-FE-SX
+K5-K2-K6    65.50     108.00    Carvalho2013 Table 1 SX-FE-SX
+K5-K2-K7    17.30     103.00    Carvalho2013 Table 1 S-FE-SX
+K5-K2-K8    17.30     103.00    Carvalho2013 Table 1 S-FE-SX
+K6-K2-K7    17.30     103.00    Carvalho2013 Table 1 S-FE-SX
+K6-K2-K8    17.30     103.00    Carvalho2013 Table 1 S-FE-SX
+K7-K1-K8    17.30     103.00    Carvalho2013 Table 1 S-FE-S
+K7-K2-K8    17.30     103.00    Carvalho2013 Table 1 S-FE-S
+ 
+DIHE
+CT-K3-K1-K4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K3-K1-K7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K3-K1-K8    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K4-K1-K3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K4-K1-K7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K4-K1-K8    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K5-K2-K6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K5-K2-K7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K5-K2-K8    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K6-K2-K5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K6-K2-K7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-K6-K2-K8    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-K3-K1    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-K4-K1    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-K5-K2    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-K6-K2    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K1-K3-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K1-K4-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K1-K7-K2-K5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K1-K7-K2-K6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K1-K7-K2-K8    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K1-K8-K2-K5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K1-K8-K2-K6    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K1-K8-K2-K7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K2-K5-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K2-K6-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K2-K7-K1-K3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K2-K7-K1-K4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K2-K7-K1-K8    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K2-K8-K1-K3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K2-K8-K1-K4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+K2-K8-K1-K7    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+ 
+IMPR
+ 
+NONB
+  K1          1.2000  0.0500000000       Fe(III), Giammona 1984 (ref. 30 of the paper)
+  K2          1.2000  0.0500000000       Fe(III), Giammona 1984 (ref. 30 of the paper)
+  K3          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+  K4          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+  K5          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+  K6          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+  K7          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+  K8          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+

@@ -1,0 +1,45 @@
+                :-) GROMACS - gmx grompp, 2026.3-conda_forge (-:
+
+Executable:   /home/stefan_loonen/miniforge3/envs/GROMACS2026/bin.AVX2_256/gmx
+Data prefix:  /home/stefan_loonen/miniforge3/envs/GROMACS2026
+Working dir:  /home/stefan_loonen/fes_example_run/systems/1rfk
+Command line:
+  gmx grompp -f '/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/minim.mdp' -c system.gro -p system.top -o em.tpr -maxwarn 0
+
+Generating 1-4 interactions: fudge = 0.5
+Number of degrees of freedom in T-Coupling group rest is 63999.00
+The integrator does not provide a ensemble temperature, there is no system ensemble temperature
+
+GROMACS reminds you: "We all understand the twinge of discomfort at the thought that we share a common ancestor with the apes. No one can embarrass you like a relative." (Neal DeGrasse Tyson)
+
+Setting the LD random seed to -1124798483
+
+Generated 903 of the 903 non-bonded parameter combinations
+
+Generated 903 of the 903 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'system1'
+
+Excluding 3 bonded neighbours molecule type 'system2'
+
+Excluding 3 bonded neighbours molecule type 'system3'
+
+Excluding 3 bonded neighbours molecule type 'Na+'
+
+Excluding 3 bonded neighbours molecule type 'WAT'
+
+Cleaning up constraints and constant bonded interactions with virtual sites
+Analysing residue names:
+There are:   184    Protein residues
+There are:    42      Other residues
+There are:  9238      Water residues
+Analysing Protein...
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+The largest distance between excluded atoms is 0.528 nm between atom 2077 and 2825
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 52x72x72, spacing 0.119 0.109 0.110
+
+Estimate for the relative computational load of the PME mesh part: 0.24
+
+This run will generate roughly 4 Mb of data

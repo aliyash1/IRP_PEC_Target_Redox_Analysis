@@ -1,0 +1,197 @@
+Teo, Migliore, Beratan et al. Chem. Sci. 2020, 11, 7076 (SI Tables) - [Fe4S4]2+(Cys)4
+MASS
+41 55.85                             Fe ion
+42 55.85                             Fe ion
+43 55.85                             Fe ion
+44 55.85                             Fe ion
+45 32.06        2.900                S
+46 32.06        2.900                S
+47 32.06        2.900                S
+48 32.06        2.900                S
+49 32.06        2.900                S
+4a 32.06        2.900                S
+4b 32.06        2.900                S
+4c 32.06        2.900                S
+ 
+BOND
+CT-45  140.74   1.8500      Teo2020 SI S7/S6 average
+CT-46  140.79   1.8500      Teo2020 SI S7/S6 average
+CT-47  140.93   1.8500      Teo2020 SI S7/S6 average
+CT-48  141.12   1.8500      Teo2020 SI S7/S6 average
+41-45   97.31   2.2800      Teo2020 SI S7/S6 average
+41-4a   51.66   2.3600      Teo2020 SI S7/S6 average
+41-4b   53.17   2.3500      Teo2020 SI S7/S6 average
+41-4c   51.64   2.3600      Teo2020 SI S7/S6 average
+42-46   96.20   2.2800      Teo2020 SI S7/S6 average
+42-49   51.03   2.3600      Teo2020 SI S7/S6 average
+42-4b   52.95   2.3500      Teo2020 SI S7/S6 average
+42-4c   50.15   2.3700      Teo2020 SI S7/S6 average
+43-47   95.68   2.2800      Teo2020 SI S7/S6 average
+43-49   55.99   2.3500      Teo2020 SI S7/S6 average
+43-4a   57.27   2.3400      Teo2020 SI S7/S6 average
+43-4c   59.74   2.3300      Teo2020 SI S7/S6 average
+44-48   96.77   2.2800      Teo2020 SI S7/S6 average
+44-49   54.47   2.3500      Teo2020 SI S7/S6 average
+44-4a   53.94   2.3500      Teo2020 SI S7/S6 average
+44-4b   53.15   2.3500      Teo2020 SI S7/S6 average
+ 
+ANGL
+CT-45-41    44.99      97.52    Teo2020 SI S9/S8 average
+CT-46-42    45.81      98.57    Teo2020 SI S9/S8 average
+CT-47-43    46.02      98.41    Teo2020 SI S9/S8 average
+CT-48-44    43.31      97.90    Teo2020 SI S9/S8 average
+H1-CT-45    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-46    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-47    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-48    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+41-4a-43    31.45      73.69    Teo2020 SI S9/S8 average
+41-4a-44    33.81      73.94    Teo2020 SI S9/S8 average
+41-4b-42    29.36      74.34    Teo2020 SI S9/S8 average
+41-4b-44    30.21      74.17    Teo2020 SI S9/S8 average
+41-4c-42    34.01      73.87    Teo2020 SI S9/S8 average
+41-4c-43    30.08      73.87    Teo2020 SI S9/S8 average
+42-49-43    29.60      73.81    Teo2020 SI S9/S8 average
+42-49-44    31.92      73.72    Teo2020 SI S9/S8 average
+42-4b-44    29.41      73.90    Teo2020 SI S9/S8 average
+42-4c-43    29.00      73.97    Teo2020 SI S9/S8 average
+43-49-44    32.05      73.82    Teo2020 SI S9/S8 average
+43-4a-44    32.80      73.81    Teo2020 SI S9/S8 average
+XC-CT-45    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-46    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-47    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-48    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+45-41-4a    25.60     113.93    Teo2020 SI S9/S8 average
+45-41-4b    27.16     116.88    Teo2020 SI S9/S8 average
+45-41-4c    33.72     114.70    Teo2020 SI S9/S8 average
+46-42-49    31.60     114.24    Teo2020 SI S9/S8 average
+46-42-4b    26.09     116.20    Teo2020 SI S9/S8 average
+46-42-4c    31.47     115.06    Teo2020 SI S9/S8 average
+47-43-49    30.72     113.22    Teo2020 SI S9/S8 average
+47-43-4a    30.10     114.88    Teo2020 SI S9/S8 average
+47-43-4c    26.55     114.97    Teo2020 SI S9/S8 average
+48-44-49    28.91     113.96    Teo2020 SI S9/S8 average
+48-44-4a    29.81     114.82    Teo2020 SI S9/S8 average
+48-44-4b    26.26     115.91    Teo2020 SI S9/S8 average
+49-42-4b    29.79     103.69    Teo2020 SI S9/S8 average
+49-42-4c    37.71     102.60    Teo2020 SI S9/S8 average
+49-43-4a    35.00     103.69    Teo2020 SI S9/S8 average
+49-43-4c    26.81     104.31    Teo2020 SI S9/S8 average
+49-44-4a    36.11     103.14    Teo2020 SI S9/S8 average
+49-44-4b    30.11     104.02    Teo2020 SI S9/S8 average
+4a-41-4b    30.87     103.38    Teo2020 SI S9/S8 average
+4a-41-4c    38.05     102.81    Teo2020 SI S9/S8 average
+4a-43-4c    28.57     104.49    Teo2020 SI S9/S8 average
+4a-44-4b    29.49     103.65    Teo2020 SI S9/S8 average
+4b-41-4c    30.15     103.63    Teo2020 SI S9/S8 average
+4b-42-4c    31.07     103.54    Teo2020 SI S9/S8 average
+ 
+DIHE
+CT-45-41-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-45-41-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-45-41-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-46-42-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-46-42-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-46-42-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-47-43-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-47-43-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-47-43-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-48-44-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-48-44-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-48-44-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-45-41    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-46-42    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-47-43    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-48-44    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-45-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4a-43-47    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4a-43-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4a-43-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4a-44-48    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4a-44-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4a-44-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4b-42-46    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4b-42-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4b-42-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4b-44-48    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4b-44-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4b-44-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4c-42-46    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4c-42-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4c-42-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4c-43-47    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4c-43-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+41-4c-43-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-46-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-49-43-47    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-49-43-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-49-43-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-49-44-48    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-49-44-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-49-44-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4b-41-45    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4b-41-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4b-41-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4b-44-48    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4b-44-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4b-44-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4c-41-45    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4c-41-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4c-41-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4c-43-47    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4c-43-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+42-4c-43-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-47-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-49-42-46    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-49-42-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-49-42-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-49-44-48    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-49-44-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-49-44-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4a-41-45    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4a-41-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4a-41-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4a-44-48    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4a-44-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4a-44-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4c-41-45    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4c-41-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4c-41-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4c-42-46    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4c-42-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+43-4c-42-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-48-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-49-42-46    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-49-42-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-49-42-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-49-43-47    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-49-43-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-49-43-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4a-41-45    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4a-41-4b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4a-41-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4a-43-47    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4a-43-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4a-43-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4b-41-45    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4b-41-4a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4b-41-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4b-42-46    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4b-42-49    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+44-4b-42-4c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+ 
+IMPR
+ 
+NONB
+  41          1.3695  0.0115000000       Teo2020 main text (interpolated Fe2+/Fe3+ IOD, TIP3P)
+  42          1.3695  0.0115000000       Teo2020 main text (interpolated Fe2+/Fe3+ IOD, TIP3P)
+  43          1.3695  0.0115000000       Teo2020 main text (interpolated Fe2+/Fe3+ IOD, TIP3P)
+  44          1.3695  0.0115000000       Teo2020 main text (interpolated Fe2+/Fe3+ IOD, TIP3P)
+  45          2.0000  0.2500000000       S: not given in paper; ff value
+  46          2.0000  0.2500000000       S: not given in paper; ff value
+  47          2.0000  0.2500000000       S: not given in paper; ff value
+  48          2.0000  0.2500000000       S: not given in paper; ff value
+  49          2.0000  0.2500000000       S: not given in paper; ff value
+  4a          2.0000  0.2500000000       S: not given in paper; ff value
+  4b          2.0000  0.2500000000       S: not given in paper; ff value
+  4c          2.0000  0.2500000000       S: not given in paper; ff value
+

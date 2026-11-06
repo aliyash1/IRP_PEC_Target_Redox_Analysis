@@ -1,0 +1,197 @@
+Carvalho & Swart, JCIM 2014, 54, 613 + Correction JCIM 2015 (SI Tables S1, S3, Fig. S2) - [Fe4S4]+(Cys)4
+MASS
+91 55.85                             Fe ion
+92 55.85                             Fe ion
+93 55.85                             Fe ion
+94 55.85                             Fe ion
+95 32.06        2.900                S
+96 32.06        2.900                S
+97 32.06        2.900                S
+98 32.06        2.900                S
+99 32.06        2.900                S
+9a 32.06        2.900                S
+9b 32.06        2.900                S
+9c 32.06        2.900                S
+ 
+BOND
+CT-95  154.20   1.8200      CS2014 SI Table S1 S1-CT
+CT-96  154.20   1.8200      CS2014 SI Table S1 S1-CT
+CT-97  154.20   1.8200      CS2014 SI Table S1 S1-CT
+CT-98  154.20   1.8200      CS2014 SI Table S1 S1-CT
+91-95   60.90   2.3100      CS2014 SI Table S1
+91-9a   55.20   2.3100      CS2014 SI Table S1
+91-9b   55.20   2.3100      CS2014 SI Table S1
+91-9c   55.20   2.3100      CS2014 SI Table S1
+92-96   60.90   2.3100      CS2014 SI Table S1
+92-99   55.20   2.3100      CS2014 SI Table S1
+92-9b   55.20   2.3100      CS2014 SI Table S1
+92-9c   55.20   2.3100      CS2014 SI Table S1
+93-97   60.90   2.3100      CS2014 SI Table S1
+93-99   55.20   2.3100      CS2014 SI Table S1
+93-9a   55.20   2.3100      CS2014 SI Table S1
+93-9c   76.40   2.2300      CS2014 SI Table S1 (SY-FY)
+94-98   60.90   2.3100      CS2014 SI Table S1
+94-99   55.20   2.3100      CS2014 SI Table S1
+94-9a   55.20   2.3100      CS2014 SI Table S1
+94-9b   76.40   2.2300      CS2014 SI Table S1 (SY-FY)
+ 
+ANGL
+CT-95-91    15.60     105.60    CS2014 SI Table S3
+CT-96-92    15.60     105.60    CS2014 SI Table S3
+CT-97-93    15.60     105.60    CS2014 SI Table S3
+CT-98-94    15.60     105.60    CS2014 SI Table S3
+H1-CT-95    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-96    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-97    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-98    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+91-9a-93     8.80      71.50    CS2014 SI Table S3
+91-9a-94     8.80      71.50    CS2014 SI Table S3
+91-9b-92     8.80      71.50    CS2014 SI Table S3
+91-9b-94     8.80      71.50    CS2014 SI Table S3
+91-9c-92     8.80      71.50    CS2014 SI Table S3
+91-9c-93     8.80      71.50    CS2014 SI Table S3
+92-99-93     8.80      71.50    CS2014 SI Table S3
+92-99-94     8.80      71.50    CS2014 SI Table S3
+92-9b-94     8.80      71.50    CS2014 SI Table S3
+92-9c-93     8.80      71.50    CS2014 SI Table S3
+93-99-94     8.80      71.50    CS2014 SI Table S3
+93-9a-94     8.80      71.50    CS2014 SI Table S3
+XC-CT-95    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-96    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-97    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-98    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+95-91-9a    11.00     113.20    CS2014 SI Table S3
+95-91-9b    11.00     113.20    CS2014 SI Table S3
+95-91-9c    11.00     113.20    CS2014 SI Table S3
+96-92-99    11.00     113.20    CS2014 SI Table S3
+96-92-9b    11.00     113.20    CS2014 SI Table S3
+96-92-9c    11.00     113.20    CS2014 SI Table S3
+97-93-99    11.00     113.20    CS2014 SI Table S3
+97-93-9a    11.00     113.20    CS2014 SI Table S3
+97-93-9c    11.00     113.20    CS2014 SI Table S3
+98-94-99    11.00     113.20    CS2014 SI Table S3
+98-94-9a    11.00     113.20    CS2014 SI Table S3
+98-94-9b    11.00     113.20    CS2014 SI Table S3
+99-92-9b     8.20     105.40    CS2014 SI Table S3
+99-92-9c     8.20     105.40    CS2014 SI Table S3
+99-93-9a     8.20     105.40    CS2014 SI Table S3
+99-93-9c     8.20     105.40    CS2014 SI Table S3
+99-94-9a     8.20     105.40    CS2014 SI Table S3
+99-94-9b     8.20     105.40    CS2014 SI Table S3
+9a-91-9b     8.20     105.40    CS2014 SI Table S3
+9a-91-9c     8.20     105.40    CS2014 SI Table S3
+9a-93-9c     8.20     105.40    CS2014 SI Table S3
+9a-94-9b     8.20     105.40    CS2014 SI Table S3
+9b-91-9c     8.20     105.40    CS2014 SI Table S3
+9b-92-9c     8.20     105.40    CS2014 SI Table S3
+ 
+DIHE
+CT-95-91-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-95-91-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-95-91-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-96-92-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-96-92-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-96-92-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-97-93-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-97-93-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-97-93-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-98-94-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-98-94-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-98-94-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-95-91    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-96-92    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-97-93    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-98-94    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-95-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9a-93-97    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9a-93-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9a-93-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9a-94-98    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9a-94-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9a-94-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9b-92-96    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9b-92-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9b-92-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9b-94-98    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9b-94-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9b-94-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9c-92-96    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9c-92-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9c-92-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9c-93-97    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9c-93-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+91-9c-93-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-96-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-99-93-97    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-99-93-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-99-93-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-99-94-98    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-99-94-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-99-94-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9b-91-95    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9b-91-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9b-91-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9b-94-98    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9b-94-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9b-94-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9c-91-95    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9c-91-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9c-91-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9c-93-97    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9c-93-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+92-9c-93-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-97-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-99-92-96    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-99-92-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-99-92-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-99-94-98    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-99-94-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-99-94-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9a-91-95    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9a-91-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9a-91-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9a-94-98    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9a-94-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9a-94-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9c-91-95    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9c-91-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9c-91-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9c-92-96    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9c-92-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+93-9c-92-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-98-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-99-92-96    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-99-92-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-99-92-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-99-93-97    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-99-93-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-99-93-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9a-91-95    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9a-91-9b    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9a-91-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9a-93-97    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9a-93-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9a-93-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9b-91-95    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9b-91-9a    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9b-91-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9b-92-96    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9b-92-99    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+94-9b-92-9c    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+ 
+IMPR
+ 
+NONB
+  91          1.4560  0.0130000000       Fe: UFF (Rappe 1992), as in the Bryce-database implementation of the 2+ set
+  92          1.4560  0.0130000000       Fe: UFF (Rappe 1992), as in the Bryce-database implementation of the 2+ set
+  93          1.4560  0.0130000000       Fe: UFF (Rappe 1992), as in the Bryce-database implementation of the 2+ set
+  94          1.4560  0.0130000000       Fe: UFF (Rappe 1992), as in the Bryce-database implementation of the 2+ set
+  95          2.0000  0.2500000000       S: ff value
+  96          2.0000  0.2500000000       S: ff value
+  97          2.0000  0.2500000000       S: ff value
+  98          2.0000  0.2500000000       S: ff value
+  99          2.0000  0.2500000000       S: ff value
+  9a          2.0000  0.2500000000       S: ff value
+  9b          2.0000  0.2500000000       S: ff value
+  9c          2.0000  0.2500000000       S: ff value
+

@@ -1,0 +1,97 @@
+{
+  "name": "2Fe2S_twoplus_2Cys2His_Dawson2016",
+  "environment": "2Fe2S_2Cys2His",
+  "cluster": "2Fe2S",
+  "charge_state": "2+",
+  "total_charge": -0.0,
+  "core_resname": "FSE",
+  "core_mol2": "FSE_core.mol2",
+  "frcmod": "FeS_twoplus.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "R1"
+    },
+    {
+      "name": "S1",
+      "element": "S",
+      "type": "R2"
+    },
+    {
+      "name": "S2",
+      "element": "S",
+      "type": "R2"
+    },
+    {
+      "name": "FE2",
+      "element": "Fe",
+      "type": "R1"
+    }
+  ],
+  "core_bonds": [
+    [
+      "FE1",
+      "S1"
+    ],
+    [
+      "FE1",
+      "S2"
+    ],
+    [
+      "FE2",
+      "S1"
+    ],
+    [
+      "FE2",
+      "S2"
+    ]
+  ],
+  "ligands": [
+    {
+      "resname": "C1E",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C1E.lib"
+    },
+    {
+      "resname": "C2E",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C2E.lib"
+    },
+    {
+      "resname": "H1E",
+      "kind": "HIS",
+      "donor": "ND1",
+      "fe": "FE2",
+      "lib": "H1E.lib"
+    },
+    {
+      "resname": "H2E",
+      "kind": "HIS",
+      "donor": "ND1",
+      "fe": "FE2",
+      "lib": "H2E.lib"
+    }
+  ],
+  "atom_types": {
+    "R1": "Fe",
+    "R2": "S"
+  },
+  "type_renaming": {
+    "FE": "R1",
+    "Sb": "R2"
+  },
+  "source": "Dawson et al., PLoS One 2016, doi:10.1371/journal.pone.0162031",
+  "derived_with": {
+    "protein_ff": "ff99SB",
+    "water": "TIP3P",
+    "fe_vdw": "Giammona heme Fe (1.20, 0.05)"
+  },
+  "ca_type": "CT",
+  "charge_adjustment_core": 1e-05,
+  "note": "Rieske. Hand-fitted set with own torsions; Cys/His keep ff99SB-style CA type CT."
+}

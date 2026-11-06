@@ -1,0 +1,172 @@
+{
+  "structure": "2y0f",
+  "input": "/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/example/inputs/2y0f.pdb",
+  "status": "prepared",
+  "warnings": [
+    "chain A: unmodelled residues in the PDB (3 N-terminal); terminal ones are left out, internal gaps become chain breaks",
+    "chain B: unmodelled residues in the PDB (3 N-terminal, 9 internal); terminal ones are left out, internal gaps become chain breaks",
+    "chain C: unmodelled residues in the PDB (3 N-terminal, 11 internal); terminal ones are left out, internal gaps become chain breaks",
+    "chain D: unmodelled residues in the PDB (3 N-terminal, 10 internal); terminal ones are left out, internal gaps become chain breaks",
+    "10 residues have unmodelled atoms in the PDB; tleap rebuilds them from templates",
+    "chain break between GLY B:114 and GLU B:124 (both ends become charged termini)",
+    "chain break between LEU C:116 and HIE C:125 (both ends become charged termini)",
+    "chain break between PRO C:265 and GLU C:269 (both ends become charged termini)",
+    "chain break between PRO D:113 and GLU D:124 (both ends become charged termini)",
+    "cluster SF4 A:501: extra protein ligand(s) GLU350:OE1->FE2 (2.11 A) -> kept NON-bonded (only van der Waals/electrostatics with the cluster)",
+    "cluster SF4 B:501: extra protein ligand(s) GLU350:OE1->FE4 (2.12 A) -> kept NON-bonded (only van der Waals/electrostatics with the cluster)",
+    "cluster SF4 C:501: extra protein ligand(s) GLU350:OE1->FE4 (1.94 A) -> kept NON-bonded (only van der Waals/electrostatics with the cluster)",
+    "cluster SF4 D:501: extra protein ligand(s) GLU350:OE1->FE4 (2.19 A), GLU350:OE2->FE4 (2.16 A) -> kept NON-bonded (only van der Waals/electrostatics with the cluster)"
+  ],
+  "clusters": [
+    {
+      "cluster": "SF4",
+      "chain": "A",
+      "resseq": "501",
+      "environment": "4Fe4S_3Cys",
+      "set": "4Fe4S_twoplus_3Cys",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE4",
+        "FE3": "FE2",
+        "FE4": "FE3",
+        "S1": "S1",
+        "S2": "S4",
+        "S3": "S2",
+        "S4": "S3"
+      },
+      "ligands": [
+        "CYS343(A)->C2O:SG-FE1",
+        "CYS300(A)->C1O:SG-FE2",
+        "CYS297(A)->C3O:SG-FE3"
+      ]
+    },
+    {
+      "cluster": "SF4",
+      "chain": "B",
+      "resseq": "501",
+      "environment": "4Fe4S_3Cys",
+      "set": "4Fe4S_twoplus_3Cys",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "FE3": "FE3",
+        "FE4": "FE4",
+        "S1": "S1",
+        "S2": "S2",
+        "S3": "S3",
+        "S4": "S4"
+      },
+      "ligands": [
+        "CYS343(B)->C2O:SG-FE1",
+        "CYS300(B)->C1O:SG-FE2",
+        "CYS297(B)->C3O:SG-FE3"
+      ]
+    },
+    {
+      "cluster": "SF4",
+      "chain": "C",
+      "resseq": "501",
+      "environment": "4Fe4S_3Cys",
+      "set": "4Fe4S_twoplus_3Cys",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "FE3": "FE3",
+        "FE4": "FE4",
+        "S1": "S1",
+        "S2": "S2",
+        "S3": "S3",
+        "S4": "S4"
+      },
+      "ligands": [
+        "CYS343(C)->C2O:SG-FE1",
+        "CYS300(C)->C1O:SG-FE2",
+        "CYS297(C)->C3O:SG-FE3"
+      ]
+    },
+    {
+      "cluster": "SF4",
+      "chain": "D",
+      "resseq": "501",
+      "environment": "4Fe4S_3Cys",
+      "set": "4Fe4S_twoplus_3Cys",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "FE3": "FE3",
+        "FE4": "FE4",
+        "S1": "S1",
+        "S2": "S2",
+        "S3": "S3",
+        "S4": "S4"
+      },
+      "ligands": [
+        "CYS297(D)->C2O:SG-FE1",
+        "CYS343(D)->C1O:SG-FE2",
+        "CYS300(D)->C3O:SG-FE3"
+      ]
+    }
+  ],
+  "missing_residues": {
+    "A": {
+      "n_term": 3,
+      "internal": 0,
+      "c_term": 0,
+      "internal_residues": []
+    },
+    "B": {
+      "n_term": 3,
+      "internal": 9,
+      "c_term": 0,
+      "internal_residues": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123
+      ]
+    },
+    "C": {
+      "n_term": 3,
+      "internal": 11,
+      "c_term": 0,
+      "internal_residues": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        266,
+        267,
+        268
+      ]
+    },
+    "D": {
+      "n_term": 3,
+      "internal": 10,
+      "c_term": 0,
+      "internal_residues": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123
+      ]
+    }
+  },
+  "residues_with_missing_atoms": 10,
+  "natoms": 249300,
+  "net_charge": 0.0003
+}

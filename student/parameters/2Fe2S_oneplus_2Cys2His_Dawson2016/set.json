@@ -1,0 +1,97 @@
+{
+  "name": "2Fe2S_oneplus_2Cys2His_Dawson2016",
+  "environment": "2Fe2S_2Cys2His",
+  "cluster": "2Fe2S",
+  "charge_state": "1+",
+  "total_charge": -1.0,
+  "core_resname": "FSF",
+  "core_mol2": "FSF_core.mol2",
+  "frcmod": "FeS_oneplus.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "D1"
+    },
+    {
+      "name": "S1",
+      "element": "S",
+      "type": "D2"
+    },
+    {
+      "name": "S2",
+      "element": "S",
+      "type": "D2"
+    },
+    {
+      "name": "FE2",
+      "element": "Fe",
+      "type": "D1"
+    }
+  ],
+  "core_bonds": [
+    [
+      "FE1",
+      "S1"
+    ],
+    [
+      "FE1",
+      "S2"
+    ],
+    [
+      "FE2",
+      "S1"
+    ],
+    [
+      "FE2",
+      "S2"
+    ]
+  ],
+  "ligands": [
+    {
+      "resname": "C1F",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C1F.lib"
+    },
+    {
+      "resname": "C2F",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C2F.lib"
+    },
+    {
+      "resname": "H1F",
+      "kind": "HIS",
+      "donor": "ND1",
+      "fe": "FE2",
+      "lib": "H1F.lib"
+    },
+    {
+      "resname": "H2F",
+      "kind": "HIS",
+      "donor": "ND1",
+      "fe": "FE2",
+      "lib": "H2F.lib"
+    }
+  ],
+  "atom_types": {
+    "D1": "Fe",
+    "D2": "S"
+  },
+  "type_renaming": {
+    "FE": "D1",
+    "Sb": "D2"
+  },
+  "source": "Dawson et al., PLoS One 2016, doi:10.1371/journal.pone.0162031",
+  "derived_with": {
+    "protein_ff": "ff99SB",
+    "water": "TIP3P",
+    "fe_vdw": "Giammona heme Fe (1.20, 0.05)"
+  },
+  "ca_type": "CT",
+  "charge_adjustment_core": -1e-05,
+  "note": "Rieske, reduced (FE2, His side, is Fe(II))."
+}

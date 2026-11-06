@@ -1,0 +1,41 @@
+{
+  "structure": "1rie",
+  "input": "/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/example/inputs/1rie.pdb",
+  "status": "prepared",
+  "warnings": [
+    "chain A: unmodelled residues in the PDB (2 N-terminal); terminal ones are left out, internal gaps become chain breaks",
+    "disulfide A:144-A:160"
+  ],
+  "clusters": [
+    {
+      "cluster": "FES",
+      "chain": "A",
+      "resseq": "200",
+      "environment": "2Fe2S_2Cys2His",
+      "set": "2Fe2S_twoplus_2Cys2His_Dawson2016",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "S1": "S1",
+        "S2": "S2"
+      },
+      "ligands": [
+        "CYS139(A)->C1E:SG-FE1",
+        "CYS158(A)->C2E:SG-FE1",
+        "HIE141(A)->H1E:ND1-FE2",
+        "HIE161(A)->H2E:ND1-FE2"
+      ]
+    }
+  ],
+  "missing_residues": {
+    "A": {
+      "n_term": 2,
+      "internal": 0,
+      "c_term": 0,
+      "internal_residues": []
+    }
+  },
+  "residues_with_missing_atoms": 0,
+  "natoms": 27516,
+  "net_charge": 0.0
+}

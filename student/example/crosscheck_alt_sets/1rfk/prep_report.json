@@ -1,0 +1,50 @@
+{
+  "structure": "1rfk",
+  "input": "/mnt/c/Users/Stefan Loonen/OneDrive - Delft University of Technology/Desktop/PhD/Students/Current/Aliya/FeS_parameters/student/example/inputs/1rfk.pdb",
+  "status": "prepared",
+  "warnings": [
+    "chain break between ASN A:9 and GLY A:13 (both ends become charged termini)"
+  ],
+  "clusters": [
+    {
+      "cluster": "FES",
+      "chain": "A",
+      "resseq": "100",
+      "environment": "2Fe2S_4Cys",
+      "set": "2Fe2S_twoplus_4Cys_Carvalho2013",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "S1": "S1",
+        "S2": "S2"
+      },
+      "ligands": [
+        "CYS41(A)->C1B:SG-FE1",
+        "CYS46(A)->C2B:SG-FE1",
+        "CYS49(A)->C3B:SG-FE2",
+        "CYS79(A)->C4B:SG-FE2"
+      ]
+    },
+    {
+      "cluster": "FES",
+      "chain": "B",
+      "resseq": "300",
+      "environment": "2Fe2S_4Cys",
+      "set": "2Fe2S_twoplus_4Cys_Carvalho2013",
+      "mapping": {
+        "FE1": "FE1",
+        "FE2": "FE2",
+        "S1": "S1",
+        "S2": "S2"
+      },
+      "ligands": [
+        "CYS241(B)->C1B:SG-FE1",
+        "CYS246(B)->C2B:SG-FE1",
+        "CYS249(B)->C3B:SG-FE2",
+        "CYS279(B)->C4B:SG-FE2"
+      ]
+    }
+  ],
+  "natoms": 39810,
+  "net_charge": 0.0001
+}

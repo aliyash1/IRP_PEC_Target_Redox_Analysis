@@ -1,0 +1,19 @@
+@<TRIPOS>MOLECULE
+FSE
+     4     4     1     0     0 
+SMALL
+RESP
+
+
+@<TRIPOS>ATOM
+       1 FE1            15.7040   12.1310   50.3710 R1         1 FSE       0.719633
+       2 S1             14.7880   12.8610   52.3500 R2         1 FSE      -0.573147
+       3 S2             13.8910   11.2850   49.0970 R2         1 FSE      -0.573148
+       4 FE2            13.0530   12.0770   51.1590 R1         1 FSE       0.866592
+@<TRIPOS>BOND
+     1     1     2 1
+     2     1     3 1
+     3     4     2 1
+     4     4     3 1
+@<TRIPOS>SUBSTRUCTURE
+     1 FSE         1 TEMP              0 ****  ****    0 ROOT

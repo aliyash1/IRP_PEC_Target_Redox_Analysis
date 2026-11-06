@@ -1,0 +1,169 @@
+{
+  "name": "4Fe4S_oneplus_4Cys_CarvalhoSwart2014",
+  "environment": "4Fe4S_4Cys",
+  "cluster": "4Fe4S",
+  "charge_state": "1+",
+  "total_charge": -3.0,
+  "core_resname": "FSK",
+  "core_mol2": "FSK_core.mol2",
+  "frcmod": "FeS_oneplus.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "91"
+    },
+    {
+      "name": "FE2",
+      "element": "Fe",
+      "type": "92"
+    },
+    {
+      "name": "FE3",
+      "element": "Fe",
+      "type": "93"
+    },
+    {
+      "name": "FE4",
+      "element": "Fe",
+      "type": "94"
+    },
+    {
+      "name": "S1",
+      "element": "S",
+      "type": "99"
+    },
+    {
+      "name": "S2",
+      "element": "S",
+      "type": "9a"
+    },
+    {
+      "name": "S3",
+      "element": "S",
+      "type": "9b"
+    },
+    {
+      "name": "S4",
+      "element": "S",
+      "type": "9c"
+    }
+  ],
+  "core_bonds": [
+    [
+      "FE1",
+      "S2"
+    ],
+    [
+      "FE1",
+      "S3"
+    ],
+    [
+      "FE1",
+      "S4"
+    ],
+    [
+      "FE2",
+      "S1"
+    ],
+    [
+      "FE2",
+      "S3"
+    ],
+    [
+      "FE2",
+      "S4"
+    ],
+    [
+      "FE3",
+      "S1"
+    ],
+    [
+      "FE3",
+      "S2"
+    ],
+    [
+      "FE3",
+      "S4"
+    ],
+    [
+      "FE4",
+      "S1"
+    ],
+    [
+      "FE4",
+      "S2"
+    ],
+    [
+      "FE4",
+      "S3"
+    ]
+  ],
+  "ligands": [
+    {
+      "resname": "C1K",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C1K.lib"
+    },
+    {
+      "resname": "C2K",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE2",
+      "lib": "C2K.lib"
+    },
+    {
+      "resname": "C3K",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE3",
+      "lib": "C3K.lib"
+    },
+    {
+      "resname": "C4K",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE4",
+      "lib": "C4K.lib"
+    }
+  ],
+  "atom_types": {
+    "91": "Fe",
+    "92": "Fe",
+    "93": "Fe",
+    "94": "Fe",
+    "95": "S",
+    "96": "S",
+    "97": "S",
+    "98": "S",
+    "99": "S",
+    "9a": "S",
+    "9b": "S",
+    "9c": "S"
+  },
+  "type_renaming": {
+    "M1": "91",
+    "M2": "92",
+    "M3": "93",
+    "M4": "94",
+    "Y1": "95",
+    "Y2": "96",
+    "Y3": "97",
+    "Y4": "98",
+    "Y5": "99",
+    "Y6": "9a",
+    "Y7": "9b",
+    "Y8": "9c"
+  },
+  "source": "Carvalho & Swart, JCIM 2014, doi:10.1021/ci400718m",
+  "derived_with": {
+    "protein_ff": "ff99SB",
+    "water": "not stated",
+    "fe_vdw": "UFF (via Bryce database implementation)"
+  },
+  "ca_type": "XC",
+  "charge_adjustment_core": 0.0,
+  "note": "Type mapping inferred (see set README)."
+}

@@ -1,0 +1,14 @@
+; Energy minimisation (steepest descent) of a solvated system - same settings as the IspG-FldA project
+integrator      = steep
+emtol           = 1000.0        ; stop when the maximum force < 1000 kJ/mol/nm
+emstep          = 0.01          ; initial step size (nm)
+nsteps          = 50000         ; maximum number of steps
+
+nstlist         = 1
+cutoff-scheme   = Verlet
+coulombtype     = PME
+rcoulomb        = 1.0
+rvdw            = 1.0
+pbc             = xyz
+constraints     = none
+nstenergy       = 100

@@ -1,0 +1,69 @@
+Carvalho, Teixeira, Ramos, J. Comput. Chem. 2013, 34, 1540 (Table 1, Fig. 3) - rubredoxin Fe(III)(Cys)4
+MASS
+L1 55.85                             Fe ion
+L2 32.06        2.900                S
+L3 32.06        2.900                S
+L4 32.06        2.900                S
+L5 32.06        2.900                S
+ 
+BOND
+CT-L2  237.00   1.8100      ff default (as MCPB.py): changed from 222.0 based on methanethiol nmodes
+CT-L3  237.00   1.8100      ff default (as MCPB.py): changed from 222.0 based on methanethiol nmodes
+CT-L4  237.00   1.8100      ff default (as MCPB.py): changed from 222.0 based on methanethiol nmodes
+CT-L5  237.00   1.8100      ff default (as MCPB.py): changed from 222.0 based on methanethiol nmodes
+L1-L2   80.80   2.3000      Carvalho2013 Table 1 FE-SF (r0 given as 2.3)
+L1-L3   80.80   2.3000      Carvalho2013 Table 1 FE-SF (r0 given as 2.3)
+L1-L4   80.80   2.3000      Carvalho2013 Table 1 FE-SF (r0 given as 2.3)
+L1-L5   80.80   2.3000      Carvalho2013 Table 1 FE-SF (r0 given as 2.3)
+ 
+ANGL
+CT-L2-L1    27.60     101.00    Carvalho2013 Table 1 "C-FE-SF" read as CT-SF-FE (see README)
+CT-L3-L1    27.60     101.00    Carvalho2013 Table 1 "C-FE-SF" read as CT-SF-FE (see README)
+CT-L4-L1    27.60     101.00    Carvalho2013 Table 1 "C-FE-SF" read as CT-SF-FE (see README)
+CT-L5-L1    27.60     101.00    Carvalho2013 Table 1 "C-FE-SF" read as CT-SF-FE (see README)
+H1-CT-L2    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-L3    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-L4    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+H1-CT-L5    50.00     109.50    ff default (as MCPB.py): AA cyx changed based on NMA nmodes
+XC-CT-L2    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-L3    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-L4    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+XC-CT-L5    50.00     108.60    ff default (as MCPB.py): AA cys (was CT-CT-SH)
+L2-L1-L3    33.20     110.00    Carvalho2013 Table 1 SF-FE-SF
+L2-L1-L4    33.20     110.00    Carvalho2013 Table 1 SF-FE-SF
+L2-L1-L5    33.20     110.00    Carvalho2013 Table 1 SF-FE-SF
+L3-L1-L4    33.20     110.00    Carvalho2013 Table 1 SF-FE-SF
+L3-L1-L5    33.20     110.00    Carvalho2013 Table 1 SF-FE-SF
+L4-L1-L5    33.20     110.00    Carvalho2013 Table 1 SF-FE-SF
+ 
+DIHE
+CT-L2-L1-L3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L2-L1-L4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L2-L1-L5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L3-L1-L2    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L3-L1-L4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L3-L1-L5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L4-L1-L2    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L4-L1-L3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L4-L1-L5    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L5-L1-L2    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L5-L1-L3    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+CT-L5-L1-L4    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-L2-L1    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-L3-L1    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-L4-L1    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+H1-CT-L5-L1    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+L1-L2-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+L1-L3-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+L1-L4-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+L1-L5-CT-XC    3     0.00     0.00   3.0    Treat as zero (no torsion parameters in source)
+ 
+IMPR
+ 
+NONB
+  L1          1.2000  0.0500000000       Fe(III), Giammona PhD thesis 1984 (ref. 30 of the paper)
+  L2          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+  L3          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+  L4          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+  L5          2.0000  0.2500000000       ff99SB S/SH (paper does not list S vdW)
+

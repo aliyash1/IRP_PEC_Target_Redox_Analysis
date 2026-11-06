@@ -1,0 +1,107 @@
+{
+  "name": "2Fe2S_oneplus_3Cys1His_Zuo2021",
+  "environment": "2Fe2S_3Cys1His",
+  "cluster": "2Fe2S",
+  "charge_state": "1+",
+  "total_charge": -2.0,
+  "core_resname": "FSG",
+  "core_mol2": "FSG_core.mol2",
+  "frcmod": "FeS_oneplus.frcmod",
+  "core_atoms": [
+    {
+      "name": "FE1",
+      "element": "Fe",
+      "type": "E1"
+    },
+    {
+      "name": "FE2",
+      "element": "Fe",
+      "type": "E2"
+    },
+    {
+      "name": "S1",
+      "element": "S",
+      "type": "E6"
+    },
+    {
+      "name": "S2",
+      "element": "S",
+      "type": "E7"
+    }
+  ],
+  "core_bonds": [
+    [
+      "FE1",
+      "S1"
+    ],
+    [
+      "FE1",
+      "S2"
+    ],
+    [
+      "FE2",
+      "S1"
+    ],
+    [
+      "FE2",
+      "S2"
+    ]
+  ],
+  "ligands": [
+    {
+      "resname": "C1G",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C1G.lib"
+    },
+    {
+      "resname": "C2G",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE1",
+      "lib": "C2G.lib"
+    },
+    {
+      "resname": "C3G",
+      "kind": "CYS",
+      "donor": "SG",
+      "fe": "FE2",
+      "lib": "C3G.lib"
+    },
+    {
+      "resname": "H1G",
+      "kind": "HIS",
+      "donor": "ND1",
+      "fe": "FE2",
+      "lib": "H1G.lib"
+    }
+  ],
+  "atom_types": {
+    "E1": "Fe",
+    "E2": "Fe",
+    "E3": "S",
+    "E4": "S",
+    "E5": "S",
+    "E6": "S",
+    "E7": "S"
+  },
+  "type_renaming": {
+    "M1": "E1",
+    "M2": "E2",
+    "Y1": "E3",
+    "Y2": "E4",
+    "Y3": "E5",
+    "Y5": "E6",
+    "Y6": "E7"
+  },
+  "source": "Zuo et al., JBIC 2021, doi:10.1007/s00775-021-01890-8",
+  "derived_with": {
+    "protein_ff": "AMBER99SB-ILDN (GROMACS)",
+    "water": "TIP3P",
+    "fe_vdw": "Li/Merz IOD Fe3+/Fe2+ for TIP3P"
+  },
+  "ca_type": "XC",
+  "charge_adjustment_core": 0.0002,
+  "note": "mitoNEET-type, reduced only."
+}
